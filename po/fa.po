@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Comprehensive Rust 🦀\n"
 "POT-Creation-Date: 2023-08-23\n"
-"PO-Revision-Date: 2023-08-08 21:41+0330\n"
-"Last-Translator: danny <danykhosravi@gmail.com>\n"
-"Language-Team: Persian\n"
+"PO-Revision-Date: 2023-12-02 21:15+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Persian <https://hosted.weblate.org/projects/"
+"comprehensive-rust-translation/translation/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Weblate 5.3-dev\n"
 
 #: src/SUMMARY.md:4 src/index.md:1
 msgid "Welcome to Comprehensive Rust 🦀"
@@ -1142,8 +1143,8 @@ msgid ""
 "Rust is a large language and we won't be able to cover all of it in a few "
 "days. Some non-goals of this course are:"
 msgstr ""
-"زبان Rust, یک زبان بزرگ است و ما نمی‌توانیم طی چند روز همه موارد را پوشش دهیم."
-"چندتا از اهداف خارج از این دوره عبارتند از:"
+"زبان Rust, یک زبان بزرگ است و ما نمی‌توانیم طی چند روز همه موارد را پوشش "
+"دهیم.چندتا از اهداف خارج از این دوره عبارتند از:"
 
 #: src/index.md:42
 msgid ""
@@ -1151,9 +1152,9 @@ msgid ""
 "(https://doc.rust-lang.org/book/ch19-06-macros.html) and [Rust by Example]"
 "(https://doc.rust-lang.org/rust-by-example/macros.html) instead."
 msgstr ""
-"برای آموزش چگونه‌گی توسعه Macro ها: لطفا [Chapter 19.5 in the Rust Book]"
-"(https://doc.rust-lang.org/book/ch19-06-macros.html) و [Rust by Example]"
-"(https://doc.rust-lang.org/rust-by-example/macros.html) را ببینید."
+"برای آموزش چگونه‌گی توسعه Macro ها: لطفا [Chapter 19.5 in the Rust "
+"Book](https://doc.rust-lang.org/book/ch19-06-macros.html) و [Rust by "
+"Example](https://doc.rust-lang.org/rust-by-example/macros.html) را ببینید."
 
 #: src/index.md:46
 msgid "Assumptions"
@@ -1241,9 +1242,9 @@ msgid ""
 "helps them process all the information we give them."
 msgstr ""
 "در مورد زمان‌بندی دوره تصمیم بگیرید. از آنجایی که دوره حداقل سه روز کامل طول "
-"می‌کشد، توصیه می‌کنیم که دوره را در دو هفته برنامه‌ریزی کنید. شرکت کنندگان در "
-"دوره گفته‌اند که داشتن فاصله‌ای در دوره مفید است، زیرا به آنها کمک می‌کند تا "
-"تمام اطلاعاتی را که به آنها می‌دهیم پردازش کنند. "
+"می‌کشد، توصیه می‌کنیم که دوره را در دو هفته برنامه‌ریزی کنید. شرکت کنندگان "
+"در دوره گفته‌اند که داشتن فاصله‌ای در دوره مفید است، زیرا به آنها کمک می‌کند "
+"تا تمام اطلاعاتی را که به آنها می‌دهیم پردازش کنند. "
 
 #: src/running-the-course.md:29
 msgid ""
@@ -1256,8 +1257,8 @@ msgid ""
 "instructor, so a lectern won't be very helpful for you."
 msgstr ""
 "یک اتاق بزرگ برای حضور شرکت کنندگان پیدا کنید. ما کلاسی با گنجایش ۱۵ الی ۲۵ "
-"نفر را پیشنهاد می‌کنیم. افراد در این تعداد می‌توانند به راحتی سوال بپرسند --- "
-"همچنین مدرس وقت کافی برای پاسخ‌ دادن به سوالات را نیز دارد. مطمئن شوید که "
+"نفر را پیشنهاد می‌کنیم. افراد در این تعداد می‌توانند به راحتی سوال بپرسند ---"
+" همچنین مدرس وقت کافی برای پاسخ‌ دادن به سوالات را نیز دارد. مطمئن شوید که "
 "اتاق مورد نظر  _میز_ برای شما و دانشجویان دارد: شما همگی نیاز دارید که "
 "بتونید بشنید و با لپتاپ های خود کار کنید. به خصوص شما به عنوان مدرس کلی live-"
 "coding انجام خواهید داد پس صرفا یک میز بدون جا برای لپتاپ برای شما مناسب "
@@ -1273,9 +1274,9 @@ msgid ""
 "you or the course participants spot them."
 msgstr ""
 "در روز برگزاری دوره، کمی زودتر به کلاس بیایید تا همه چیز را آماده کنید. ما "
-"توصیه می کنیم مستقیماً با استفاده از `mdbook serve`را در لپتاپ خود اجرا کنید. "
-"([راهنمای نصب](https://github.com/google/comprehensive-rust#building) را "
-"ببنیید). با این کار عملکرد بدون تاخیر در هنگام تغییر صفحات تضمین می شود. "
+"توصیه می کنیم مستقیماً با استفاده از `mdbook serve`را در لپتاپ خود اجرا "
+"کنید. ([راهنمای نصب](https://github.com/google/comprehensive-rust#building) "
+"را ببنیید). با این کار عملکرد بدون تاخیر در هنگام تغییر صفحات تضمین می شود. "
 "استفاده از لپ تاپ همچنین به شما امکان می دهد اشتباهات تایپی ا در صورت مشاهده "
 "شما یا شرکت کنندگان در دوره اصلاح کنید."
 
@@ -1290,11 +1291,11 @@ msgid ""
 "information in the standard library."
 msgstr ""
 "بگذارید افراد خودشان یا در گروه های کوچک تمرینات را حل کنند. مابه طور معمول "
-"۳۰ الی ۴۵ دقیقه را برای تمرینات در صبح و بعد‌از‌ظهر (از جمله زمان بررسی راه حل "
-"ها ) صرف می‌کنیم. حتما از افراد بخواهید که اگر گیر کرده‌اند یا چیزی وجود دارد "
-"که می‌توانید به آنها کمک کنید. وقتی که می‌بینید چندین نفر مشکل یکسانی دارند, "
-"خطاب به کلاس راه‌حل را پیشنهاد دهید؛ به عنوان مثال، با نشان دادن جایی که "
-"می‌توانند اطلاعات مربوطه را در کتابخانه استاندارد (standard library) پیدا "
+"۳۰ الی ۴۵ دقیقه را برای تمرینات در صبح و بعد‌از‌ظهر (از جمله زمان بررسی راه "
+"حل ها ) صرف می‌کنیم. حتما از افراد بخواهید که اگر گیر کرده‌اند یا چیزی وجود "
+"دارد که می‌توانید به آنها کمک کنید. وقتی که می‌بینید چندین نفر مشکل یکسانی "
+"دارند, خطاب به کلاس راه‌حل را پیشنهاد دهید؛ به عنوان مثال، با نشان دادن جایی "
+"که می‌توانند اطلاعات مربوطه را در کتابخانه استاندارد (standard library) پیدا "
 "کنند."
 
 #: src/running-the-course.md:51
@@ -1313,11 +1314,11 @@ msgid ""
 "Your students are also very welcome to [send us feedback](https://github.com/"
 "google/comprehensive-rust/discussions/100)!"
 msgstr ""
-"لطفاً [بازخورد خود را ارائه دهید](https://github.com/google/comprehensive-"
-"rust/discussions/86) تا در آینده بتوانیم به بهبود دوره ادامه دهیم. ما دوست "
-"داریم بشنویم چه چیزی برای شما خوب بوده و چه چیزی می تواند بهتر شود. همینطور "
-"شما دانش‌آموزان نیز بسیار خوش آمدید  [برای ما بازخورد ارسال کنید](https://"
-"github.com/google/comprehensive-rust/discussions/100) !"
+"لطفاً [بازخورد خود را ارائه دهید](https://github.com/google/"
+"comprehensive-rust/discussions/86) تا در آینده بتوانیم به بهبود دوره ادامه "
+"دهیم. ما دوست داریم بشنویم چه چیزی برای شما خوب بوده و چه چیزی می تواند بهتر "
+"شود. همینطور شما دانش‌آموزان نیز بسیار خوش آمدید  [برای ما بازخورد ارسال "
+"کنید](https://github.com/google/comprehensive-rust/discussions/100) !"
 
 #: src/running-the-course/course-structure.md:5
 msgid "Rust Fundamentals"
@@ -1368,8 +1369,8 @@ msgid ""
 "C, C++, and Java."
 msgstr ""
 "در [Rust در اندروید](../android.md) توی دوره  یک دوره نیم روزه در مورد "
-"استفاده از  Rust برای توسعه پلتفرم اندروید عمیق می‌شیم. این شامل قابلیت تعامل "
-"با C، <span dir=ltr>C++</span> و جاوا می‌شود."
+"استفاده از  Rust برای توسعه پلتفرم اندروید عمیق می‌شیم. این شامل قابلیت "
+"تعامل با C، <span dir=ltr>C++</span> و جاوا می‌شود."
 
 #: src/running-the-course/course-structure.md:25
 msgid ""
@@ -1380,10 +1381,10 @@ msgid ""
 "that the Android build system sees the `Android.bp` files in `src/android/`."
 msgstr ""
 "شما نیاز دارید که یک نسخه از [مخزن ASOP](https://source.android.com/docs/"
-"setup/download/downloading) بگیرید, همچنین یک نسخه از [مخزن دوره](https://"
-"github.com/google/comprehensive-rust) بگیرید و روی همون ماشین در مسیر `src/"
-"android/`مخزن ASOP قرار دهید. با این کار طمینان حاصل می‌کنید که سیستم build "
-"اندروید فایل های `Android.bp` را در `src/android/` می‌بینید."
+"setup/download/downloading) بگیرید, همچنین یک نسخه از [مخزن "
+"دوره](https://github.com/google/comprehensive-rust) بگیرید و روی همون ماشین "
+"در مسیر `src/android/`مخزن ASOP قرار دهید. با این کار طمینان حاصل می‌کنید که "
+"سیستم build اندروید فایل های `Android.bp` را در `src/android/` می‌بینید."
 
 #: src/running-the-course/course-structure.md:30
 msgid ""
@@ -1391,10 +1392,10 @@ msgid ""
 "all Android examples using `src/android/build_all.sh`. Read the script to "
 "see the commands it runs and make sure they work when you run them by hand."
 msgstr ""
-"اطمینان حاصل کنید که `adb sync` با شبیه‌ساز یا دستگاه واقعی شما کار می‌کند  و "
-"همه نمونه‌های Android را با استفاده از `src/android/build_all.sh` از قبل "
-"بسازید.  اسکریپت را بخوانید تا دستوراتی را که اجرا می‌کند ببینید و مطمئن شوید "
-"که وقتی آنها را  اجرا می‌کنید به درستی کار می‌کنند."
+"اطمینان حاصل کنید که `adb sync` با شبیه‌ساز یا دستگاه واقعی شما کار می‌کند  "
+"و همه نمونه‌های Android را با استفاده از `src/android/build_all.sh` از قبل "
+"بسازید.  اسکریپت را بخوانید تا دستوراتی را که اجرا می‌کند ببینید و مطمئن "
+"شوید که وقتی آنها را  اجرا می‌کنید به درستی کار می‌کنند."
 
 #: src/running-the-course/course-structure.md:37
 msgid "Bare-Metal Rust"
@@ -1419,8 +1420,8 @@ msgid ""
 "bare-metal.md)."
 msgstr ""
 "برای قسمت میکروکنترلر، باید برد توسعه [BBCmicro:bit](https://microbit.org/)  "
-"v2 را   خریداری کنید. همه باید تعدادی بسته را همانطور که در [welcome page]"
-"(../bare-metal.md) توضیح داده شده نصب کنند."
+"v2 را   خریداری کنید. همه باید تعدادی بسته را همانطور که در [welcome page"
+"](../bare-metal.md) توضیح داده شده نصب کنند."
 
 #: src/running-the-course/course-structure.md:48
 msgid "Concurrency in Rust"
@@ -1538,9 +1539,9 @@ msgid ""
 msgstr ""
 "[چینی (سنتی)](https://google.github.io/comprehensive-rust/zh-TW/) توسط "
 "[@hueich](https://github.com/hueich), [@victorhsieh](https://github.com/"
-"victorhsieh), [@mingyc](https://github.com/mingyc), [@kuanhungchen](https://"
-"github.com/kuanhungchen) و [@johnathan79717](https://github.com/"
-"johnathan79717)."
+"victorhsieh), [@mingyc](https://github.com/mingyc), "
+"[@kuanhungchen](https://github.com/kuanhungchen) و "
+"[@johnathan79717](https://github.com/johnathan79717)."
 
 #: src/running-the-course/translations.md:9
 msgid ""
@@ -1548,23 +1549,24 @@ msgid ""
 "(https://github.com/keispace), [@jiyongp](https://github.com/jiyongp), and "
 "[@jooyunghan](https://github.com/jooyunghan)."
 msgstr ""
-"[کره ای](https://google.github.io/comprehensive-rust/ko/) توسط [@keispace]"
-"(https://github.com/keispace), [@jiyongp](https://github.com/jiyongp) و "
-"[@jooyunghan](https://github.com/jooyunghan)."
+"[کره ای](https://google.github.io/comprehensive-rust/ko/) توسط "
+"[@keispace](https://github.com/keispace), [@jiyongp](https://github.com/"
+"jiyongp) و [@jooyunghan](https://github.com/jooyunghan)."
 
 #: src/running-the-course/translations.md:10
 msgid ""
 "[Spanish](https://google.github.io/comprehensive-rust/es/) by [@deavid]"
 "(https://github.com/deavid)."
 msgstr ""
-"[Spanish](https://google.github.io/comprehensive-rust/es/) توسط [@deavid]"
-"(https://github.com/deavid)."
+"[Spanish](https://google.github.io/comprehensive-rust/es/) توسط "
+"[@deavid](https://github.com/deavid)."
 
 #: src/running-the-course/translations.md:12
 msgid ""
 "Use the language picker in the top-right corner to switch between languages."
 msgstr ""
-"از انتخابگر زبان در گوشه بالا سمت راست برای جابه‌جایی بین زبان‌ها استفاده کنید."
+"از انتخابگر زبان در گوشه بالا سمت راست برای جابه‌جایی بین زبان‌ها استفاده "
+"کنید."
 
 #: src/running-the-course/translations.md:14
 msgid "Incomplete Translations"
@@ -1583,24 +1585,25 @@ msgid ""
 "[Bengali](https://google.github.io/comprehensive-rust/bn/) by [@raselmandol]"
 "(https://github.com/raselmandol)."
 msgstr ""
-"[بنگالی](https://google.github.io/comprehensive-rust/bn/) توسط [@raselmandol]"
-"(https://github.com/raselmandol)."
+"[بنگالی](https://google.github.io/comprehensive-rust/bn/) توسط "
+"[@raselmandol](https://github.com/raselmandol)."
 
 #: src/running-the-course/translations.md:20
 msgid ""
 "[French](https://google.github.io/comprehensive-rust/fr/) by [@KookaS]"
 "(https://github.com/KookaS) and [@vcaen](https://github.com/vcaen)."
 msgstr ""
-"[فرانسویی](https://google.github.io/comprehensive-rust/fr/) توسط [@KookaS]"
-"(https://github.com/KookaS) و [@vcaen](https://github.com/vcaen)."
+"[فرانسویی](https://google.github.io/comprehensive-rust/fr/) توسط "
+"[@KookaS](https://github.com/KookaS) و [@vcaen](https://github.com/vcaen)."
 
 #: src/running-the-course/translations.md:21
 msgid ""
 "[German](https://google.github.io/comprehensive-rust/de/) by [@Throvn]"
 "(https://github.com/Throvn) and [@ronaldfw](https://github.com/ronaldfw)."
 msgstr ""
-"[آلمانی](https://google.github.io/comprehensive-rust/de/) توسط [@Throvn]"
-"(https://github.com/Throvn) و [@ronaldfw](https://github.com/ronaldfw)."
+"[آلمانی](https://google.github.io/comprehensive-rust/de/) توسط "
+"[@Throvn](https://github.com/Throvn) و [@ronaldfw](https://github.com/"
+"ronaldfw)."
 
 #: src/running-the-course/translations.md:22
 msgid ""
@@ -1608,8 +1611,8 @@ msgid ""
 "(https://github.com/CoinEZ) and [@momotaro1105](https://github.com/"
 "momotaro1105)."
 msgstr ""
-"[ژاپنی](https://google.github.io/comprehensive-rust/ja/) توسط [@CoinEZ-JPN]"
-"(https://github.com/CoinEZ) و [@momotaro1105](https://github.com/"
+"[ژاپنی](https://google.github.io/comprehensive-rust/ja/) توسط [@CoinEZ-"
+"JPN](https://github.com/CoinEZ) و [@momotaro1105](https://github.com/"
 "momotaro1105)."
 
 #: src/running-the-course/translations.md:24
@@ -1619,9 +1622,9 @@ msgid ""
 "get going. Translations are coordinated on the [issue tracker](https://"
 "github.com/google/comprehensive-rust/issues/282)."
 msgstr ""
-"اگر می‌خواهید به این کار کمک کنید، لطفاً [دستورالعمل‌های ما](https://github.com/"
-"google/comprehensive-rust/blob/main/TRANSLATIONS.md) را برای چگونگی ادامه "
-"کار ببینید. ترجمه ها در [issue tracker](https://github.com/google/"
+"اگر می‌خواهید به این کار کمک کنید، لطفاً [دستورالعمل‌های ما](https://github."
+"com/google/comprehensive-rust/blob/main/TRANSLATIONS.md) را برای چگونگی "
+"ادامه کار ببینید. ترجمه ها در [issue tracker](https://github.com/google/"
 "comprehensive-rust/issues/282) هماهنگ و کنترل می شوند."
 
 #: src/cargo.md:3
@@ -1635,8 +1638,8 @@ msgstr ""
 "وقتی شروع به خواندن درباره Rust می کنید، خیلی سریع با [Cargo](https://doc."
 "rust-lang.org/cargo/) ، ابزار استانداردی که در اکوسیستم Rust برای ساخت و "
 "اجرای برنامه های Rust استفاده می شود، آشنا خواهید شد. در اینجا می‌خواهیم یک "
-"مرور مختصر از در مورد کارگو و نحوه انطباق آن با اکوسیستم راست و برنامه‌های آن "
-"را در این آموزش ارائه دهیم."
+"مرور مختصر از در مورد کارگو و نحوه انطباق آن با اکوسیستم راست و برنامه‌های "
+"آن را در این آموزش ارائه دهیم."
 
 #: src/cargo.md:8
 msgid "Installation"
@@ -1669,10 +1672,10 @@ msgstr ""
 "پس از نصب Rust، باید ویرایشگر یا IDE خود را برای کار با Rust پیکربندی کنید. "
 "اکثر ویرایشگرها این کار را با ارتباط گرفتن با [rust-analyzer](https://rust-"
 "analyzer.github.io/) انجام می‌دهند، که قابلیت تکمیل خودکار و پرش به تعریف را "
-"برای [VS Code](https://code.visualstudio.com/)، [Emacs](https://rust-"
-"analyzer.github.io/manual.html#emacs)، [Vim/Neovim](https://rust-analyzer."
-"github.io/manual.html#vimneovim)  و بسیاری دیگر فراهم می کند. همچنین یک IDE "
-"متفاوت به نام [RustRover](https://www.jetbrains.com/rust/) در دسترس است."
+"برای [VS Code](https://code.visualstudio.com/)، [Emacs](https://rust-analyzer"
+".github.io/manual.html#emacs)، [Vim/Neovim](https://rust-analyzer.github.io/"
+"manual.html#vimneovim)  و بسیاری دیگر فراهم می کند. همچنین یک IDE متفاوت به "
+"نام [RustRover](https://www.jetbrains.com/rust/) در دسترس است."
 
 #: src/cargo.md:18
 msgid ""
@@ -1693,8 +1696,7 @@ msgstr "اکوسیستم رراست"
 #: src/cargo/rust-ecosystem.md:3
 msgid ""
 "The Rust ecosystem consists of a number of tools, of which the main ones are:"
-msgstr ""
-"اکوسیستم Rust از تعدادی ابزار تشکیل شده است که مهمترین آنها عبارتند از:"
+msgstr "اکوسیستم Rust از تعدادی ابزار تشکیل شده است که مهمترین آنها عبارتند از:"
 
 #: src/cargo/rust-ecosystem.md:5
 msgid ""
@@ -1724,11 +1726,12 @@ msgid ""
 "standard library. You can have multiple versions of Rust installed at once "
 "and `rustup` will let you switch between them as needed."
 msgstr ""
-"`rustup`: نصب‌کننده و به‌روزرسانی‌کننده toolchain مربوط به Rust است. این ابزار "
-"برای نصب و به‌روزرسانی `rustc` و `cargo` هنگام انتشار نسخه‌های جدید Rust "
-"استفاده می‌شود. علاوه بر این، `rustup`  می‌تواند مستندات کتابخانه استاندارد "
-"Rust  را دانلود کند. همچنین می‌توانید چندین نسخه Rust را به‌طور هم‌زمان نصب "
-"کنید و `rustup` به شما امکان می‌دهد در صورت نیاز بین آنها جابه‌جا شوید."
+"`rustup`: نصب‌کننده و به‌روزرسانی‌کننده toolchain مربوط به Rust است. این "
+"ابزار برای نصب و به‌روزرسانی `rustc` و `cargo` هنگام انتشار نسخه‌های جدید "
+"Rust استفاده می‌شود. علاوه بر این، `rustup`  می‌تواند مستندات کتابخانه "
+"استاندارد Rust  را دانلود کند. همچنین می‌توانید چندین نسخه Rust را به‌طور هم‌"
+"زمان نصب کنید و `rustup` به شما امکان می‌دهد در صورت نیاز بین آنها جابه‌جا "
+"شوید."
 
 #: src/cargo/rust-ecosystem.md:21 src/hello-world.md:25
 #: src/hello-world/small-example.md:27 src/why-rust/runtime.md:10
@@ -1770,8 +1773,8 @@ msgid ""
 "Dependencies can also be resolved from alternative [registries](https://doc."
 "rust-lang.org/cargo/reference/registries.html), git, folders, and more."
 msgstr ""
-"همچنین می‌توان وابستگی‌ها را از  [registries](https://doc.rust-lang.org/cargo/"
-"reference/registries.html)،  پوشه‌ها و git و موارد دیگر برطرف کرد."
+"همچنین می‌توان وابستگی‌ها را از  [registries](https://doc.rust-lang.org/"
+"cargo/reference/registries.html)،  پوشه‌ها و git و موارد دیگر برطرف کرد."
 
 #: src/cargo/rust-ecosystem.md:34
 msgid ""
@@ -1827,8 +1830,7 @@ msgstr "ساختار پروژه/بسته"
 
 #: src/cargo/rust-ecosystem.md:50
 msgid "[workspaces](https://doc.rust-lang.org/cargo/reference/workspaces.html)"
-msgstr ""
-"[workspaces](https://doc.rust-lang.org/cargo/reference/workspaces.html)"
+msgstr "[workspaces](https://doc.rust-lang.org/cargo/reference/workspaces.html)"
 
 #: src/cargo/rust-ecosystem.md:51
 msgid "Dev Dependencies and Runtime Dependency management/caching"
@@ -1855,8 +1857,8 @@ msgid ""
 "It is also extensible with sub command plugins as well (such as [cargo "
 "clippy](https://github.com/rust-lang/rust-clippy))."
 msgstr ""
-"همچنین با command plugin فرعی (مانند [cargo clippy](https://github.com/rust-"
-"lang/rust-clippy)) قابل توسعه است."
+"همچنین با command plugin فرعی (مانند [cargo clippy](https://github.com/"
+"rust-lang/rust-clippy)) قابل توسعه است."
 
 #: src/cargo/rust-ecosystem.md:55
 msgid ""
@@ -2026,8 +2028,8 @@ msgid ""
 "debug/` for a normal debug build. Use `cargo build --release` to produce an "
 "optimized release build in `target/release/`."
 msgstr ""
-"از `cargo check` برای بررسی سریع پروژه خود برای خطاها استفاده کنید، از "
-"`cargo build` برای کامپایل، بدون اجرای آن استفاده کنید. خروجی را در `target/"
+"از `cargo check` برای بررسی سریع پروژه خود برای خطاها استفاده کنید، از `"
+"cargo build` برای کامپایل، بدون اجرای آن استفاده کنید. خروجی را در `target/"
 "debug/` برای ساخت اشکال زدایی معمولی خواهید یافت. برای تولید نسخه بهینه سازی "
 "شده در `target/release/` از `cargo build --release` استفاده کنید."
 
@@ -2060,8 +2062,8 @@ msgid ""
 "This is the first day of Rust Fundamentals. We will cover a lot of ground "
 "today:"
 msgstr ""
-"این اولین روز از مبانی Rust است. ما امروز بخش‌های فابل توجه‌ای را پوشش خواهیم "
-"داد:"
+"این اولین روز از مبانی Rust است. ما امروز بخش‌های فابل توجه‌ای را پوشش "
+"خواهیم داد:"
 
 #: src/welcome-day-1.md:6
 msgid ""
@@ -2108,9 +2110,9 @@ msgid ""
 "communication."
 msgstr ""
 "به‌عنوان یک مربی، باید سعی کنید بحث‌ها را مرتبط نگه دارید، به عنوان مثال، "
-"بحث‌های مرتبط با نحوه انجام کارها توسط Rust در مقابل برخی زبان‌های دیگر را حفظ "
-"کنید. پیدا کردن تعادل مناسب می تواند سخت باشد، اما در مورد اجازه دادن به بحث "
-"اشتباه کنید، زیرا آنها بیشتر از ارتباط یک طرفه افراد را درگیر می کنند."
+"بحث‌های مرتبط با نحوه انجام کارها توسط Rust در مقابل برخی زبان‌های دیگر را "
+"حفظ کنید. پیدا کردن تعادل مناسب می تواند سخت باشد، اما در مورد اجازه دادن به "
+"بحث اشتباه کنید، زیرا آنها بیشتر از ارتباط یک طرفه افراد را درگیر می کنند."
 
 #: src/welcome-day-1.md:24
 msgid ""
@@ -2162,8 +2164,8 @@ msgid ""
 "You can of course adjust this as necessary. Please make sure to include "
 "breaks, we recommend a break every hour!"
 msgstr ""
-"البته می‌توانید این را بر‌حسب نیاز تنظیم کنید. لطفا مطمئن شوید که استراحت‌ها را "
-"نیز درنظر بگیرید، ما توصیه می‌کنیم هر ساعت یک استراحت داشته باشید!"
+"البته می‌توانید این را بر‌حسب نیاز تنظیم کنید. لطفا مطمئن شوید که استراحت‌ها "
+"را نیز درنظر بگیرید، ما توصیه می‌کنیم هر ساعت یک استراحت داشته باشید!"
 
 #: src/welcome-day-1/what-is-rust.md:3
 msgid ""
@@ -2307,9 +2309,9 @@ msgid ""
 "Rust is very much like other languages in the C/C++/Java tradition. It is "
 "imperative and it doesn't try to reinvent things unless absolutely necessary."
 msgstr ""
-"زبان Rust, زبان بسیار شبیه به سایر زبان‌های خانواده C/<span dir=ltr>C++</"
-"span>/Java است.یک زبان امری است (imperative) و سعی نمی‌کند چیزی را مگر اینکه "
-"کاملاً ضروری باشد، دوباره اختراع کند."
+"زبان Rust, زبان بسیار شبیه به سایر زبان‌های خانواده C/<span "
+"dir=ltr>C++</span>/Java است.یک زبان امری است (imperative) و سعی نمی‌کند چیزی "
+"را مگر اینکه کاملاً ضروری باشد، دوباره اختراع کند."
 
 #: src/hello-world.md:31
 msgid "Rust is modern with full support for things like Unicode."
@@ -2320,9 +2322,9 @@ msgid ""
 "Rust uses macros for situations where you want to have a variable number of "
 "arguments (no function [overloading](basic-syntax/functions-interlude.md))."
 msgstr ""
-"Rust از ماکروها برای موقعیت‌هایی استفاده می‌کند که می‌خواهید تعداد متغیری از  "
-"آرگومان‌ها داشته باشید (بدون [اورلودینگ](basic-syntax/functions-interlude.md) "
-"تابع)."
+"Rust از ماکروها برای موقعیت‌هایی استفاده می‌کند که می‌خواهید تعداد متغیری "
+"از  آرگومان‌ها داشته باشید (بدون [اورلودینگ](basic-syntax/functions-interlude"
+".md) تابع)."
 
 #: src/hello-world.md:36
 msgid ""
@@ -2332,9 +2334,9 @@ msgid ""
 "html)."
 msgstr ""
 "«هاجنیک» (`hygienic‍`) بودن ماکرو به این معنی است که آنها به طور تصادفی "
-"شناسه‌ها را از اسکوپ‌ای که در آن استفاده می‌شوند، ضبط نمی‌کنند. ماکروهای Rust در "
-"واقع فقط [تا حدی هاجنیک](https://veykril.github.io/tlborm/decl-macros/"
-"minutiae/hygiene.html هستند."
+"شناسه‌ها را از اسکوپ‌ای که در آن استفاده می‌شوند، ضبط نمی‌کنند. ماکروهای "
+"Rust در واقع فقط [تا حدی هاجنیک](https://veykril.github.io/tlborm/"
+"decl-macros/minutiae/hygiene.html هستند."
 
 #: src/hello-world.md:40
 msgid ""
@@ -2416,8 +2418,8 @@ msgid ""
 "Show how `print!` gives a compilation error if the arguments don't match the "
 "format string."
 msgstr ""
-"نشان دهید که چگونه <span dir=ltr>`print!`</span> در صورت عدم تطابق آرگومان‌ها "
-"با قالب رشته (`format string`) ، خطای کامپایل می دهد."
+"نشان دهید که چگونه <span dir=ltr>`print!`</span> در صورت عدم تطابق آرگومان‌"
+"ها با قالب رشته (`format string`) ، خطای کامپایل می دهد."
 
 #: src/hello-world/small-example.md:37
 msgid ""
@@ -2442,8 +2444,8 @@ msgid ""
 "In a shell `rustup doc std::fmt` will open a browser on the local std::fmt "
 "documentation"
 msgstr ""
-"در یک خط‌‌‌‌فرمان (`shell`) دستور `rustup doc std::fmt` را بزنید تا مستندات محلی "
-"‍`std::fmt` را توی مرورگر باز کند."
+"در یک خط‌‌‌‌فرمان (`shell`) دستور `rustup doc std::fmt` را بزنید تا مستندات "
+"محلی ‍`std::fmt` را توی مرورگر باز کند."
 
 #: src/why-rust.md:3
 msgid "Some unique selling points of Rust:"
@@ -2477,10 +2479,10 @@ msgid ""
 "constructs like pattern matching and built-in dependency management."
 msgstr ""
 "تجربه با C یا <span dir=ltr>C++</span> : زبان Rust با استفاده از بررسی کننده "
-"قرض‌گیری (اشاره به مبحث قرض گرفتن یا  `borrow`) ، یک سری کامل از _خطاهای زمان "
-"اجرا_ را از بین می‌برد .t  عملکردی مانند C و <span dir=ltr>C++</span> را "
-"دارید اما مشکلات عدم ایمنی حافظه را ندارید. علاوه بر این، شما یک زبان مدرن "
-"با ساختارهایی مانند تطابق الگو و مدیریت وابستگی داخلی دریافت می‌کنید."
+"قرض‌گیری (اشاره به مبحث قرض گرفتن یا  `borrow`) ، یک سری کامل از _خطاهای "
+"زمان اجرا_ را از بین می‌برد .t  عملکردی مانند C و <span dir=ltr>C++</span> "
+"را دارید اما مشکلات عدم ایمنی حافظه را ندارید. علاوه بر این، شما یک زبان "
+"مدرن با ساختارهایی مانند تطابق الگو و مدیریت وابستگی داخلی دریافت می‌کنید."
 
 #: src/why-rust.md:19
 msgid ""
@@ -2491,8 +2493,8 @@ msgid ""
 msgstr ""
 "تجربه با Java، Go، Python، JavaScript...: شما همان ایمنی حافظه را مانند آن "
 "زبان‌ها دریافت می‌کنید، به علاوه یک احساس زبان سطح بالا مشابه. علاوه بر این، "
-"شما عملکرد سریع و قابل پیش‌بینی مانند C و <span dir=ltr>C++</span> (بدون "
-"جمع‌آوری زباله) و همچنین دسترسی به سخت‌افزار سطح پایین (در صورت نیاز) دریافت "
+"شما عملکرد سریع و قابل پیش‌بینی مانند C و <span dir=ltr>C++</span> (بدون جمع‌"
+"آوری زباله) و همچنین دسترسی به سخت‌افزار سطح پایین (در صورت نیاز) دریافت "
 "می‌کنید."
 
 #: src/why-rust/an-example-in-c.md:4
@@ -2613,8 +2615,8 @@ msgid ""
 "vulnerabilities in the past. Some examples:"
 msgstr ""
 "_آیا این یک مثال خیلی غیر واقعی نیست؟_  \n"
-"ابدا نه، این نوع از باگ‌ها در گذشته منجر به آسیب‌پذیری‌های امنیتی جدی شده‌اند. "
-"چند نمونه:"
+"ابدا نه، این نوع از باگ‌ها در گذشته منجر به آسیب‌پذیری‌های امنیتی جدی شده‌"
+"اند. چند نمونه:"
 
 #: src/why-rust/an-example-in-c.md:71
 msgid ""
@@ -2622,16 +2624,17 @@ msgid ""
 "Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-"
 "attempt-of-2003)"
 msgstr ""
-"تخصیص `=` به جای مقایسه برابر بودن `==`: [The Linux Backdoor Attempt of 2003]"
-"(https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003)"
+"تخصیص `=` به جای مقایسه برابر بودن `==`: [The Linux Backdoor Attempt of "
+"2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-"
+"of-2003)"
 
 #: src/why-rust/an-example-in-c.md:72
 msgid ""
 "Forgotten braces in multi-line `if`: [The Apple goto fail vulnerability]"
 "(https://dwheeler.com/essays/apple-goto-fail.html)"
 msgstr ""
-"فراموشی پرانتز در `if` چند خطی: [The Apple goto fail vulnerability](https://"
-"dwheeler.com/essays/apple-goto-fail.html)"
+"فراموشی پرانتز در `if` چند خطی: [The Apple goto fail "
+"vulnerability](https://dwheeler.com/essays/apple-goto-fail.html)"
 
 #: src/why-rust/an-example-in-c.md:73
 msgid ""
@@ -2639,9 +2642,9 @@ msgid ""
 "(https://nakedsecurity.sophos.com/2012/05/21/anatomy-of-a-security-hole-the-"
 "break-that-broke-sudo)"
 msgstr ""
-"فراموشی گذاشتن `break` در `switch`: <span dir=ltr>[The break that broke sudo]"
-"(https://nakedsecurity.sophos.com/2012/05/21/anatomy-of-a-security-hole-the-"
-"break-that-broke-sudo) <span>"
+"فراموشی گذاشتن `break` در `switch`: <span dir=ltr>[The break that broke "
+"sudo](https://nakedsecurity.sophos.com/2012/05/21/anatomy-of-a-security-hole-"
+"the-break-that-broke-sudo) <span>"
 
 #: src/why-rust/an-example-in-c.md:75
 msgid ""
@@ -2686,16 +2689,16 @@ msgid ""
 "Heap-allocated memory is freed via the `Drop` trait when the corresponding "
 "`Box` leaves the scope."
 msgstr ""
-"حافظه اختصاص داده شده به پشته از طریق ویژگی `Drop` زمانی آزاد می‌شود که `Box` "
-"مورد نظر اسکوپ مربوطه را ترک کند.‍"
+"حافظه اختصاص داده شده به پشته از طریق ویژگی `Drop` زمانی آزاد می‌شود که `Box`"
+" مورد نظر اسکوپ مربوطه را ترک کند.‍"
 
 #: src/why-rust/an-example-in-c.md:85
 msgid ""
 "Out-of-bounds accesses cause a panic or can be checked via the `get` method "
 "of a slice."
 msgstr ""
-"دسترسی‌های خارج از محدوده باعث پانیک می‌شوند یا می‌توان آنها را از طریق متد get "
-"یک برش (`slice`) بررسی کرد."
+"دسترسی‌های خارج از محدوده باعث پانیک می‌شوند یا می‌توان آنها را از طریق متد "
+"get یک برش (`slice`) بررسی کرد."
 
 #: src/why-rust/an-example-in-c.md:86
 msgid "`match` mandates that all cases are handled."
@@ -2761,8 +2764,8 @@ msgid ""
 "initialized and runtime-sized static variables"
 msgstr ""
 "می توانید از <span dir=ltr>[`Box::leak`](https://doc.rust-lang.org/std/boxed/"
-"struct.Box.html#method.leak)</span>  برای نشت دادن یک اشاره‌گر استفاده کنید."
-"یک مورد استفاده از این کار می‌تواند برای بدست آوردن متغیرهای ایستا با "
+"struct.Box.html#method.leak)</span>  برای نشت دادن یک اشاره‌گر استفاده "
+"کنید.یک مورد استفاده از این کار می‌تواند برای بدست آوردن متغیرهای ایستا با "
 "مقداردهی اولیه و اندازه در زمان اجرا باشد."
 
 #: src/why-rust/compile-time.md:21
@@ -2780,8 +2783,8 @@ msgid ""
 "You can also accidentally create a [reference cycle](https://doc.rust-lang."
 "org/book/ch15-06-reference-cycles.html) with `Rc` or `Arc`."
 msgstr ""
-"همچنین می‌توانید به طور تصادفی یک [چرخه ارجاع](https://doc.rust-lang.org/book/"
-"ch15-06-reference-cycles.html) با `Rc` یا `Arc` ایجاد کنید."
+"همچنین می‌توانید به طور تصادفی یک [چرخه ارجاع](https://doc.rust-lang.org/"
+"book/ch15-06-reference-cycles.html) با `Rc` یا `Arc` ایجاد کنید."
 
 #: src/why-rust/compile-time.md:25
 msgid ""
@@ -2823,9 +2826,9 @@ msgstr ""
 "سرریز عدد صحیح از طریق پرچم زمان کامپایل [`overflow-checks`](https://doc."
 "rust-lang.org/rustc/codegen-options/index.html#overflow-checks) تعریف شده "
 "است. اگر فعال باشد، برنامه پانیک خواهد کرد (یک خرابی به صورت کنترل شده)، در "
-"غیر این صورت wrap-around خواهید داشت.به طور پیش فرض، در حالت توسعه `debug "
-"(cargo build)` شما پانیک خواهید داشت. و در حالت گرفتن خروجی برای پروداکشن "
-"`release (cargo build --release)` حالت wrap-around خواهید داشت."
+"غیر این صورت wrap-around خواهید داشت.به طور پیش فرض، در حالت توسعه `debug ("
+"cargo build)` شما پانیک خواهید داشت. و در حالت گرفتن خروجی برای پروداکشن `"
+"release (cargo build --release)` حالت wrap-around خواهید داشت."
 
 #: src/why-rust/runtime.md:18
 msgid ""
@@ -2836,8 +2839,8 @@ msgid ""
 msgstr ""
 "بررسی محدوده نمی‌تواند با پرچم کامپایل غیرفعال شود. همچنین نمی‌توان آن را به "
 "طور مستقیم با کلمه کلیدی `unsafe` غیرفعال کرد. با این حال، `unsafe` به شما "
-"امکان می‌دهد توابعی مانند `slice::get_unchecked` را صدا بزنید که بررسی محدوده "
-"را انجام نمی‌دهد. "
+"امکان می‌دهد توابعی مانند `slice::get_unchecked` را صدا بزنید که بررسی "
+"محدوده را انجام نمی‌دهد. "
 
 #: src/why-rust/modern.md:3
 msgid "Rust is built with all the experience gained in the last decades."
@@ -2892,8 +2895,8 @@ msgid ""
 "writing a loop using `for` should result in roughly the same low level "
 "instructions as using the `.iter().fold()` construct."
 msgstr ""
-"انتزاع‌های بدون هزینه، مشابه <span dir=ltr>C++</span>، به این معنی است که شما "
-"مجبور نیستید برای  ساختارهای برنامه‌نویسی سطح بالاتر با حافظه یا CPU "
+"انتزاع‌های بدون هزینه، مشابه <span dir=ltr>C++</span>، به این معنی است که "
+"شما مجبور نیستید برای  ساختارهای برنامه‌نویسی سطح بالاتر با حافظه یا CPU "
 "«هزینه»‌ای پرداخت کنید. به عنوان مثال، نوشتن یک حلقه با استفاده از for باید "
 "تقریباً به همان دستورالعمل‌های سطح پایین به عنوان استفاده از ساختار <span "
 "dir=ltr>`iter().fold()`</span> منجر شود."
@@ -2940,8 +2943,8 @@ msgstr ""
 #: src/why-rust/modern.md:42
 msgid "support for SSL or TLS, but see [rusttls](https://docs.rs/rustls/)."
 msgstr ""
-"پشتیبانی از SSL یا TLS، اما میتوانید <span dir=ltr>[کتابخانه `rusttls`]"
-"(https://docs.rs/rustls/)</span> را ببینید."
+"پشتیبانی از SSL یا TLS، اما میتوانید <span dir=ltr>[کتابخانه "
+"`rusttls`](https://docs.rs/rustls/)</span> را ببینید."
 
 #: src/why-rust/modern.md:43
 msgid "support for JSON, but see [serde_json](https://docs.rs/serde_json/)."
@@ -2956,10 +2959,10 @@ msgid ""
 "Rust community is still working on finding the best solution --- and perhaps "
 "there isn't a single \"best solution\" for some of these things."
 msgstr ""
-"منطق پشت این امر این است که نمیتوان عملکردی را از کتابخانه استاندارد حذف "
-"کرد، بنابراین باید بسیار پایدار باشد. برای مثال‌های بالا، جامعه Rust هنوز در "
-"تلاش است تا بهترین راه حل را پیدا کند --- و شاید برای برخی از این موارد، یک "
-"«بهترین راه حل» وجود نداشته باشد. "
+"منطق پشت این امر این است که نمیتوان عملکردی را از کتابخانه استاندارد حذف کرد،"
+" بنابراین باید بسیار پایدار باشد. برای مثال‌های بالا، جامعه Rust هنوز در "
+"تلاش است تا بهترین راه حل را پیدا کند --- و شاید برای برخی از این موارد، یک «"
+"بهترین راه حل» وجود نداشته باشد. "
 
 #: src/why-rust/modern.md:50
 msgid ""
@@ -3002,8 +3005,8 @@ msgid ""
 "Line comments are started with `//`, block comments are delimited by `/* ... "
 "*/`."
 msgstr ""
-"کامنت‌های تک خطی با ‍`//` شروع می‌شوند و کامنت‌های چند خطی با `/* ... */` مشخص "
-"می‌شوند."
+"کامنت‌های تک خطی با ‍`//` شروع می‌شوند و کامنت‌های چند خطی با `/* ... */` "
+"مشخص می‌شوند."
 
 #: src/basic-syntax.md:8
 msgid "Keywords like `if` and `while` work the same."
@@ -3133,8 +3136,9 @@ msgid ""
 "amount of `#` on either side of the quotes:"
 msgstr ""
 "رشته‌های خام به شما امکان می دهند یک مقدار <span dir=ltr><code "
-"class=hljs>&str</code></span> با غیرفعال کردن فرارها ایجاد کنید:  `r\"\\n\" "
-"== \"\\\\n\"`.شما می‌توانید با استفاده از تعداد برابر `#` در دو طرف دابل‌کوت "
+"class=hljs>&str</code></span> با غیرفعال کردن فرارها ایجاد کنید:  `r\"\\n"
+"\" == \"\\\\n"
+"\"`.شما می‌توانید با استفاده از تعداد برابر `#` در دو طرف دابل‌کوت "
 "دابل‌کوت‌ها، دابل‌کوت‌ها را جاسازی کنید:"
 
 #: src/basic-syntax/scalar-types.md:35
@@ -3149,10 +3153,11 @@ msgid ""
 "`1_000` can be written as `1000` (or `10_00`), and `123_i64` can be written "
 "as `123i64`."
 msgstr ""
-"می‌توان همه خطوط زیرین `_` را در اعداد حذف کرد، آنها فقط برای خوانایی هستند.  "
-"«<span dir=ltr>`1_000`</span>  می‌تواند به صورت <span dir=ltr>`1000`</span> "
-"(یا <span dir=ltr>`10_00`</span>) نوشته شود و <span dir=ltr>`123_i64`</span> "
-"می‌تواند به صورت <span dir=ltr>`123i64`</span> نوشته شود.»"
+"می‌توان همه خطوط زیرین `_` را در اعداد حذف کرد، آنها فقط برای خوانایی "
+"هستند.  «<span dir=ltr>`1_000`</span>  می‌تواند به صورت <span "
+"dir=ltr>`1000`</span> (یا <span dir=ltr>`10_00`</span>) نوشته شود و <span "
+"dir=ltr>`123_i64`</span> می‌تواند به صورت <span dir=ltr>`123i64`</span> "
+"نوشته شود.»"
 
 #: src/basic-syntax/compound-types.md:5
 msgid "Arrays"
@@ -3165,8 +3170,8 @@ msgstr "<span dir=ltr><code class=hljs>[T; N]</code></span>"
 #: src/basic-syntax/compound-types.md:5
 msgid "`[20, 30, 40]`, `[0; 3]`"
 msgstr ""
-"<span dir=ltr><code class=hljs>[20, 30, 40]</code>, <code class=hljs>[0; 3]</"
-"code></span>"
+"<span dir=ltr><code class=hljs>[20, 30, 40]</code>, <code class=hljs>[0; "
+"3]</code></span>"
 
 #: src/basic-syntax/compound-types.md:6
 msgid "Tuples"
@@ -3211,7 +3216,8 @@ msgstr ""
 
 #: src/basic-syntax/compound-types.md:40
 msgid "We can use literals to assign values to arrays."
-msgstr "ما می‌توانیم از مقادیر ثابت برای انتساب مقادیر به آرایه‌ها استفاده کنیم."
+msgstr ""
+"ما می‌توانیم از مقادیر ثابت برای انتساب مقادیر به آرایه‌ها استفاده کنیم."
 
 #: src/basic-syntax/compound-types.md:42
 msgid ""
@@ -3225,8 +3231,8 @@ msgstr ""
 "span>   نیازمند پیاده سازی دیباگ است: <span dir=ltr>`{}`</span> خروجی پیش "
 "فرض را می‌دهد، <span dir=ltr>`{:?}`</span>  خروجی دیباگ را می‌دهد. انواع‌ای "
 "مانند اعداد صحیح و رشته‌ها خروجی پیش فرض را پیاده سازی می‌کنند، اما آرایه‌ها "
-"فقط خروجی دیباگ را پیاده سازی می‌کنند. این بدان معناست که ما باید در اینجا از "
-"خروجی دیباگ استفاده کنیم."
+"فقط خروجی دیباگ را پیاده سازی می‌کنند. این بدان معناست که ما باید در اینجا "
+"از خروجی دیباگ استفاده کنیم."
 
 #: src/basic-syntax/compound-types.md:47
 msgid ""
