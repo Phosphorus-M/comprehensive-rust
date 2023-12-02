@@ -2,14 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Comprehensive Rust 🦀\n"
 "POT-Creation-Date: 2023-09-19\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2023-12-02 21:15+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/"
+"comprehensive-rust-translation/translation/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.3-dev\n"
 
 #: src/SUMMARY.md:4 src/index.md:1
 msgid "Welcome to Comprehensive Rust 🦀"
@@ -1131,8 +1133,8 @@ msgid ""
 msgstr ""
 "[Concurrency](concurrency.md): ein ganztägiger Kurs zum Thema Parallelität "
 "in Rust. Wir decken sowohl die klassische Parallelität ab (präventive "
-"Planung mithilfe von Threads als auch Mutexe) und Async/Await-Parallelität "
-"(kooperatives Multitasking mit Futures)."
+"Planung mithilfe von Threads als auch Mutexe) und Async/Await-Parallelität ("
+"kooperatives Multitasking mit Futures)."
 
 #: src/index.md:37
 msgid "Non-Goals"
@@ -1153,9 +1155,9 @@ msgid ""
 "(https://doc.rust-lang.org/book/ch19-06-macros.html) and [Rust by Example]"
 "(https://doc.rust-lang.org/rust-by-example/macros.html) instead."
 msgstr ""
-"Um zu erfahren, wie Du Makros entwickelst, siehe [Kapitel 19.5 im Rust Buch]"
-"(https://doc.rust-lang.org/book/ch19-06-macros.html) und [Rust im Beispiel]"
-"(https://doc.rust-lang.org/rust-by-example/macros.html)."
+"Um zu erfahren, wie Du Makros entwickelst, siehe [Kapitel 19.5 im Rust "
+"Buch](https://doc.rust-lang.org/book/ch19-06-macros.html) und [Rust im "
+"Beispiel](https://doc.rust-lang.org/rust-by-example/macros.html)."
 
 #: src/index.md:46
 msgid "Assumptions"
@@ -1322,11 +1324,11 @@ msgid ""
 "Your students are also very welcome to [send us feedback](https://github.com/"
 "google/comprehensive-rust/discussions/100)!"
 msgstr ""
-"Bitte [gib anschließend Rückmeldung](https://github.com/google/comprehensive-"
-"rust/discussions/86), damit wir den Kurs weiter verbessern können.  Was uns "
-"besonders interessieren würde ist was gut funktioniert hat aber auch was wir "
-"verbessern könnten. Deine Teilnehmer sind natürlich auch herzlich "
-"eingeladen, [uns Rückmeldung zu geben](https://github.com/google/"
+"Bitte [gib anschließend Rückmeldung](https://github.com/google/"
+"comprehensive-rust/discussions/86), damit wir den Kurs weiter verbessern "
+"können.  Was uns besonders interessieren würde ist was gut funktioniert hat "
+"aber auch was wir verbessern könnten. Deine Teilnehmer sind natürlich auch "
+"herzlich eingeladen, [uns Rückmeldung zu geben](https://github.com/google/"
 "comprehensive-rust/discussions/100)!"
 
 #: src/running-the-course/course-structure.md:5
@@ -1395,10 +1397,10 @@ msgid ""
 "that the Android build system sees the `Android.bp` files in `src/android/`."
 msgstr ""
 "Du wirst eine lokale Arbeitskopie von [AOSP](https://source.android.com/docs/"
-"setup/download/downloading) benötigen.  Mache eine Arbeitskopie des [Kurses]"
-"(https://github.com/google/comprehensive-rust)  auf deinem Laptop und "
-"verschiebe das Verzeichnis `src/android/` in  das Stammverzeichnis Deiner "
-"AOSP Arbeitskopie. Dadurch wird  sichergestellt, dass das Android-"
+"setup/download/downloading) benötigen.  Mache eine Arbeitskopie des "
+"[Kurses](https://github.com/google/comprehensive-rust)  auf deinem Laptop "
+"und verschiebe das Verzeichnis `src/android/` in  das Stammverzeichnis "
+"Deiner AOSP Arbeitskopie. Dadurch wird  sichergestellt, dass das Android-"
 "Buildsystem die  `Android.bp`\\-Dateien in `src/android/` sehen kann."
 
 #: src/running-the-course/course-structure.md:30
@@ -1435,9 +1437,9 @@ msgid ""
 "need to install a number of packages as described on the [welcome page](../"
 "bare-metal.md)."
 msgstr ""
-"Für den Mikrocontroller-Teil solltest Du das [BBC micro:bit](https://"
-"microbit.org/) v2-Entwicklungsboard im Voraus kaufen. Alle müssen eine Reihe "
-"von Paketen installieren, wie auf der [Willkommens  Seite](../bare-metal.md) "
+"Für den Mikrocontroller-Teil solltest Du das [BBC micro:bit](https://microbit"
+".org/) v2-Entwicklungsboard im Voraus kaufen. Alle müssen eine Reihe von "
+"Paketen installieren, wie auf der [Willkommens  Seite](../bare-metal.md) "
 "beschrieben."
 
 #: src/running-the-course/course-structure.md:48
@@ -1528,8 +1530,8 @@ msgid ""
 "[@henrif75](https://github.com/henrif75)."
 msgstr ""
 "[Brasilianisches Portugiesisch](https://google.github.io/comprehensive-rust/"
-"pt-BR/) von [@rastringer](https://github.com/rastringer) und [@hugojacob]"
-"(https://github.com/hugojacob)."
+"pt-BR/) von [@rastringer](https://github.com/rastringer) und "
+"[@hugojacob](https://github.com/hugojacob)."
 
 #: src/running-the-course/translations.md:7
 #, fuzzy
@@ -1538,9 +1540,9 @@ msgid ""
 "(https://github.com/keispace), [@jiyongp](https://github.com/jiyongp), and "
 "[@jooyunghan](https://github.com/jooyunghan)."
 msgstr ""
-"[Koreanisch](https://google.github.io/comprehensive-rust/ko/) von [@keispace]"
-"(https://github.com/keispace), [@jiyongp](https://github.com/jiyongp) und "
-"[@jooyunghan](https://github.com/jooyunghan)."
+"[Koreanisch](https://google.github.io/comprehensive-rust/ko/) von "
+"[@keispace](https://github.com/keispace), [@jiyongp](https://github.com/"
+"jiyongp) und [@jooyunghan](https://github.com/jooyunghan)."
 
 #: src/running-the-course/translations.md:8
 #, fuzzy
@@ -1549,8 +1551,8 @@ msgid ""
 "(https://github.com/deavid)."
 msgstr ""
 "[Brasilianisches Portugiesisch](https://google.github.io/comprehensive-rust/"
-"pt-BR/) von [@rastringer](https://github.com/rastringer) und [@hugojacob]"
-"(https://github.com/hugojacob)."
+"pt-BR/) von [@rastringer](https://github.com/rastringer) und "
+"[@hugojacob](https://github.com/hugojacob)."
 
 #: src/running-the-course/translations.md:10
 msgid ""
@@ -1574,8 +1576,8 @@ msgid ""
 "(https://github.com/raselmandol)."
 msgstr ""
 "[Brasilianisches Portugiesisch](https://google.github.io/comprehensive-rust/"
-"pt-BR/) von [@rastringer](https://github.com/rastringer) und [@hugojacob]"
-"(https://github.com/hugojacob)."
+"pt-BR/) von [@rastringer](https://github.com/rastringer) und "
+"[@hugojacob](https://github.com/hugojacob)."
 
 #: src/running-the-course/translations.md:18
 #, fuzzy
@@ -1585,9 +1587,9 @@ msgid ""
 "victorhsieh), [@mingyc](https://github.com/mingyc), and [@johnathan79717]"
 "(https://github.com/johnathan79717)."
 msgstr ""
-"[Koreanisch](https://google.github.io/comprehensive-rust/ko/) von [@keispace]"
-"(https://github.com/keispace), [@jiyongp](https://github.com/jiyongp) und "
-"[@jooyunghan](https://github.com/jooyunghan)."
+"[Koreanisch](https://google.github.io/comprehensive-rust/ko/) von "
+"[@keispace](https://github.com/keispace), [@jiyongp](https://github.com/"
+"jiyongp) und [@jooyunghan](https://github.com/jooyunghan)."
 
 #: src/running-the-course/translations.md:19
 #, fuzzy
@@ -1598,9 +1600,9 @@ msgid ""
 "kongy), [@noahdragon](https://github.com/noahdragon), and [@superwhd]"
 "(https://github.com/superwhd)."
 msgstr ""
-"[Koreanisch](https://google.github.io/comprehensive-rust/ko/) von [@keispace]"
-"(https://github.com/keispace), [@jiyongp](https://github.com/jiyongp) und "
-"[@jooyunghan](https://github.com/jooyunghan)."
+"[Koreanisch](https://google.github.io/comprehensive-rust/ko/) von "
+"[@keispace](https://github.com/keispace), [@jiyongp](https://github.com/"
+"jiyongp) und [@jooyunghan](https://github.com/jooyunghan)."
 
 #: src/running-the-course/translations.md:20
 msgid ""
@@ -1630,8 +1632,9 @@ msgid ""
 msgstr ""
 "Wenn du uns hierbei unterstützen möchtest, lies dir bitte [unsere "
 "Anweisungen](https://github.com/google/comprehensive-rust/blob/main/"
-"TRANSLATIONS.md) durch. Übersetzungen werden mit dem [Issue-Tracker](https://"
-"github.com/google/comprehensive-rust/issues/282) koordiniert."
+"TRANSLATIONS.md) durch. Übersetzungen werden mit dem [Issue-"
+"Tracker](https://github.com/google/comprehensive-rust/issues/282) "
+"koordiniert."
 
 #: src/cargo.md:3
 msgid ""
@@ -1850,8 +1853,8 @@ msgid ""
 "It is also extensible with sub command plugins as well (such as [cargo "
 "clippy](https://github.com/rust-lang/rust-clippy))."
 msgstr ""
-"Es ist auch mit Unterbefehls-Plugins erweiterbar (z. B. [cargo clippy]"
-"(https://github.com/rust-lang/rust-clippy))."
+"Es ist auch mit Unterbefehls-Plugins erweiterbar (z. B. [cargo "
+"clippy](https://github.com/rust-lang/rust-clippy))."
 
 #: src/cargo/rust-ecosystem.md:55
 msgid ""
@@ -2023,8 +2026,8 @@ msgstr ""
 "Verwende `cargo check`, um Dein Projekt schnell auf Fehler zu überprüfen, "
 "und verwende `cargo build`, um es zu kompilieren, ohne es auszuführen. Du "
 "findest die Ausgabe in `target/debug/` für einen normalen Debug-Build. "
-"Verwende `cargo build --release`, um einen optimierten Release-Build in "
-"`target/release/` zu erstellen."
+"Verwende `cargo build --release`, um einen optimierten Release-Build in `"
+"target/release/` zu erstellen."
 
 #: src/cargo/running-locally.md:64
 msgid ""
@@ -2166,8 +2169,7 @@ msgstr ""
 msgid ""
 "Rust is a new programming language which had its [1.0 release in 2015]"
 "(https://blog.rust-lang.org/2015/05/15/Rust-1.0.html):"
-msgstr ""
-"Rust ist eine neue Programmiersprache, die 2015 ihre Version 1.0 hatte:"
+msgstr "Rust ist eine neue Programmiersprache, die 2015 ihre Version 1.0 hatte:"
 
 #: src/welcome-day-1/what-is-rust.md:5
 msgid "Rust is a statically compiled language in a similar role as C++"
@@ -2334,8 +2336,8 @@ msgid ""
 msgstr ""
 "Makros sind „hygienisch“, was bedeutet, dass sie nicht versehentlich "
 "Identifikatoren in ihrem Umfang (scope) in dem sie verwendet werden erfassen "
-"Rust-Makros sind eigentlich nur [teilweise hygienisch](https://veykril."
-"github.io/tlborm/decl-macros/minutiae/hygiene.html)."
+"Rust-Makros sind eigentlich nur [teilweise hygienisch](https://veykril.github"
+".io/tlborm/decl-macros/minutiae/hygiene.html)."
 
 #: src/hello-world.md:40
 msgid ""
@@ -2460,9 +2462,9 @@ msgid ""
 "constructs like pattern matching and built-in dependency management."
 msgstr ""
 "Erfahrung mit C oder C++: Rust eliminiert eine ganze Klasse von "
-"_Laufzeitfehlern (runtime Errors)_ über den Ausleihenprüfer (borrow "
-"checker). Du erhältst eine ähnliche Leistung wie in C und C++, aber hast "
-"keine Probleme mit der Speicherunsicherheit. Darüber hinaus erhältst Du eine "
+"_Laufzeitfehlern (runtime Errors)_ über den Ausleihenprüfer (borrow checker)"
+". Du erhältst eine ähnliche Leistung wie in C und C++, aber hast keine "
+"Probleme mit der Speicherunsicherheit. Darüber hinaus erhältst Du eine "
 "moderne Sprache mit Konstrukten wie Mustervergleich (Pattern matching) und "
 "integriertes Abhängigkeitsmanagement (dependency management)."
 
@@ -2557,8 +2559,8 @@ msgid ""
 "and Rust does not protect from those."
 msgstr ""
 "In der Tat werden einige in Betracht ziehen, eine Sammlung (Collection) "
-"unendlich  zu befüllen Rust schützt nicht vor sowelchen Speicherlecks "
-"(memory leaks)."
+"unendlich  zu befüllen Rust schützt nicht vor sowelchen Speicherlecks ("
+"memory leaks)."
 
 #: src/why-rust/compile-time.md:28
 msgid ""
@@ -2712,8 +2714,8 @@ msgstr ""
 #: src/why-rust/modern.md:43
 msgid "support for JSON, but see [serde_json](https://docs.rs/serde_json/)."
 msgstr ""
-"Unterstützung für JSON, siehe jedoch [serde_json](https://docs.rs/"
-"serde_json/)."
+"Unterstützung für JSON, siehe jedoch [serde_json](https://docs.rs/serde_json/"
+")."
 
 #: src/why-rust/modern.md:45
 msgid ""
@@ -2725,8 +2727,8 @@ msgstr ""
 "Der Grund dafür ist, dass die Funktionalität in der Standardbibliothek nicht "
 "herausgenommen werden dürfen und daher sehr stabil sein muss. Für die obigen "
 "Beispiele arbeitet die Rust-Gemeinschaft immer noch daran, die beste Lösung "
-"zu finden – und vielleicht gibt es für einige dieser Dinge keine einzige "
-"„beste Lösung“."
+"zu finden – und vielleicht gibt es für einige dieser Dinge keine einzige „"
+"beste Lösung“."
 
 #: src/why-rust/modern.md:50
 msgid ""
@@ -2846,7 +2848,9 @@ msgstr "`&str`"
 #: src/basic-syntax/scalar-types.md:8
 #, fuzzy
 msgid "`&str`"
-msgstr "`\"foo\"`, `\"two\\nlines\"`"
+msgstr ""
+"`\"foo\"`, `\"two\\n"
+"lines\"`"
 
 #: src/basic-syntax/scalar-types.md:8
 #, fuzzy
@@ -2915,9 +2919,10 @@ msgid ""
 "amount of `#` on either side of the quotes:"
 msgstr ""
 "Mit puren Zeichenketten (raw strings) kannst Du einen `&str`\\-Wert mit "
-"deaktivierten Escape-Zeichen erstellen: `r\"\\n\" == \"\\\\\\\\n\"`. Du "
-"kannst doppelte Anführungszeichen einbetten, indem Du auf beiden Seiten der "
-"Anführungszeichen die gleiche Anzahl von `#` verwendest:"
+"deaktivierten Escape-Zeichen erstellen: `r\"\\n"
+"\" == \"\\\\\\\\n"
+"\"`. Du kannst doppelte Anführungszeichen einbetten, indem Du auf beiden "
+"Seiten der Anführungszeichen die gleiche Anzahl von `#` verwendest:"
 
 #: src/basic-syntax/scalar-types.md:27
 msgid ""
@@ -3044,9 +3049,9 @@ msgid ""
 "the debug output. We could also have used `{a}` and `{a:?}` without "
 "specifying the value after the format string."
 msgstr ""
-"In der `main`\\-Funktion fragt die print-Anweisung mit dem Formatparameter `?"
-"` nach der Debug-Implementierung: `{}` gibt die Standardausgabe aus, „{:?}“ "
-"gibt die Debug-Ausgabe aus. Wir hätten auch `{a}` und `{a:?}` verwenden "
+"In der `main`\\-Funktion fragt die print-Anweisung mit dem Formatparameter "
+"`?` nach der Debug-Implementierung: `{}` gibt die Standardausgabe aus, „{:?}“"
+" gibt die Debug-Ausgabe aus. Wir hätten auch `{a}` und `{a:?}` verwenden "
 "können, ohne den Wert nach der Formatzeichenfolge anzugeben."
 
 #: src/basic-syntax/compound-types.md:45
@@ -3054,8 +3059,8 @@ msgid ""
 "Adding `#`, eg `{a:#?}`, invokes a \"pretty printing\" format, which can be "
 "easier to read."
 msgstr ""
-"Das Hinzufügen von `#`, z. B. `{a:#?}`, ruft ein „hübsches "
-"Druckformat“ (pretty print) auf, das einfacher zu lesen ist."
+"Das Hinzufügen von `#`, z. B. `{a:#?}`, ruft ein „hübsches Druckformat“ ("
+"pretty print) auf, das einfacher zu lesen ist."
 
 #: src/basic-syntax/compound-types.md:47
 msgid "Tuples:"
@@ -3126,8 +3131,8 @@ msgid ""
 "We must dereference `ref_x` when assigning to it, similar to C and C++ "
 "pointers."
 msgstr ""
-"Wir müssen `ref_x` beim Zuweisen dereferenzieren, ähnlich wie bei C und C++-"
-"Zeigern."
+"Wir müssen `ref_x` beim Zuweisen dereferenzieren, ähnlich wie bei C und "
+"C++-Zeigern."
 
 #: src/basic-syntax/references.md:17
 msgid ""
@@ -3229,8 +3234,8 @@ msgid ""
 "We create a slice by borrowing `a` and specifying the starting and ending "
 "indexes in brackets."
 msgstr ""
-"Wir erstellen ein Anteilstyp, indem wir `a` ausleihen (borrow) und den "
-"Start- und Endindex in Klammern angeben."
+"Wir erstellen ein Anteilstyp, indem wir `a` ausleihen (borrow) und den Start-"
+" und Endindex in Klammern angeben."
 
 #: src/basic-syntax/slices.md:23
 msgid ""
@@ -3289,9 +3294,9 @@ msgstr ""
 "Die Frage nach einer Werteänderung durch `a[3]` kann eine interessante "
 "Diskussion auslösen, aber die Antwort lautet: aus Gründen der "
 "Speichersicherheit kannst Du dies nicht über `a` tun, nachdem Du ein Slice "
-"erstellt hast. Allerdings kannst Du die Werte sowohl von `a` als auch von "
-"`s` sicher lesen. Weitere Einzelheiten werden im Abschnitt "
-"„Ausleihenprüfer“ (borrow checker) erläutert."
+"erstellt hast. Allerdings kannst Du die Werte sowohl von `a` als auch von `s`"
+" sicher lesen. Weitere Einzelheiten werden im Abschnitt „Ausleihenprüfer“ ("
+"borrow checker) erläutert."
 
 #: src/basic-syntax/string-slices.md:1
 msgid "`String` vs `str`"
@@ -3461,8 +3466,8 @@ msgid ""
 "compiler will infer this if the `-> ()` return type is omitted."
 msgstr ""
 "Einige Funktionen haben keinen Rückgabewert und geben den `Einheitentyp` "
-"(Unittyp) `()` zurück. Der Compiler schließt daraus, wenn der Rückgabetyp `-"
-">()` weggelassen wird."
+"(Unittyp) `()` zurück. Der Compiler schließt daraus, wenn der Rückgabetyp "
+"`->()` weggelassen wird."
 
 #: src/basic-syntax/functions.md:39
 msgid ""
@@ -3505,10 +3510,10 @@ msgid ""
 "idiomatic to document all public items in an API using this pattern."
 msgstr ""
 "Die Inhalte werden als Markdown behandelt. Alle veröffentlichten Rust-"
-"Bibliothekskästen (library crates) werden automatisch unter [`docs.rs`]"
-"(https://docs.rs) mit [rustdoc](https://doc.rust-lang.org/rustdoc/what-is-"
-"rustdoc.html) dokumentiert. Es ist idiomatisch, alle öffentlichen Elemente "
-"in einer API mithilfe dieses Musters zu dokumentieren."
+"Bibliothekskästen (library crates) werden automatisch unter [`docs."
+"rs`](https://docs.rs) mit [rustdoc](https://doc.rust-lang.org/rustdoc/what-"
+"is-rustdoc.html) dokumentiert. Es ist idiomatisch, alle öffentlichen "
+"Elemente in einer API mithilfe dieses Musters zu dokumentieren."
 
 #: src/basic-syntax/rustdoc.md:24
 msgid ""
@@ -3729,8 +3734,8 @@ msgid ""
 "([unlike C++](https://en.cppreference.com/w/cpp/language/"
 "implicit_conversion)). You can see this in a program like this:"
 msgstr ""
-"Rust wendet nicht automatisch _implizite Konvertierungen_ zwischen Typen an "
-"(\\[anders als C++[3](https://en.cppreference.com/w/cpp/language/"
+"Rust wendet nicht automatisch _implizite Konvertierungen_ zwischen Typen an ("
+"\\[anders als C++[3](https://en.cppreference.com/w/cpp/language/"
 "implicit_conversion)). Das kannst Du an einem Programm wie diesem sehen:"
 
 #: src/exercises/day-1/implicit-conversions.md:6
@@ -3777,8 +3782,8 @@ msgstr ""
 "Die Standardbibliothek enthält eine Implementierung von `From<i8> for i16`, "
 "was bedeutet dass wir eine Variable `x` vom Typ `i8` in ein `i16` durch "
 "`i16::from(x)` umwandeln können.  Alternativ geht dies mit `x.into()`, denn "
-"die `From<i8> for i16`\\-Implementierung  erstellt automatisch eine "
-"`Into<i16> for i8`\\-Implementierung."
+"die `From<i8> for i16`\\-Implementierung  erstellt automatisch eine `"
+"Into<i16> for i8`\\-Implementierung."
 
 #: src/exercises/day-1/implicit-conversions.md:30
 msgid ""
@@ -3846,8 +3851,8 @@ msgid ""
 "Rust lets you iterate over things like arrays and ranges using the `for` "
 "keyword:"
 msgstr ""
-"Mit Rust kannst Du über Dinge wie Arrays und Ranges iterieren, indem Du "
-"`for` verwendest:"
+"Mit Rust kannst Du über Dinge wie Arrays und Ranges iterieren, indem Du `for`"
+" verwendest:"
 
 #: src/exercises/day-1/for-loops.md:21
 msgid ""
@@ -3958,8 +3963,8 @@ msgid ""
 "The solution and the answer to the bonus section are available in the  "
 "[Solution](solutions-morning.md#arrays-and-for-loops) section."
 msgstr ""
-"Die Lösung und die Antwort zum Bonusteil findest Du im Abschnitt [Lösung]"
-"(solutions-morning.md#arrays-and-for-loops)."
+"Die Lösung und die Antwort zum Bonusteil findest Du im Abschnitt [Lösung"
+"](solutions-morning.md#arrays-and-for-loops)."
 
 #: src/exercises/day-1/for-loops.md:95
 msgid ""
@@ -4424,8 +4429,9 @@ msgid ""
 "HashSet%3CT,+S%3E) implements."
 msgstr ""
 "[`collect`](https://doc.rust-lang.org/stable/std/iter/trait.Iterator."
-"html#method.collect) bezieht sich auf den `FromIterator`, den [`HashSet`]"
-"(https://doc.rust-lang.org/std/iter/trait.FromIterator.html) implementiert."
+"html#method.collect) bezieht sich auf den `FromIterator`, den "
+"[`HashSet`](https://doc.rust-lang.org/std/iter/trait.FromIterator.html) "
+"implementiert."
 
 #: src/basic-syntax/static-and-const.md:1
 msgid "Static and Constant Variables"
@@ -4752,9 +4758,9 @@ msgid ""
 "This page offers an enum type `CoinFlip` with two variants `Heads` and "
 "`Tails`. You might note the namespace when using variants."
 msgstr ""
-"Diese Seite bietet einen Aufzählungstyp `CoinFlip` mit zwei Varianten "
-"`Heads` und `Tail`. Beachten Sie bei der Verwendung von Varianten "
-"möglicherweise den Namensraum."
+"Diese Seite bietet einen Aufzählungstyp `CoinFlip` mit zwei Varianten `Heads`"
+" und `Tail`. Beachten Sie bei der Verwendung von Varianten möglicherweise "
+"den Namensraum."
 
 #: src/enums.md:38
 #, fuzzy
@@ -6600,8 +6606,8 @@ msgid ""
 "implementing the `Clone` trait."
 msgstr ""
 "Klonen ist eine allgemeinere Operation und ermöglicht auch "
-"benutzerdefiniertes Verhalten durch Implementieren der Eigenschaft "
-"\"Klonen\"."
+"benutzerdefiniertes Verhalten durch Implementieren der Eigenschaft \"Klonen\""
+"."
 
 #: src/ownership/copy-clone.md:40
 #, fuzzy
@@ -7029,8 +7035,7 @@ msgstr ""
 #: src/ownership/lifetimes-data-structures.md:28
 #, fuzzy
 msgid "When possible, make data structures own their data directly."
-msgstr ""
-"Wenn möglich, machen Sie Datenstrukturen direkt Eigentümer ihrer Daten."
+msgstr "Wenn möglich, machen Sie Datenstrukturen direkt Eigentümer ihrer Daten."
 
 #: src/ownership/lifetimes-data-structures.md:29
 #, fuzzy
@@ -7458,8 +7463,8 @@ msgid ""
 "create constructors which are called `new` by convention."
 msgstr ""
 "Kein Empfänger: Dies wird zu einer statischen Methode für die Struktur. "
-"Typischerweise gewohnt Erstellen Sie Konstruktoren, die per Konvention "
-"\"neu\" genannt werden."
+"Typischerweise gewohnt Erstellen Sie Konstruktoren, die per Konvention \"neu"
+"\" genannt werden."
 
 #: src/methods/receiver.md:18
 #, fuzzy
@@ -7468,8 +7473,8 @@ msgid ""
 "doc.rust-lang.org/reference/special-types-and-traits.html) allowed to be "
 "receiver types, such as `Box<Self>`."
 msgstr ""
-"Neben Varianten von „self“ gibt es auch [spezielle Wrapper-Typen](https://"
-"doc.rust-lang.org/reference/special-types-and-traits.html) dürfen "
+"Neben Varianten von „self“ gibt es auch [spezielle Wrapper-Typen](https://doc"
+".rust-lang.org/reference/special-types-and-traits.html) dürfen "
 "Empfängertypen sein, wie z. B. `Box<Self>`."
 
 #: src/methods/receiver.md:24
@@ -7480,8 +7485,8 @@ msgid ""
 "and `self` is no exception. It isn't possible to reference a struct from "
 "multiple locations and call a mutating (`&mut self`) method on it."
 msgstr ""
-"Erwägen Sie, die Betonung auf „gemeinsam und unveränderlich“ und "
-"„einzigartig und veränderlich“ zu legen. Diese Einschränkungen kommen immer "
+"Erwägen Sie, die Betonung auf „gemeinsam und unveränderlich“ und „"
+"einzigartig und veränderlich“ zu legen. Diese Einschränkungen kommen immer "
 "zusammen in Rust aufgrund der Borrow-Checker-Regeln, und `self` ist keine "
 "Ausnahme. Es wird nicht möglich sein Verweisen Sie auf eine Struktur von "
 "mehreren Stellen und rufen Sie eine Mutationsmethode (`&mut self`) darauf "
@@ -7916,9 +7921,8 @@ msgid ""
 "`core` includes the most basic types and functions that don't depend on "
 "`libc`, allocator or even the presence of an operating system. "
 msgstr ""
-"`core` enthält die grundlegendsten Typen und Funktionen, die nicht von "
-"`libc`, allocator oder abhängen sogar das Vorhandensein eines "
-"Betriebssystems."
+"`core` enthält die grundlegendsten Typen und Funktionen, die nicht von `libc`"
+", allocator oder abhängen sogar das Vorhandensein eines Betriebssystems."
 
 #: src/std.md:28
 #, fuzzy
@@ -9101,10 +9105,10 @@ msgid ""
 msgstr ""
 "Experimentieren Sie mit dem obigen Code und konsultieren Sie dann die "
 "Dokumentation für [`impl IntoIterator für &Vec<T>`](https://doc.rust-lang."
-"org/std/vec/struct.Vec.html#impl-IntoIterator-for-"
-"%26%27a%20Vec%3CT%2C%20A%3E) und [`impl IntoIterator for Vec<T>`](https://"
-"doc.rust-lang.org/std/vec/struct.Vec.html#impl-IntoIterator-for-"
-"Vec%3CT%2C%20A%3E) um Ihre Antworten zu überprüfen."
+"org/std/vec/struct.Vec.html#impl-IntoIterator-"
+"for-%26%27a%20Vec%3CT%2C%20A%3E) und [`impl IntoIterator for "
+"Vec<T>`](https://doc.rust-lang.org/std/vec/struct.Vec.html#impl-IntoIterator-"
+"for-Vec%3CT%2C%20A%3E) um Ihre Antworten zu überprüfen."
 
 #: src/exercises/day-2/strings-iterators.md:3
 #, fuzzy
@@ -9577,8 +9581,7 @@ msgstr ""
 #: src/traits/default-methods.md:3
 #, fuzzy
 msgid "Traits can implement behavior in terms of other trait methods:"
-msgstr ""
-"Traits können Verhalten im Sinne anderer Trait-Methoden implementieren:"
+msgstr "Traits können Verhalten im Sinne anderer Trait-Methoden implementieren:"
 
 #: src/traits/default-methods.md:5
 msgid ""
@@ -9932,8 +9935,8 @@ msgid ""
 "There are also implementations which let you do cool things like convert an "
 "`Iterator<Item = Result<V, E>>` into a `Result<Vec<V>, E>`."
 msgstr ""
-"Es gibt auch Implementierungen, mit denen Sie coole Dinge tun können, wie z "
-"`Iterator<Item = Result<V, E>>` in ein `Result<Vec<V>, E>`."
+"Es gibt auch Implementierungen, mit denen Sie coole Dinge tun können, wie z `"
+"Iterator<Item = Result<V, E>>` in ein `Result<Vec<V>, E>`."
 
 #: src/traits/from-into.md:1
 #, fuzzy
@@ -10316,9 +10319,9 @@ msgid ""
 msgstr ""
 "Closures oder Lambda-Ausdrücke haben Typen, die nicht benannt werden können. "
 "Allerdings sie spezielles \\[`Fn`\\] implementieren (https://doc.rust-lang."
-"org/std/ops/trait.Fn.html), [`FnMut`](https://doc.rust-lang.org/std/ops/"
-"trait.FnMut.html) und [`FnOnce`](https://doc.rust-lang.org/std/ops/trait."
-"FnOnce.html) Eigenschaften:"
+"org/std/ops/trait.Fn.html), [`FnMut`](https://doc.rust-lang.org/std/ops/trait"
+".FnMut.html) und [`FnOnce`](https://doc.rust-lang.org/std/ops/trait.FnOnce."
+"html) Eigenschaften:"
 
 #: src/traits/closures.md:8
 msgid ""
@@ -10385,8 +10388,8 @@ msgid ""
 msgstr ""
 "`FnMut` ist ein Untertyp von `FnOnce`. „Fn“ ist ein Untertyp von „FnMut“ und "
 "„FnOnce“. D.h. Sie können eine verwenden „FnMut“, wo immer ein „FnOnce“ "
-"verlangt wird, und Sie können ein „Fn“ überall dort verwenden, wo ein "
-"„FnMut“ oder „FnOnce“ steht ist angesagt."
+"verlangt wird, und Sie können ein „Fn“ überall dort verwenden, wo ein „FnMut“"
+" oder „FnOnce“ steht ist angesagt."
 
 #: src/traits/closures.md:47
 msgid ""
@@ -10477,8 +10480,8 @@ msgid ""
 "`draw_into` methods so that you implement the `Widget` trait:"
 msgstr ""
 "Kopieren Sie den folgenden Code nach <https://play.rust-lang.org/> und "
-"füllen Sie die fehlenden aus `draw_into`\\-Methoden, sodass Sie das "
-"`Widget`\\-Merkmal implementieren:"
+"füllen Sie die fehlenden aus `draw_into`\\-Methoden, sodass Sie das `Widget`"
+"\\-Merkmal implementieren:"
 
 #: src/exercises/day-3/simple-gui.md:18
 msgid ""
@@ -10609,8 +10612,8 @@ msgid ""
 "particular, notice how you can pad with different characters (here a `'/'`) "
 "and how you can control alignment:"
 msgstr ""
-"Wenn Sie ausgerichteten Text zeichnen möchten, können Sie die verwenden "
-"[fill/alignment](https://doc.rust-lang.org/std/fmt/index.html#fillalignment) "
+"Wenn Sie ausgerichteten Text zeichnen möchten, können Sie die verwenden ["
+"fill/alignment](https://doc.rust-lang.org/std/fmt/index.html#fillalignment) "
 "Formatierungsoperatoren. Beachten Sie insbesondere, wie Sie mit "
 "verschiedenen auffüllen können Zeichen (hier ein `'/'`) und wie Sie die "
 "Ausrichtung steuern können:"
@@ -11136,8 +11139,8 @@ msgstr ""
 "implementieren, was `Debug` und erfordert \"Anzeigen\". Es ist im "
 "Allgemeinen hilfreich für sie, `Clone` und `Eq` zu implementieren, wo es "
 "möglich ist, zu machen das Leben einfacher für Tests und Benutzer Ihrer "
-"Bibliothek. In diesem Fall können wir das nicht so einfach tun, weil `io::"
-"Error` implementiert sie nicht."
+"Bibliothek. In diesem Fall können wir das nicht so einfach tun, weil "
+"`io::Error` implementiert sie nicht."
 
 #: src/error-handling/deriving-error-enums.md:3
 #, fuzzy
@@ -11189,10 +11192,10 @@ msgid ""
 "optionally `Display` (if the `#[error(...)]` attributes are provided) and "
 "`From` (if the `#[from]` attribute is added). It also works for structs."
 msgstr ""
-"Das Ableitungsmakro von `thiserror` implementiert automatisch `std::error::"
-"Error` und optional `Display` (wenn die `#[error(...)]`\\-Attribute "
-"bereitgestellt werden) und `From` (wenn das `#[from]`\\-Attribut hinzugefügt "
-"wird). Es funktioniert auch für Strukturen."
+"Das Ableitungsmakro von `thiserror` implementiert automatisch "
+"`std::error::Error` und optional `Display` (wenn die `#[error(...)]`\\-"
+"Attribute bereitgestellt werden) und `From` (wenn das `#[from]`\\-Attribut "
+"hinzugefügt wird). Es funktioniert auch für Strukturen."
 
 #: src/error-handling/deriving-error-enums.md:43
 #, fuzzy
@@ -11468,7 +11471,8 @@ msgid ""
 "version=stable&mode=debug&edition=2021&gist=3ce2ad13ea1302f6572cb15cd96becf0)."
 msgstr ""
 "Testen Sie den obigen Code auf [Rust Playground](https://play.rust-lang.org/?"
-"version=stable&mode=debug&edition=2021&gist=3ce2ad13ea1302f6572cb15cd96becf0)."
+"version=stable&mode=debug&edition=2021&gist=3ce2ad13ea1302f6572cb15cd96becf0)"
+"."
 
 #: src/testing/integration-tests.md:3
 #, fuzzy
@@ -11593,9 +11597,9 @@ msgid ""
 "unsafe-rust.html) and the [Rustonomicon](https://doc.rust-lang.org/nomicon/)."
 msgstr ""
 "Als nächstes werden wir uns kurz mit unsicheren Fähigkeiten befassen. "
-"Ausführliche Informationen finden Sie unter [Kapitel 19.1 im Rust-Buch]"
-"(https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html) und das "
-"\\[Rustonomicon\\] (https://doc.rust-lang.org/nomicon/)."
+"Ausführliche Informationen finden Sie unter [Kapitel 19.1 im Rust-"
+"Buch](https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html) und das \\["
+"Rustonomicon\\] (https://doc.rust-lang.org/nomicon/)."
 
 #: src/unsafe.md:28
 #, fuzzy
@@ -11699,8 +11703,7 @@ msgstr ""
 #: src/unsafe/raw-pointers.md:41
 #, fuzzy
 msgid "In most cases the pointer must also be properly aligned."
-msgstr ""
-"In den meisten Fällen muss auch der Zeiger richtig ausgerichtet werden."
+msgstr "In den meisten Fällen muss auch der Zeiger richtig ausgerichtet werden."
 
 #: src/unsafe/mutable-static-variables.md:3
 #, fuzzy
@@ -11994,8 +11997,8 @@ msgid ""
 msgstr ""
 "/// ... /// # Sicherheit /// Der Typ muss eine definierte Darstellung haben "
 "und darf nicht aufgefüllt werden. pub unsichere Eigenschaft AsBytes { fn "
-"as_bytes(&self) -> &\\[u8\\] { unsicher { Slice::from_raw_parts(self als "
-"\\*const Self als \\*const u8, size_of_val(self)) } } }"
+"as_bytes(&self) -> &\\[u8\\] { unsicher { Slice::from_raw_parts(self als \\*"
+"const Self als \\*const u8, size_of_val(self)) } } }"
 
 #: src/unsafe/unsafe-traits.md:30
 #, fuzzy
@@ -12389,8 +12392,8 @@ msgstr "`rust_library`"
 #, fuzzy
 msgid "Produces a Rust library, and provides both `rlib` and `dylib` variants."
 msgstr ""
-"Erzeugt eine Rust-Bibliothek und bietet sowohl `rlib`\\- als auch `dylib`\\-"
-"Varianten."
+"Erzeugt eine Rust-Bibliothek und bietet sowohl `rlib`\\- als auch `dylib`\\"
+"-Varianten."
 
 #: src/android/build-rules.md:9
 #, fuzzy
@@ -12954,8 +12957,8 @@ msgid ""
 "You should use the `log` crate to automatically log to `logcat` (on-device) "
 "or `stdout` (on-host):"
 msgstr ""
-"Sie sollten die `log`\\-Crate verwenden, um sich automatisch bei `logcat` "
-"(auf dem Gerät) anzumelden oder `stdout` (auf dem Host):"
+"Sie sollten die `log`\\-Crate verwenden, um sich automatisch bei `logcat` ("
+"auf dem Gerät) anzumelden oder `stdout` (auf dem Host):"
 
 #: src/android/logging.md:6
 #, fuzzy
@@ -13421,9 +13424,8 @@ msgid ""
 "\"some_name\"]` to specify whatever name you want."
 msgstr ""
 "`#[no_mangle]` deaktiviert Rusts übliches Namensverstümmeln, so dass das "
-"exportierte Symbol nur der Name von ist die Funktion. Sie können auch "
-"`#[export_name = \"some_name\"]` verwenden, um einen beliebigen Namen "
-"anzugeben."
+"exportierte Symbol nur der Name von ist die Funktion. Sie können auch `#["
+"export_name = \"some_name\"]` verwenden, um einen beliebigen Namen anzugeben."
 
 #: src/android/interoperability/cpp.md:3
 #, fuzzy
@@ -13445,8 +13447,8 @@ msgid ""
 "See the [CXX tutorial](https://cxx.rs/tutorial.html) for an full example of "
 "using this."
 msgstr ""
-"Ein vollständiges Beispiel für die Verwendung finden Sie im \\[CXX-"
-"Tutorial\\] [2](https://cxx.rs/tutorial.html)."
+"Ein vollständiges Beispiel für die Verwendung finden Sie im \\[CXX-Tutorial\\"
+"] [2](https://cxx.rs/tutorial.html)."
 
 #: src/android/interoperability/cpp.md:14
 msgid ""
@@ -18245,9 +18247,8 @@ msgid ""
 "For this, you will need an HTTP client such as [`reqwest`](https://docs.rs/"
 "reqwest/). Create a new Cargo project and `reqwest` it as a dependency with:"
 msgstr ""
-"Dazu benötigen Sie einen HTTP-Client wie [`reqwest`](https://docs.rs/"
-"reqwest/). Erstelle eine neue Frachtprojekt und `reqwest` es als "
-"Abhängigkeit mit:"
+"Dazu benötigen Sie einen HTTP-Client wie [`reqwest`](https://docs.rs/reqwest/"
+"). Erstelle eine neue Frachtprojekt und `reqwest` es als Abhängigkeit mit:"
 
 #: src/exercises/concurrency/link-checker.md:17
 #, fuzzy
@@ -19937,9 +19938,9 @@ msgid ""
 "covers the new asynchronous programming model which was introduced after the "
 "Rust Book was written."
 msgstr ""
-"[Asynchrone Programmierung in Rust](https://rust-lang.github.io/async-"
-"book/): deckt das neue asynchrone Programmiermodell ab, das nach dem "
-"eingeführt wurde Rust Book wurde geschrieben."
+"[Asynchrone Programmierung in Rust](https://rust-lang.github.io/async-book/):"
+" deckt das neue asynchrone Programmiermodell ab, das nach dem eingeführt "
+"wurde Rust Book wurde geschrieben."
 
 #: src/other-resources.md:30
 #, fuzzy
@@ -19948,9 +19949,9 @@ msgid ""
 "an introduction to using Rust on embedded devices without an operating "
 "system."
 msgstr ""
-"\\[Das eingebettete Rust-Buch\\] (https://doc.rust-lang.org/stable/embedded-"
-"book/): an Einführung in die Verwendung von Rust auf eingebetteten Geräten "
-"ohne Betriebssystem."
+"\\[Das eingebettete Rust-Buch\\] (https://doc.rust-lang.org/stable/"
+"embedded-book/): an Einführung in die Verwendung von Rust auf eingebetteten "
+"Geräten ohne Betriebssystem."
 
 #: src/other-resources.md:33
 #, fuzzy
@@ -20025,12 +20026,12 @@ msgid ""
 "new developers. The first is a set of 35 videos and the second is a set of "
 "11 modules which covers Rust syntax and basic constructs."
 msgstr ""
-"[Anfängerserie bis Rust](https://docs.microsoft.com/en-us/shows/beginners-"
-"series-to-rust/) und [Machen Sie Ihre ersten Schritte mit Rust](https://docs."
-"microsoft.com/en-us/learn/paths/rust-first-steps/): zwei Rust-Leitfäden für "
-"neue Entwickler. Die erste ist eine Reihe von 35 Videos und die Das zweite "
-"ist ein Satz von 11 Modulen, der die Rust-Syntax und grundlegende Konstrukte "
-"abdeckt."
+"[Anfängerserie bis Rust](https://docs.microsoft.com/en-us/shows/"
+"beginners-series-to-rust/) und [Machen Sie Ihre ersten Schritte mit "
+"Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/): zwei "
+"Rust-Leitfäden für neue Entwickler. Die erste ist eine Reihe von 35 Videos "
+"und die Das zweite ist ein Satz von 11 Modulen, der die Rust-Syntax und "
+"grundlegende Konstrukte abdeckt."
 
 #: src/other-resources.md:58
 msgid ""
@@ -20045,8 +20046,8 @@ msgid ""
 "Please see the [Little Book of Rust Books](https://lborb.github.io/book/) "
 "for even more Rust books."
 msgstr ""
-"Weitere Informationen finden Sie im \\[Little Book of Rust Books\\] (https://"
-"lborb.github.io/book/). noch mehr Rust-Bücher."
+"Weitere Informationen finden Sie im \\[Little Book of Rust Books\\] "
+"(https://lborb.github.io/book/). noch mehr Rust-Bücher."
 
 #: src/credits.md:3
 #, fuzzy
@@ -20056,8 +20057,8 @@ msgid ""
 "full list of useful resources."
 msgstr ""
 "Das Material hier baut auf den vielen großartigen Quellen der Rust-"
-"Dokumentation auf. Auf der Seite \\[andere Ressourcen\\] (other-resources."
-"md) finden Sie eine vollständige Liste nützlicher Ressourcen Ressourcen."
+"Dokumentation auf. Auf der Seite \\[andere Ressourcen\\] (other-resources.md)"
+" finden Sie eine vollständige Liste nützlicher Ressourcen Ressourcen."
 
 #: src/credits.md:7
 #, fuzzy
@@ -20083,8 +20084,9 @@ msgid ""
 "terms."
 msgstr ""
 "Einige Beispiele und Übungen wurden aus [Rust by Beispiel](https://doc.rust-"
-"lang.org/rust-by-example/). Bitte sehen Sie sich ... an `third_party/rust-by-"
-"example/`\\-Verzeichnis für Details, einschließlich der Lizenz Bedingungen."
+"lang.org/rust-by-example/). Bitte sehen Sie sich ... an `third_party/"
+"rust-by-example/`\\-Verzeichnis für Details, einschließlich der Lizenz "
+"Bedingungen."
 
 #: src/credits.md:19
 #, fuzzy
