@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Comprehensive Rust 🦀\n"
 "POT-Creation-Date: 2023-10-15T23:41:49Z\n"
-"PO-Revision-Date: 2023-06-06 13:18+0900\n"
-"Last-Translator: Kenta Aratani <kentaaratani@coinez.jp>\n"
-"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2023-12-02 21:15+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/"
+"comprehensive-rust-translation/translation/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Weblate 5.3-dev\n"
 
 #: src/SUMMARY.md:4 src/index.md:1
 msgid "Welcome to Comprehensive Rust 🦀"
@@ -1051,8 +1052,8 @@ msgid ""
 msgstr ""
 "[![Build workflow](https://img.shields.io/github/actions/workflow/status/"
 "google/comprehensive-rust/build.yml?style=flat-square)](https://github.com/"
-"google/comprehensive-rust/actions/workflows/build.yml?query=branch%3Amain) [!"
-"[GitHub contributors](https://img.shields.io/github/contributors/google/"
+"google/comprehensive-rust/actions/workflows/build.yml?query=branch%3Amain) "
+"[![GitHub contributors](https://img.shields.io/github/contributors/google/"
 "comprehensive-rust?style=flat-square)](https://github.com/google/"
 "comprehensive-rust/graphs/contributors)"
 
@@ -1078,8 +1079,7 @@ msgstr ""
 msgid ""
 "The goal of the course is to teach you Rust. We assume you don't know "
 "anything about Rust and hope to:"
-msgstr ""
-"本講座の目的は、Rustを教える事です。Rustに関する前提知識は不要としており、次"
+msgstr "本講座の目的は、Rustを教える事です。Rustに関する前提知識は不要としており、次"
 "の目標を設定しています："
 
 #: src/index.md:18
@@ -1102,8 +1102,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "Building on this, you're invited to dive into one or more specialized topics:"
-msgstr ""
-"最初の3日間は、Rustの基礎を学びます。その後、より専門的なトピックに進む事がで"
+msgstr "最初の3日間は、Rustの基礎を学びます。その後、より専門的なトピックに進む事がで"
 "きます："
 
 #: src/index.md:26
@@ -1135,8 +1134,8 @@ msgid ""
 "futures)."
 msgstr ""
 "[Concurrency](concurrency.md)： Rustの並行性についての1日講座。並行性（スレッ"
-"ドとミューテックスを用いたプリエンプティブなスケジューリング）と、async/await"
-"を使用した並行性（futuresを用いた協調的マルチタスク）がカバーされます。"
+"ドとミューテックスを用いたプリエンプティブなスケジューリング）と、async/"
+"awaitを使用した並行性（futuresを用いた協調的マルチタスク）がカバーされます。"
 
 #: src/index.md:37
 msgid "Non-Goals"
@@ -1157,10 +1156,10 @@ msgid ""
 "(https://doc.rust-lang.org/book/ch19-06-macros.html) and [Rust by Example]"
 "(https://doc.rust-lang.org/rust-by-example/macros.html) instead."
 msgstr ""
-"マクロ（macro）の開発。マクロの詳細については、[Rust Book 日本語版 Ch. 19.5]"
-"(https://doc.rust-jp.rs/book-ja/ch19-06-macros.html)と[Rust by Example 日本語"
-"版 Ch.17](http://doc.rust-jp.rs/rust-by-example-ja/macros.html)を参照してくだ"
-"さい。"
+"マクロ（macro）の開発。マクロの詳細については、[Rust Book 日本語版 Ch. 19."
+"5](https://doc.rust-jp.rs/book-ja/ch19-06-macros.html)と[Rust by Example "
+"日本語版 Ch.17](http://doc.rust-jp.rs/rust-by-example-ja/macros."
+"html)を参照してください。"
 
 #: src/index.md:46
 msgid "Assumptions"
@@ -1174,16 +1173,15 @@ msgid ""
 "C++ to better explain or contrast the Rust approach."
 msgstr ""
 "本講座では、既にプログラミングの知識がある事を前提としています。Rustは静的型"
-"付け言語であり、Rustのアプローチをより分かりやすく説明するために、時折CやC+"
-"+との比較を行います。"
+"付け言語であり、Rustのアプローチをより分かりやすく説明するために、時折CやC++"
+"との比較を行います。"
 
 #: src/index.md:52
 #, fuzzy
 msgid ""
 "If you know how to program in a dynamically-typed language such as Python or "
 "JavaScript, then you will be able to follow along just fine too."
-msgstr ""
-"もし受講者の知識がPythonやJavaScriptなどの動的型付け言語に限定されている場合"
+msgstr "もし受講者の知識がPythonやJavaScriptなどの動的型付け言語に限定されている場合"
 "でも、本講座の受講は可能です。"
 
 #: src/index.md:57
@@ -1191,8 +1189,7 @@ msgid ""
 "This is an example of a _speaker note_. We will use these to add additional "
 "information to the slides. This could be key points which the instructor "
 "should cover as well as answers to typical questions which come up in class."
-msgstr ""
-"これはスピーカーノートの一例です。これを使用してスライドを捕捉します。講師が"
+msgstr "これはスピーカーノートの一例です。これを使用してスライドを捕捉します。講師が"
 "カバーすべき要点や、授業でよく出る質問への回答などが含まれます。"
 
 #: src/running-the-course.md:3 src/running-the-course/course-structure.md:3
@@ -1229,8 +1226,8 @@ msgid ""
 msgstr ""
 "資料に慣れておいてください。要点を強調するためにスピーカーノートが用意されて"
 "います（内容の追加にご協力ください！）。プレゼン時には、スクリーンを見やすい"
-"状態で保つために、スピーカーノートはポップアップウィンドウで開いてください"
-"（スピーカーノートの横にある小さな矢印をクリック）。"
+"状態で保つために、スピーカーノートはポップアップウィンドウで開いてください（"
+"スピーカーノートの横にある小さな矢印をクリック）。"
 
 #: src/running-the-course.md:24
 msgid ""
@@ -1240,8 +1237,8 @@ msgid ""
 "helps them process all the information we give them."
 msgstr ""
 "あらかじめ日程を決めておいてください。講座は最低でも3日かかるため、2週間にわ"
-"たって日程を組む事を推奨しています。過去の受講者によると、講座の間に数日"
-"ギャップを設ける事で内容が吸収しやすくなります。"
+"たって日程を組む事を推奨しています。過去の受講者によると、講座の間に数日ギャ"
+"ップを設ける事で内容が吸収しやすくなります。"
 
 #: src/running-the-course.md:29
 msgid ""
@@ -1253,11 +1250,11 @@ msgid ""
 "laptops. In particular, you will be doing a lot of live-coding as an "
 "instructor, so a lectern won't be very helpful for you."
 msgstr ""
-"十分な広さの部屋を確保しておいてください。15~25名程度のクラスを推奨していま"
-"す。受講者にとって質問がしやすい人数であり、1人の講師が質問に答える時間も確保"
-"できる規模だからです。また、皆さんはPCで作業をする必要があるため、講師を含め"
-"た人数分の机を用意しておいてください。ライブコーディング形式での実施を想定し"
-"ているため、講壇は不要です。"
+"十分な広さの部屋を確保しておいてください。15~25名程度のクラスを推奨しています"
+"。受講者にとって質問がしやすい人数であり、1人の講師が質問に答える時間も確保で"
+"きる規模だからです。また、皆さんはPCで作業をする必要があるため、講師を含めた"
+"人数分の机を用意しておいてください。ライブコーディング形式での実施を想定して"
+"いるため、講壇は不要です。"
 
 #: src/running-the-course.md:37
 msgid ""
@@ -1268,11 +1265,11 @@ msgid ""
 "as you change pages. Using your laptop will also allow you to fix typos as "
 "you or the course participants spot them."
 msgstr ""
-"当日は少し早めに到着して準備をしてください。自分のPCで実行する`mdbook serve`"
-"から直接プレゼンを行う事を推奨します（[インストール手順](https://github.com/"
-"google/comprehensive-rust#building)はこちら）。これにより、ページ切り替え時に"
-"遅延なしで最適なパフォーマンスが得られます。また、PCを使用する事で、受講者や"
-"自分自身が見つけたタイプミスなども修正可能になります。"
+"当日は少し早めに到着して準備をしてください。自分のPCで実行する`mdbook "
+"serve`から直接プレゼンを行う事を推奨します（[インストール手順](https://github"
+".com/google/comprehensive-rust#building)はこちら）。これにより、ページ切り替"
+"え時に遅延なしで最適なパフォーマンスが得られます。また、PCを使用する事で、受"
+"講者や自分自身が見つけたタイプミスなども修正可能になります。"
 
 #: src/running-the-course.md:43
 msgid ""
@@ -1284,18 +1281,17 @@ msgid ""
 "offer a solution, e.g., by showing people where to find the relevant "
 "information in the standard library."
 msgstr ""
-"練習問題は個人か小さいグループで解いてください。回答をレビューする時間も含"
-"め、各練習問題に30~45分を費やします。受講者が行き詰まっているかどうか、何か質"
-"問があるかなど確認してください。複数の受講者が同じ問題で詰まっている場合、ク"
-"ラス全体に対してそれを共有し、解決策を提供してください。例えば、探している情"
-"報が標準ライブラリのどこにあるかを示す、など。"
+"練習問題は個人か小さいグループで解いてください。回答をレビューする時間も含め"
+"、各練習問題に30~45分を費やします。受講者が行き詰まっているかどうか、何か質問"
+"があるかなど確認してください。複数の受講者が同じ問題で詰まっている場合、クラ"
+"ス全体に対してそれを共有し、解決策を提供してください。例えば、探している情報"
+"が標準ライブラリのどこにあるかを示す、など。"
 
 #: src/running-the-course.md:51
 msgid ""
 "That is all, good luck running the course! We hope it will be as much fun "
 "for you as it has been for us!"
-msgstr ""
-"以上です。運営頑張ってください！皆さんにとっても楽しい時間になりますように！"
+msgstr "以上です。運営頑張ってください！皆さんにとっても楽しい時間になりますように！"
 
 #: src/running-the-course.md:54
 msgid ""
@@ -1305,10 +1301,10 @@ msgid ""
 "Your students are also very welcome to [send us feedback](https://github.com/"
 "google/comprehensive-rust/discussions/100)!"
 msgstr ""
-"本講座の改善に向けて[フィードバック](https://github.com/google/comprehensive-"
-"rust/discussions/86)をお願いします。うまくいった点や改善点について幅広くご意"
-"見お聞かせください。[受講者からのフィードバック](https://github.com/google/"
-"comprehensive-rust/discussions/100)も歓迎しております！"
+"本講座の改善に向けて[フィードバック](https://github.com/google/"
+"comprehensive-rust/discussions/86)をお願いします。うまくいった点や改善点につ"
+"いて幅広くご意見お聞かせください。[受講者からのフィードバック](https://github"
+".com/google/comprehensive-rust/discussions/100)も歓迎しております！"
 
 #: src/running-the-course/course-structure.md:5
 msgid "Rust Fundamentals"
@@ -1344,8 +1340,7 @@ msgstr "専門的なトピック"
 msgid ""
 "In addition to the 3-day class on Rust Fundamentals, we cover some more "
 "specialized topics:"
-msgstr ""
-"Rustの基礎に関する3日間の講座に加え、いくつかのより専門的なトピックも用意され"
+msgstr "Rustの基礎に関する3日間の講座に加え、いくつかのより専門的なトピックも用意され"
 "ています："
 
 #: src/running-the-course/course-structure.md:19
@@ -1374,9 +1369,9 @@ msgid ""
 msgstr ""
 "[AOSPのチェックアウト](https://source.android.com/docs/setup/download/"
 "downloading)が必要です。同じ端末から[講座のリポジトリ](https://github.com/"
-"google/comprehensive-rust)をチェックアウトし、`src/android/`ディレクトリを"
-"AOSPチェックアウトのルートに移動してください。これにより、Androidビルドシステ"
-"ムが`src/android/`内の`Android.bp`を確認できるようになります。"
+"google/comprehensive-rust)をチェックアウトし、`src/android/`ディレクトリをAOS"
+"Pチェックアウトのルートに移動してください。これにより、Androidビルドシステム"
+"が`src/android/`内の`Android.bp`を確認できるようになります。"
 
 #: src/running-the-course/course-structure.md:30
 msgid ""
@@ -1412,9 +1407,9 @@ msgid ""
 "need to install a number of packages as described on the [welcome page](../"
 "bare-metal.md)."
 msgstr ""
-"マイクロコントローラの章では、事前に[BBCmicro:bit](https://microbit.org/)v2開"
-"発ボードを購入する必要があります。また、[welcomeページ](../bare-metal.md)で説"
-"明されているように、複数のパッケージをインストールする必要があります。"
+"マイクロコントローラの章では、事前に[BBCmicro:bit](https://microbit.org/"
+")v2開発ボードを購入する必要があります。また、[welcomeページ](../bare-metal."
+"md)で説明されているように、複数のパッケージをインストールする必要があります。"
 
 #: src/running-the-course/course-structure.md:48
 #, fuzzy
@@ -1426,9 +1421,8 @@ msgstr "Rustでの並行性へようこそ"
 msgid ""
 "The [Concurrency in Rust](../concurrency.md) deep dive is a full day class "
 "on classical as well as `async`/`await` concurrency."
-msgstr ""
-"[並行性編](../concurrency.md) は、並行性とasync/awaitを使用した並行性について"
-"の1日講座です。"
+msgstr "[並行性編](../concurrency.md) は、並行性とasync/"
+"awaitを使用した並行性についての1日講座です。"
 
 #: src/running-the-course/course-structure.md:53
 msgid ""
@@ -1447,8 +1441,7 @@ msgstr "フォーマット"
 msgid ""
 "The course is meant to be very interactive and we recommend letting the "
 "questions drive the exploration of Rust!"
-msgstr ""
-"本講座はインタラクティブな形式で行います。積極的に質問して、Rustへの理解を深"
+msgstr "本講座はインタラクティブな形式で行います。積極的に質問して、Rustへの理解を深"
 "めてください！"
 
 #: src/running-the-course/keyboard-shortcuts.md:3
@@ -1580,9 +1573,9 @@ msgid ""
 "github.com/google/comprehensive-rust/issues/282)."
 msgstr ""
 "この取り組みにご協力いただける場合は、[our instructions](https://github.com/"
-"google/comprehensive-rust/blob/main/TRANSLATIONS.md)をご覧ください。翻訳は"
-"[issue tracker](https://github.com/google/comprehensive-rust/issues/282)で管"
-"理されています。"
+"google/comprehensive-rust/blob/main/TRANSLATIONS.md)をご覧ください。翻訳は["
+"issue tracker](https://github.com/google/comprehensive-rust/issues/"
+"282)で管理されています。"
 
 #: src/cargo.md:3
 msgid ""
@@ -1635,9 +1628,9 @@ msgid ""
 "gets you an outdated rust version and may lead to unexpected behavior. The "
 "command would be:"
 msgstr ""
-"Debian/Ubuntuを使用している場合、以下のコマンドを使ってcargo、rustのソース"
-"コード、[Rust formatter](https://github.com/rust-lang/rustfmt)をインストール"
-"します"
+"Debian/"
+"Ubuntuを使用している場合、以下のコマンドを使ってcargo、rustのソースコード、["
+"Rust formatter](https://github.com/rust-lang/rustfmt)をインストールします"
 
 #: src/cargo/rust-ecosystem.md:1
 msgid "The Rust Ecosystem"
@@ -1652,9 +1645,8 @@ msgstr "Rustエコシステムの主要ツールは以下の通りです："
 msgid ""
 "`rustc`: the Rust compiler which turns `.rs` files into binaries and other "
 "intermediate formats."
-msgstr ""
-"`rustc`： Rustのコンパイラです。`.rs`ファイルをバイナリや他の中間形式に変換し"
-"ます。"
+msgstr "`rustc`： Rustのコンパイラです。`."
+"rs`ファイルをバイナリや他の中間形式に変換します。"
 
 #: src/cargo/rust-ecosystem.md:8
 #, fuzzy
@@ -1666,8 +1658,8 @@ msgid ""
 msgstr ""
 "`cargo`： Rustのビルドシステム兼パッケージマネージャです。<https://crates.io>"
 "でホストされている依存関係をダウンロードし、プロジェクトビルド時に`rustc`に渡"
-"します。Cargo に組み込まれたテストランナを使って、ユニットテストを実行するこ"
-"ともできます。"
+"します。Cargo "
+"に組み込まれたテストランナを使って、ユニットテストを実行することもできます。"
 
 #: src/cargo/rust-ecosystem.md:13
 msgid ""
@@ -1712,8 +1704,7 @@ msgstr "リリースチャネルは3つあります：「stable」「beta」「n
 msgid ""
 "New features are being tested on \"nightly\", \"beta\" is what becomes "
 "\"stable\" every six weeks."
-msgstr ""
-"新機能は「nightly」でテストされ、「beta」が6週間毎に「stable」となります。"
+msgstr "新機能は「nightly」でテストされ、「beta」が6週間毎に「stable」となります。"
 
 #: src/cargo/rust-ecosystem.md:32
 msgid ""
@@ -1727,8 +1718,8 @@ msgid ""
 "current edition is Rust 2021. Previous editions were Rust 2015 and Rust 2018."
 msgstr ""
 "Rustには[editions](https://doc.rust-lang.org/edition-guide/)（エディション）"
-"があります：現在のエディションはRust2021です。以前はRust2015とRust2018でし"
-"た。"
+"があります：現在のエディションはRust2021です。以前はRust2015とRust2018でした"
+"。"
 
 #: src/cargo/rust-ecosystem.md:37
 msgid ""
@@ -1740,24 +1731,21 @@ msgstr "エディションでは、後方非互換な変更を加える事がで
 msgid ""
 "To prevent breaking code, editions are opt-in: you select the edition for "
 "your crate via the `Cargo.toml` file."
-msgstr ""
-"コードの破損を防ぐために、エディションはオプトイン方式です：`Cargo.toml`で、"
-"クレートに対して適用したいエディションを選択します。"
+msgstr "コードの破損を防ぐために、エディションはオプトイン方式です：`Cargo."
+"toml`で、クレートに対して適用したいエディションを選択します。"
 
 #: src/cargo/rust-ecosystem.md:43
 msgid ""
 "To avoid splitting the ecosystem, Rust compilers can mix code written for "
 "different editions."
-msgstr ""
-"エコシステムの分断を避けるために、コンパイラは異なるエディションのコードを混"
+msgstr "エコシステムの分断を避けるために、コンパイラは異なるエディションのコードを混"
 "在させる事ができます。"
 
 #: src/cargo/rust-ecosystem.md:46
 msgid ""
 "Mention that it is quite rare to ever use the compiler directly not through "
 "`cargo` (most users never do)."
-msgstr ""
-"コンパイラを直接使用する事は非常に稀であり、基本的には`cargo`を介します。"
+msgstr "コンパイラを直接使用する事は非常に稀であり、基本的には`cargo`を介します。"
 
 #: src/cargo/rust-ecosystem.md:48
 msgid ""
@@ -1773,8 +1761,8 @@ msgstr "プロジェクト・パッケージの構造管理"
 #: src/cargo/rust-ecosystem.md:50
 msgid "[workspaces](https://doc.rust-lang.org/cargo/reference/workspaces.html)"
 msgstr ""
-"[workspaces](https://doc.rust-lang.org/cargo/reference/workspaces.html)（ワー"
-"クスペース）"
+"[workspaces](https://doc.rust-lang.org/cargo/reference/workspaces."
+"html)（ワークスペース）"
 
 #: src/cargo/rust-ecosystem.md:51
 msgid "Dev Dependencies and Runtime Dependency management/caching"
@@ -1801,15 +1789,14 @@ msgid ""
 "It is also extensible with sub command plugins as well (such as [cargo "
 "clippy](https://github.com/rust-lang/rust-clippy))."
 msgstr ""
-"[cargo clippy](https://github.com/rust-lang/rust-clippy)などのサブコマンドプ"
-"ラグインによる拡張"
+"[cargo clippy](https://github.com/rust-lang/rust-"
+"clippy)などのサブコマンドプラグインによる拡張"
 
 #: src/cargo/rust-ecosystem.md:55
 msgid ""
 "Read more from the [official Cargo Book](https://doc.rust-lang.org/cargo/)"
-msgstr ""
-"詳細は[official Cargo Book](https://doc.rust-lang.org/cargo/)を参照してくださ"
-"い。"
+msgstr "詳細は[official Cargo Book](https://doc.rust-lang.org/cargo/"
+")を参照してください。"
 
 #: src/cargo/code-samples.md:1
 msgid "Code Samples in This Training"
@@ -1820,8 +1807,7 @@ msgid ""
 "For this training, we will mostly explore the Rust language through examples "
 "which can be executed through your browser. This makes the setup much easier "
 "and ensures a consistent experience for everyone."
-msgstr ""
-"本講座は、主にブラウザ内で実行可能な例を使います。こうする事で、セットアップ"
+msgstr "本講座は、主にブラウザ内で実行可能な例を使います。こうする事で、セットアップ"
 "が容易になり、一貫した開発環境の提供が可能となります。"
 
 #: src/cargo/code-samples.md:7
@@ -1830,9 +1816,8 @@ msgid ""
 "the exercises. On the last day, we will do a larger exercise which shows you "
 "how to work with dependencies and for that you need Cargo."
 msgstr ""
-"ただし、できればCargoをインストールしてください： 練習問題で使えると便利で"
-"す。また最終日に依存関係を扱う課題を扱いますが、そこではCargoが必要になりま"
-"す。"
+"ただし、できればCargoをインストールしてください： 練習問題で使えると便利です"
+"。また最終日に依存関係を扱う課題を扱いますが、そこではCargoが必要になります。"
 
 #: src/cargo/code-samples.md:11
 msgid "The code blocks in this course are fully interactive:"
@@ -1859,8 +1844,7 @@ msgstr "を押すと、コードが実行されます。"
 msgid ""
 "Most code samples are editable like shown above. A few code samples are not "
 "editable for various reasons:"
-msgstr ""
-"ほとんどのサンプルコードは上記のように編集可能ですが、一部だけ以下のような理"
+msgstr "ほとんどのサンプルコードは上記のように編集可能ですが、一部だけ以下のような理"
 "由から編集不可となっています："
 
 #: src/cargo/code-samples.md:27
@@ -1868,9 +1852,9 @@ msgid ""
 "The embedded playgrounds cannot execute unit tests. Copy-paste the code and "
 "open it in the real Playground to demonstrate unit tests."
 msgstr ""
-"講座のページ内に埋め込まれたプレイグラウンドでユニットテストは実行できませ"
-"ん。コードを実際のプレイグラウンドで開き、デモンストレーションを行う必要があ"
-"ります。"
+"講座のページ内に埋め込まれたプレイグラウンドでユニットテストは実行できません"
+"。コードを実際のプレイグラウンドで開き、デモンストレーションを行う必要があり"
+"ます。"
 
 #: src/cargo/code-samples.md:30
 msgid ""
@@ -1910,8 +1894,7 @@ msgstr ""
 msgid ""
 "With this in place, follow these steps to build a Rust binary from one of "
 "the examples in this training:"
-msgstr ""
-"次に、本講座の例を参考にしながら、以下の手順に従ってRustのバイナリをビルドし"
+msgstr "次に、本講座の例を参考にしながら、以下の手順に従ってRustのバイナリをビルドし"
 "てください："
 
 #: src/cargo/running-locally.md:20
@@ -1926,16 +1909,15 @@ msgstr "`cargo new exercise`で`exercise/`ディレクトリを作成："
 #: src/cargo/running-locally.md:29
 msgid ""
 "Navigate into `exercise/` and use `cargo run` to build and run your binary:"
-msgstr ""
-"`exercise/`ディレクトリに移動し、`cargo run`でバイナリをビルドして実行："
+msgstr "`exercise/`ディレクトリに移動し、`cargo run`でバイナリをビルドして実行："
 
 #: src/cargo/running-locally.md:40
 msgid ""
 "Replace the boiler-plate code in `src/main.rs` with your own code. For "
 "example, using the example on the previous page, make `src/main.rs` look like"
 msgstr ""
-"`src/main.rs`のボイラープレートコードを、コピーしたコードで置き換えてくださ"
-"い。例えば、前のページの例を使った場合、`src/main.rs`は以下のようになります。"
+"`src/main.rs`のボイラープレートコードを、コピーしたコードで置き換えてください"
+"。例えば、前のページの例を使った場合、`src/main.rs`は以下のようになります。"
 
 #: src/cargo/running-locally.md:43
 msgid ""
@@ -1963,9 +1945,9 @@ msgid ""
 "optimized release build in `target/release/`."
 msgstr ""
 "`cargo check`でプロジェクトのエラーチェックを行い、`cargo build`でコンパイル"
-"だけ（実行はせず）を行います。通常のデバッグビルドでは、生成されたファイルは"
-"`target/debug/`に格納されます。最適化されたリリースビルドには`cargo build —"
-"release`を使い、ファイルは`target/release/`に格納されます。"
+"だけ（実行はせず）を行います。通常のデバッグビルドでは、生成されたファイルは`"
+"target/debug/`に格納されます。最適化されたリリースビルドには`cargo build "
+"—release`を使い、ファイルは`target/release/`に格納されます。"
 
 #: src/cargo/running-locally.md:64
 msgid ""
@@ -1973,17 +1955,16 @@ msgid ""
 "run `cargo` commands, it will automatically download and compile missing "
 "dependencies for you."
 msgstr ""
-"プロジェクトに依存関係を追加するには、`Cargo.toml`を編集します。その後、"
-"`cargo`コマンドを実行すると、自動的に不足している依存関係がダウンロードされて"
-"コンパイルされます。"
+"プロジェクトに依存関係を追加するには、`Cargo.toml`を編集します。その後、`carg"
+"o`コマンドを実行すると、自動的に不足している依存関係がダウンロードされてコン"
+"パイルされます。"
 
 #: src/cargo/running-locally.md:72
 msgid ""
 "Try to encourage the class participants to install Cargo and use a local "
 "editor. It will make their life easier since they will have a normal "
 "development environment."
-msgstr ""
-"受講者にCargoのインストールとローカルエディタの使用を勧めてください。通常の開"
+msgstr "受講者にCargoのインストールとローカルエディタの使用を勧めてください。通常の開"
 "発環境を持つ事で、作業がスムーズになります。"
 
 #: src/welcome-day-1.md:1
@@ -1995,16 +1976,14 @@ msgstr "Day 1へようこそ"
 msgid ""
 "This is the first day of Rust Fundamentals. We will cover a lot of ground "
 "today:"
-msgstr ""
-"「Comprehensive Rust」の初日です。本日は多岐にわたる内容をカバーします："
+msgstr "「Comprehensive Rust」の初日です。本日は多岐にわたる内容をカバーします："
 
 #: src/welcome-day-1.md:6
 msgid ""
 "Basic Rust syntax: variables, scalar and compound types, enums, structs, "
 "references, functions, and methods."
-msgstr ""
-"Rustの基本的な構文： 変数、スカラー型と複合型、列挙型、構造体、参照、関数、メ"
-"ソッド。"
+msgstr "Rustの基本的な構文： "
+"変数、スカラー型と複合型、列挙型、構造体、参照、関数、メソッド。"
 
 #: src/welcome-day-1.md:9
 msgid ""
@@ -2031,8 +2010,7 @@ msgstr "分からない事があれば、最後まで待たずに質問をして
 msgid ""
 "The class is meant to be interactive and discussions are very much "
 "encouraged!"
-msgstr ""
-"本講座はインタラクティブな形式で行うため、積極的にディスカッションをしてくだ"
+msgstr "本講座はインタラクティブな形式で行うため、積極的にディスカッションをしてくだ"
 "さい！"
 
 #: src/welcome-day-1.md:20
@@ -2079,8 +2057,7 @@ msgstr ""
 msgid ""
 "If you're teaching this in a classroom, this is a good place to go over the "
 "schedule. We suggest splitting the day into two parts (following the slides):"
-msgstr ""
-"この時点でスケジュール確認を行なってください。以下のように1日を２パートに分け"
+msgstr "この時点でスケジュール確認を行なってください。以下のように1日を２パートに分け"
 "て実施する事を推奨しています："
 
 #: src/welcome-day-1.md:36
@@ -2095,16 +2072,15 @@ msgstr "PM： 13:00 ~ 16:00"
 msgid ""
 "You can of course adjust this as necessary. Please make sure to include "
 "breaks, we recommend a break every hour!"
-msgstr ""
-"必要に応じて調整してください。また、1時間ごとに休憩を取る事をおすすめします！"
+msgstr "必要に応じて調整してください。また、1時間ごとに休憩を取る事をおすすめします！"
 
 #: src/welcome-day-1/what-is-rust.md:3
 msgid ""
 "Rust is a new programming language which had its [1.0 release in 2015]"
 "(https://blog.rust-lang.org/2015/05/15/Rust-1.0.html):"
 msgstr ""
-"Rustは[2015年に1.0版がリリース](https://blog.rust-lang.org/2015/05/15/"
-"Rust-1.0.html)された新しいプログラミング言語です："
+"Rustは[2015年に1.0版がリリース](https://blog.rust-lang.org/2015/05/15/Rust-1."
+"0.html)された新しいプログラミング言語です："
 
 #: src/welcome-day-1/what-is-rust.md:5
 msgid "Rust is a statically compiled language in a similar role as C++"
@@ -2184,8 +2160,7 @@ msgstr "パフォーマンスを犠牲にせず、信頼性と安全性に焦点
 msgid ""
 "Let us jump into the simplest possible Rust program, a classic Hello World "
 "program:"
-msgstr ""
-"さっそく一番シンプルなプログラムである定番のHello Worldからみてみましょう："
+msgstr "さっそく一番シンプルなプログラムである定番のHello Worldからみてみましょう："
 
 #: src/hello-world.md:6
 msgid ""
@@ -2218,8 +2193,7 @@ msgstr "Rustには衛生的なマクロがあり、`println!`はその一例で�
 
 #: src/hello-world.md:18
 msgid "Rust strings are UTF-8 encoded and can contain any Unicode character."
-msgstr ""
-"Rustの文字列はUTF-8でエンコードされ、どんなUnicode文字でも含む事ができます。"
+msgstr "Rustの文字列はUTF-8でエンコードされ、どんなUnicode文字でも含む事ができます。"
 
 #: src/hello-world.md:22
 #, fuzzy
@@ -2236,9 +2210,8 @@ msgstr ""
 msgid ""
 "Rust is very much like other languages in the C/C++/Java tradition. It is "
 "imperative and it doesn't try to reinvent things unless absolutely necessary."
-msgstr ""
-"Rustは、C/C++/Java系統の言語によく似ています。Rustは、命令型（関数型ではな"
-"く）であり、必須でない限り機能の再発明はしません。"
+msgstr "Rustは、C/C++/Java系統の言語によく似ています。Rustは、命令型（関数型ではなく"
+"）であり、必須でない限り機能の再発明はしません。"
 
 #: src/hello-world.md:31
 #, fuzzy
@@ -2251,8 +2224,8 @@ msgid ""
 "Rust uses macros for situations where you want to have a variable number of "
 "arguments (no function [overloading](basic-syntax/functions-interlude.md))."
 msgstr ""
-"Rustで可変長引数を用いたい場合は、マクロを使用します(関数[オーバーロード]"
-"(basic-syntax/functions-interlude.md)はありません)。"
+"Rustで可変長引数を用いたい場合は、マクロを使用します(関数[オーバーロード"
+"](basic-syntax/functions-interlude.md)はありません)。"
 
 #: src/hello-world.md:36
 #, fuzzy
@@ -2335,23 +2308,20 @@ msgstr ""
 
 #: src/hello-world/small-example.md:32
 msgid "Change `let mut x` to `let x`, discuss the compiler error."
-msgstr ""
-"`let mut x`を`let x`に変更し、コンパイルエラーについて説明してください。"
+msgstr "`let mut x`を`let x`に変更し、コンパイルエラーについて説明してください。"
 
 #: src/hello-world/small-example.md:34
 msgid ""
 "Show how `print!` gives a compilation error if the arguments don't match the "
 "format string."
-msgstr ""
-"`print!`の引数がフォーマット文字列と一致しない場合、コンパイルエラーが発生す"
+msgstr "`print!`の引数がフォーマット文字列と一致しない場合、コンパイルエラーが発生す"
 "る事を実演してください。"
 
 #: src/hello-world/small-example.md:37
 msgid ""
 "Show how you need to use `{}` as a placeholder if you want to print an "
 "expression which is more complex than just a single variable."
-msgstr ""
-"単一の変数よりも複雑な式を表示したい場合は、`{}`をプレースホルダとして使用す"
+msgstr "単一の変数よりも複雑な式を表示したい場合は、`{}`をプレースホルダとして使用す"
 "る必要がある事を実演してください。"
 
 #: src/hello-world/small-example.md:40
@@ -2360,9 +2330,9 @@ msgid ""
 "fmt` which has the rules of the formatting mini-language. It's important "
 "that the students become familiar with searching in the standard library."
 msgstr ""
-"受講生に標準ライブラリを紹介し、`std::fmt`の検索方法を説明してください。"
-"`std::fmt`には、フォーマット機能のルールや構文が説明されています。受講者が標"
-"準ライブラリの検索に慣れておく事は重要です。"
+"受講生に標準ライブラリを紹介し、`std::fmt`の検索方法を説明してください。`std:"
+":fmt`には、フォーマット機能のルールや構文が説明されています。受講者が標準ライ"
+"ブラリの検索に慣れておく事は重要です。"
 
 #: src/hello-world/small-example.md:44
 msgid ""
@@ -2390,8 +2360,7 @@ msgstr "現代的な言語機能。"
 msgid ""
 "Make sure to ask the class which languages they have experience with. "
 "Depending on the answer you can highlight different features of Rust:"
-msgstr ""
-"受講者にどの言語の経験があるかを尋ねてください。回答に応じて、Rustのさまざま"
+msgstr "受講者にどの言語の経験があるかを尋ねてください。回答に応じて、Rustのさまざま"
 "な特徴を強調することができます："
 
 #: src/why-rust.md:14
@@ -2647,8 +2616,7 @@ msgstr "イテレータが無効化されない。"
 #: src/why-rust/compile-time.md:16
 msgid ""
 "It is possible to produce memory leaks in (safe) Rust. Some examples are:"
-msgstr ""
-"SafeなRustの範囲内でメモリリークを引き起こすことは可能です。例として以下のよ"
+msgstr "SafeなRustの範囲内でメモリリークを引き起こすことは可能です。例として以下のよ"
 "うな手段があります："
 
 #: src/why-rust/compile-time.md:19
@@ -2658,9 +2626,9 @@ msgid ""
 "html#method.leak) to leak a pointer. A use of this could be to get runtime-"
 "initialized and runtime-sized static variables"
 msgstr ""
-"[`Box::leak`](https://doc.rust-lang.org/std/boxed/struct.Box.html#method."
-"leak)を使ってポインタをリークさせることができます。この関数は実行時に初期化さ"
-"れ、実行時にサイズが決まるstatic変数の取得などに使われます。"
+"[`Box::leak`](https://doc.rust-lang.org/std/boxed/struct.Box.html#method.leak"
+")を使ってポインタをリークさせることができます。この関数は実行時に初期化され、"
+"実行時にサイズが決まるstatic変数の取得などに使われます。"
 
 #: src/why-rust/compile-time.md:21
 #, fuzzy
@@ -2669,34 +2637,31 @@ msgid ""
 "html) to make the compiler \"forget\" about a value (meaning the destructor "
 "is never run)."
 msgstr ""
-"[`std::mem::forget`](https://doc.rust-lang.org/std/mem/fn.forget.html)を使っ"
-"て、コンパイラに値を忘れさせることができます (つまり、デストラクタが実行され"
-"ない)。"
+"[`std::mem::forget`](https://doc.rust-lang.org/std/mem/fn.forget."
+"html)を使って、コンパイラに値を忘れさせることができます "
+"(つまり、デストラクタが実行されない)。"
 
 #: src/why-rust/compile-time.md:23
 #, fuzzy
 msgid ""
 "You can also accidentally create a [reference cycle](https://doc.rust-lang."
 "org/book/ch15-06-reference-cycles.html) with `Rc` or `Arc`."
-msgstr ""
-"`Rc`や`Arc`を使って\\[循環参照（reference cycle）\\]を誤って作成することがあ"
-"ります。"
+msgstr "`Rc`や`Arc`を使って\\[循環参照（reference cycle）\\"
+"]を誤って作成することがあります。"
 
 #: src/why-rust/compile-time.md:25
 #, fuzzy
 msgid ""
 "In fact, some will consider infinitely populating a collection a memory leak "
 "and Rust does not protect from those."
-msgstr ""
-"コレクションを無限に拡張し続けることをメモリリークと見なす場合があり、Rustに"
+msgstr "コレクションを無限に拡張し続けることをメモリリークと見なす場合があり、Rustに"
 "はこれを防ぐ機能はありません。"
 
 #: src/why-rust/compile-time.md:28
 msgid ""
 "For the purpose of this course, \"No memory leaks\" should be understood as "
 "\"Pretty much no _accidental_ memory leaks\"."
-msgstr ""
-"本講座での「メモリリークが起きない」は「_意図しない_メモリリークはほとんど起"
+msgstr "本講座での「メモリリークが起きない」は「_意図しない_メモリリークはほとんど起"
 "きない」と解釈すべきです。"
 
 #: src/why-rust/runtime.md:3
@@ -2722,11 +2687,11 @@ msgid ""
 "panics in debug mode (`cargo build`) and wrap-around in release mode (`cargo "
 "build --release`)."
 msgstr ""
-"整数オーバーフローは、コンパイル時のフラグで定義されます。選択肢として、パ"
-"ニック（プログラムの制御されたクラッシュ）またはラップアラウンドのセマンティ"
-"クスがあります。デフォルトとして、デバッグモード（`cargo build`）ではパニック"
-"が発生し、リリースモード（`cargo build —release`）ではラップアラウンドが行わ"
-"れます。"
+"整数オーバーフローは、コンパイル時のフラグで定義されます。選択肢として、パニ"
+"ック（プログラムの制御されたクラッシュ）またはラップアラウンドのセマンティク"
+"スがあります。デフォルトとして、デバッグモード（`cargo "
+"build`）ではパニックが発生し、リリースモード（`cargo build "
+"—release`）ではラップアラウンドが行われます。"
 
 #: src/why-rust/runtime.md:18
 msgid ""
@@ -2735,10 +2700,10 @@ msgid ""
 "call functions such as `slice::get_unchecked` which does not do bounds "
 "checking."
 msgstr ""
-"境界チェックは、コンパイル時のフラグで無効にすることはできません。また、"
-"`unsafe`のキーワードを使って直接無効にすることもできません。しかし、`unsafe`"
-"を使って境界チェックを行わない`slice::get_unchecked`のような関数を呼び出すこ"
-"とができます。"
+"境界チェックは、コンパイル時のフラグで無効にすることはできません。また、`unsa"
+"fe`のキーワードを使って直接無効にすることもできません。しかし、`unsafe`を使っ"
+"て境界チェックを行わない`slice::get_unchecked`のような関数を呼び出すことがで"
+"きます。"
 
 #: src/why-rust/modern.md:3
 #, fuzzy
@@ -2794,8 +2759,8 @@ msgid ""
 msgstr ""
 "C++と同様に、ゼロコスト抽象化とは、より高水準なプログラミング構造の利用にメモ"
 "リやCPUのコストを支払う必要がないことを意味します。例えば、`for`を使ったルー"
-"プの場合、`iter().fold()`構文を使った場合とおおよそ同じ低水準の処理になりま"
-"す。"
+"プの場合、`iter()."
+"fold()`構文を使った場合とおおよそ同じ低水準の処理になります。"
 
 #: src/why-rust/modern.md:28
 msgid ""
@@ -2833,14 +2798,12 @@ msgstr "乱数生成器。[rand](https://docs.rs/rand/)を確認してくださ�
 
 #: src/why-rust/modern.md:42
 msgid "support for SSL or TLS, but see [rusttls](https://docs.rs/rustls/)."
-msgstr ""
-"SSLやTLSのサポート。[rusttls](https://docs.rs/rustls/)を確認してください。"
+msgstr "SSLやTLSのサポート。[rusttls](https://docs.rs/rustls/)を確認してください。"
 
 #: src/why-rust/modern.md:43
 msgid "support for JSON, but see [serde_json](https://docs.rs/serde_json/)."
-msgstr ""
-"JSONのサポート。[serde_json](https://docs.rs/serde_json/)を確認してくださ"
-"い。 "
+msgstr "JSONのサポート。[serde_json](https://docs.rs/serde_json/)を確認してください。"
+" "
 
 #: src/why-rust/modern.md:45
 msgid ""
@@ -3564,8 +3527,7 @@ msgstr ""
 msgid ""
 "After looking at the exercises, you can look at the [solutions](solutions-"
 "morning.md) provided."
-msgstr ""
-"練習問題に取り組んだあとは、 [解答](solutions-morning.md)をみても構いません。"
+msgstr "練習問題に取り組んだあとは、 [解答](solutions-morning.md)をみても構いません。"
 
 #: src/exercises/day-1/implicit-conversions.md:3
 msgid ""
@@ -3759,9 +3721,9 @@ msgid ""
 "becomes the value of the `if` expression. Other control flow expressions "
 "work similarly in Rust."
 msgstr ""
-"今まで見てきたように、Rust において `if` は式です。`if` 式のブロックは値を"
-"持っており、条件判定の結果に応じて評価されたブロックの値が `if` 式の値となり"
-"ます。Rust では他の制御フローの式も同様の動作をします。"
+"今まで見てきたように、Rust において `if` は式です。`if` "
+"式のブロックは値を持っており、条件判定の結果に応じて評価されたブロックの値が "
+"`if` 式の値となります。Rust では他の制御フローの式も同様の動作をします。"
 
 #: src/control-flow/blocks.md:3
 msgid ""
@@ -3776,16 +3738,14 @@ msgstr ""
 msgid ""
 "If the last expression ends with `;`, then the resulting value and type is "
 "`()`."
-msgstr ""
-"最後の式が `;` で終了した場合、ブロック全体の値と型は `()` になります。"
+msgstr "最後の式が `;` で終了した場合、ブロック全体の値と型は `()` になります。"
 
 #: src/control-flow/blocks.md:29
 msgid ""
 "The same rule is used for functions: the value of the function body is the "
 "return value:"
-msgstr ""
-"同じルールが関数についても適用されます。関数の body ブロックの値が、その関数"
-"の返り値となります。"
+msgstr "同じルールが関数についても適用されます。関数の body "
+"ブロックの値が、その関数の返り値となります。"
 
 #: src/control-flow/blocks.md:45 src/enums.md:34 src/enums/sizes.md:28
 #: src/pattern-matching.md:25 src/pattern-matching/match-guards.md:22
@@ -3797,8 +3757,7 @@ msgstr "キーポイント: "
 msgid ""
 "The point of this slide is to show that blocks have a type and value in "
 "Rust. "
-msgstr ""
-"このスライドのポイントは、Rust におけるブロックは型と値を持つということです。"
+msgstr "このスライドのポイントは、Rust におけるブロックは型と値を持つということです。"
 
 #: src/control-flow/blocks.md:47
 msgid ""
@@ -3806,8 +3765,8 @@ msgid ""
 "the block. For instance, adding/removing a semicolon or using a `return`."
 msgstr ""
 "ブロック内にある最後の行を変更することによって、ブロック全体の値が変わること"
-"が分かります。例えば、行末のセミコロンを追加/削除したり、`return` を使用した"
-"りすることで、ブロックの値は変化します。"
+"が分かります。例えば、行末のセミコロンを追加/削除したり、`return` "
+"を使用したりすることで、ブロックの値は変化します。"
 
 #: src/control-flow/if-expressions.md:1
 msgid "`if` expressions"
@@ -3825,9 +3784,9 @@ msgstr ""
 msgid ""
 "In addition, you can use `if` as an expression. The last expression of each "
 "block becomes the value of the `if` expression:"
-msgstr ""
-"さらに、`if` を式としても用いることができます。それぞれのブロックにある最後の"
-"式が、`if` 式の値となります。"
+msgstr "さらに、`if` "
+"を式としても用いることができます。それぞれのブロックにある最後の式が、`if` "
+"式の値となります。"
 
 #: src/control-flow/if-expressions.md:35
 msgid ""
@@ -3835,9 +3794,10 @@ msgid ""
 "branch blocks must have the same type. Consider showing what happens if you "
 "add `;` after `x / 2` in the second example."
 msgstr ""
-"`if` は式であるため、1 つの決まった型を持たなくてはなりません。したがって、"
-"`if` 式の分岐ブロックは同一の型を持つ必要があります。2 つ目の例において、"
-"`x / 2` のあとに `;` を付け加えると何が起こるでしょうか。"
+"`if` は式であるため、1 "
+"つの決まった型を持たなくてはなりません。したがって、`if` "
+"式の分岐ブロックは同一の型を持つ必要があります。2 つ目の例において、`x / 2` "
+"のあとに `;` を付け加えると何が起こるでしょうか。"
 
 #: src/control-flow/for-expressions.md:1
 msgid "`for` loops"
@@ -3849,20 +3809,18 @@ msgid ""
 "related to the [`while let` loop](while-let-expressions.md). It will "
 "automatically call `into_iter()` on the expression and then iterate over it:"
 msgstr ""
-"[`for` loop](https://doc.rust-lang.org/std/keyword.for.html) は、[`while "
-"let` loop](while-let-expressions.md) とよく似ています。`for` ループは `in` "
-"キーワードの右側にある式に対して自動的に `into_iter()` を呼び出し、その結果生"
-"成されたイテレータを用いて走査を行います。"
+"[`for` loop](https://doc.rust-lang.org/std/keyword.for.html) は、[`while let`"
+" loop](while-let-expressions.md) とよく似ています。`for` ループは `in` "
+"キーワードの右側にある式に対して自動的に `into_iter()` "
+"を呼び出し、その結果生成されたイテレータを用いて走査を行います。"
 
 #: src/control-flow/for-expressions.md:22
 msgid "You can use `break` and `continue` here as usual."
-msgstr ""
-"`for` ループの中では、いつも通り `break` や `continue` を使うことができます。"
+msgstr "`for` ループの中では、いつも通り `break` や `continue` を使うことができます。"
 
 #: src/control-flow/for-expressions.md:26
 msgid "Index iteration is not a special syntax in Rust for just that case."
-msgstr ""
-"Rust では、インデックスによる反復処理のために特別な構文は提供されていません。"
+msgstr "Rust では、インデックスによる反復処理のために特別な構文は提供されていません。"
 
 #: src/control-flow/for-expressions.md:27
 msgid "`(0..10)` is a range that implements an `Iterator` trait. "
@@ -3872,9 +3830,8 @@ msgstr "`(0..10)` は Range 型であり、`Iterator` トレイトを実装し�
 msgid ""
 "`step_by` is a method that returns another `Iterator` that skips every other "
 "element. "
-msgstr ""
-"`step_by` は、元のイテレータとは別の、各要素をスキップする `Iterator` を返す"
-"メソッドです。"
+msgstr "`step_by` は、元のイテレータとは別の、各要素をスキップする `Iterator` "
+"を返すメソッドです。"
 
 #: src/control-flow/for-expressions.md:29
 msgid ""
@@ -3895,8 +3852,8 @@ msgid ""
 "expr.html#predicate-loops) works very similar to other languages:"
 msgstr ""
 "[`while` キーワード](https://doc.rust-lang.org/reference/expressions/loop-"
-"expr.html#predicate-loops) は、他の言語における `while` と非常によく似た働き"
-"をします。"
+"expr.html#predicate-loops) は、他の言語における `while` "
+"と非常によく似た働きをします。"
 
 #: src/control-flow/break-continue.md:1
 msgid "`break` and `continue`"
@@ -3916,23 +3873,21 @@ msgid ""
 "doc.rust-lang.org/reference/expressions/loop-expr.html#continue-expressions)."
 msgstr ""
 "次のイテレーションをすぐさま開始したい場合は [`continue`](https://doc.rust-"
-"lang.org/reference/expressions/loop-expr.html#continue-expressions) を使用し"
-"てください。"
+"lang.org/reference/expressions/loop-expr.html#continue-expressions) "
+"を使用してください。"
 
 #: src/control-flow/break-continue.md:7
 msgid ""
 "Both `continue` and `break` can optionally take a label argument which is "
 "used to break out of nested loops:"
-msgstr ""
-"`continue` と `break` はオプションでラベル引数を取ることができます。ラベルは"
+msgstr "`continue` と `break` はオプションでラベル引数を取ることができます。ラベルは"
 "ネストしたループから抜け出すために使われます。"
 
 #: src/control-flow/break-continue.md:29
 msgid ""
 "In this case we break the outer loop after 3 iterations of the inner loop."
-msgstr ""
-"上の例では、内側のループを 3 回イテレーションしたのちに外側のループを抜けるこ"
-"とになります。"
+msgstr "上の例では、内側のループを 3 "
+"回イテレーションしたのちに外側のループを抜けることになります。"
 
 #: src/control-flow/loop-expressions.md:1
 msgid "`loop` expressions"
@@ -3948,14 +3903,12 @@ msgstr ""
 
 #: src/control-flow/loop-expressions.md:6
 msgid "Here you must either `break` or `return` to stop the loop:"
-msgstr ""
-"下の例で、ループから抜けるためには `break` あるいは `return` を使う必要があり"
-"ます。"
+msgstr "下の例で、ループから抜けるためには `break` あるいは `return` "
+"を使う必要があります。"
 
 #: src/control-flow/loop-expressions.md:28
 msgid "Break the `loop` with a value (e.g. `break 8`) and print it out."
-msgstr ""
-"例えば `break 8` のようにループを値と共に抜け、それを print してみましょう。"
+msgstr "例えば `break 8` のようにループを値と共に抜け、それを print してみましょう。"
 
 #: src/control-flow/loop-expressions.md:29
 msgid ""
@@ -3964,9 +3917,9 @@ msgid ""
 "`while` and `for` loops)."
 msgstr ""
 "注意が必要なのは、`loop` が唯一、非自明な値を返すことができるループ構造である"
-"という点です。これは、`loop` が少なくとも一度は必ず実行されることが保証されて"
-"いるからです（これに対して、while や for ループは必ずしも実行されるわけではあ"
-"りません）。"
+"という点です。これは、`loop` "
+"が少なくとも一度は必ず実行されることが保証されているからです（これに対して、"
+"while や for ループは必ずしも実行されるわけではありません）。"
 
 #: src/basic-syntax/variables.md:3
 msgid ""
@@ -5183,8 +5136,7 @@ msgstr ""
 msgid ""
 "Memory management: stack vs heap, manual memory management, scope-based "
 "memory management, and garbage collection."
-msgstr ""
-"メモリ管理： スタック vs ヒープ、手動でのメモリ管理、スコープに基づくメモリ管"
+msgstr "メモリ管理： スタック vs ヒープ、手動でのメモリ管理、スコープに基づくメモリ管"
 "理、ガベージコレクション。"
 
 #: src/welcome-day-2.md:8
@@ -7950,8 +7902,7 @@ msgstr ""
 
 #: src/generics/data-types.md:3
 msgid "You can use generics to abstract over the concrete field type:"
-msgstr ""
-"ジェネリクスを使って、具体的なフィールドの型を抽象化することができます："
+msgstr "ジェネリクスを使って、具体的なフィールドの型を抽象化することができます："
 
 #: src/generics/data-types.md:5
 msgid ""
@@ -7972,9 +7923,8 @@ msgstr ""
 
 #: src/generics/data-types.md:21
 msgid "Try declaring a new variable `let p = Point { x: 5, y: 10.0 };`."
-msgstr ""
-"次のような新しい変数を宣言してみてください `let p = Point { x: 5, y: 10.0 };"
-"`."
+msgstr "次のような新しい変数を宣言してみてください `let p = Point { x: 5, y: 10.0 "
+"};`."
 
 #: src/generics/data-types.md:23
 msgid "Fix the code to allow points that have elements of different types."
@@ -8009,22 +7959,19 @@ msgstr ""
 msgid ""
 "_Q:_ Why `T` is specified twice in `impl<T> Point<T> {}`? Isn't that "
 "redundant?"
-msgstr ""
-"_Q:_ なぜ`T`は２回も `impl<T> Point<T> {}` において指定されたのでしょうか？冗"
-"長ではありませんか？"
+msgstr "_Q:_ なぜ`T`は２回も `impl<T> Point<T> {}` "
+"において指定されたのでしょうか？冗長ではありませんか？"
 
 #: src/generics/methods.md:26
 msgid ""
 "This is because it is a generic implementation section for generic type. "
 "They are independently generic."
-msgstr ""
-"なぜなら、これはジェネリクスに対してのジェネリックな実装の箇所だからです。そ"
+msgstr "なぜなら、これはジェネリクスに対してのジェネリックな実装の箇所だからです。そ"
 "れらは独立してジェネリックです。"
 
 #: src/generics/methods.md:27
 msgid "It means these methods are defined for any `T`."
-msgstr ""
-"つまり、そのようなメソッドは任意の`T`に対して定義されるということです。"
+msgstr "つまり、そのようなメソッドは任意の`T`に対して定義されるということです。"
 
 #: src/generics/methods.md:28
 msgid "It is possible to write `impl Point<u32> { .. }`. "
@@ -8036,13 +7983,12 @@ msgid ""
 "block will only be available for `Point<u32>`."
 msgstr ""
 "`Point`はそれでもなおジェネリックであり、 `Point<f64>`を使うことができます。"
-"しかし、このブロックでのメソッドは`Point<u32>`に対してのみ利用可能となりま"
-"す。"
+"しかし、このブロックでのメソッドは`Point<u32>`に対してのみ利用可能となります"
+"。"
 
 #: src/generics/monomorphization.md:3
 msgid "Generic code is turned into non-generic code based on the call sites:"
-msgstr ""
-"ジェネリクスのコードは呼び出し箇所に基づいて、ジェネリックでないコードに変換"
+msgstr "ジェネリクスのコードは呼び出し箇所に基づいて、ジェネリックでないコードに変換"
 "されます："
 
 #: src/generics/monomorphization.md:12
@@ -8053,8 +7999,7 @@ msgstr "上のコードは、次のように書いた時と同じように動作
 msgid ""
 "This is a zero-cost abstraction: you get exactly the same result as if you "
 "had hand-coded the data structures without the abstraction."
-msgstr ""
-"これはゼロコスト抽象化です：抽象化なしに手作業でデータ構造を書いたときと、全"
+msgstr "これはゼロコスト抽象化です：抽象化なしに手作業でデータ構造を書いたときと、全"
 "く同じ結果を得ることができます。"
 
 #: src/traits.md:3
@@ -11775,16 +11720,15 @@ msgid ""
 "Comprehensive Rust course), and ideally also have some experience with bare-"
 "metal programming in some other language such as C."
 msgstr ""
-"こちらはベアメタルRustに関する独立した１日コースです。対象としているのは、"
-"Rustの基本的な部分に関しては習得済みな人で（例えば、本講座で）、Cなどの他の言"
-"語でベアメタル開発の経験があると理想的です。"
+"こちらはベアメタルRustに関する独立した１日コースです。対象としているのは、Rus"
+"tの基本的な部分に関しては習得済みな人で（例えば、本講座で）、Cなどの他の言語"
+"でベアメタル開発の経験があると理想的です。"
 
 #: src/bare-metal.md:7
 msgid ""
 "Today we will talk about 'bare-metal' Rust: running Rust code without an OS "
 "underneath us. This will be divided into several parts:"
-msgstr ""
-"今日、取り扱うのは、ベアメタルRustです。すなわち、OSなしでRustのコードを実行"
+msgstr "今日、取り扱うのは、ベアメタルRustです。すなわち、OSなしでRustのコードを実行"
 "します。この章は以下のような構成になります:"
 
 #: src/bare-metal.md:10
@@ -11811,23 +11755,22 @@ msgid ""
 "with some LEDs and buttons, an I2C-connected accelerometer and compass, and "
 "an on-board SWD debugger."
 msgstr ""
-"マイクロコントローラ向けの学習では[BBC micro:bit](https://microbit.org/) v2を"
-"題材として使います。これは、Nordic nRF51822マイコンベースの[開発ボード]"
-"(https://tech.microbit.org/hardware/) で、いくつかのLEDやボタンスイッチ、I2C"
-"接続の加速度センサやコンパス、そしてオンボードSWDデバッガを搭載しています。"
+"マイクロコントローラ向けの学習では[BBC micro:bit](https://microbit.org/) "
+"v2を題材として使います。これは、Nordic "
+"nRF51822マイコンベースの[開発ボード](https://tech.microbit.org/hardware/) で"
+"、いくつかのLEDやボタンスイッチ、I2C接続の加速度センサやコンパス、そしてオン"
+"ボードSWDデバッガを搭載しています。"
 
 #: src/bare-metal.md:20
 msgid ""
 "To get started, install some tools we'll need later. On gLinux or Debian:"
-msgstr ""
-"まずはじめに、後ほど必要となるいくつかのツールをインストールします。gLinuxま"
+msgstr "まずはじめに、後ほど必要となるいくつかのツールをインストールします。gLinuxま"
 "たはDebianの場合は以下のようになります:"
 
 #: src/bare-metal.md:30
 msgid ""
 "And give users in the `plugdev` group access to the micro:bit programmer:"
-msgstr ""
-"さらに、`plugdev`グループにmicro:bitプログラム用デバイスへのアクセスを付与し"
+msgstr "さらに、`plugdev`グループにmicro:bitプログラム用デバイスへのアクセスを付与し"
 "ます:"
 
 #: src/bare-metal.md:38 src/bare-metal/microcontrollers/debugging.md:27
@@ -11952,15 +11895,13 @@ msgstr "このコードは空のバイナリにコンパイルされます。"
 
 #: src/bare-metal/minimal.md:18
 msgid "`std` provides a panic handler; without it we must provide our own."
-msgstr ""
-"パニックハンドラは`std`が提供するので、それを使わない場合は自分で提供する必要"
+msgstr "パニックハンドラは`std`が提供するので、それを使わない場合は自分で提供する必要"
 "があります。"
 
 #: src/bare-metal/minimal.md:19
 msgid "It can also be provided by another crate, such as `panic-halt`."
-msgstr ""
-"あるいは、`panic-halt`のような別のクレートが提供するパニックハンドラを利用す"
-"ることもできます。"
+msgstr "あるいは、`panic-"
+"halt`のような別のクレートが提供するパニックハンドラを利用することもできます。"
 
 #: src/bare-metal/minimal.md:20
 msgid ""
@@ -11985,8 +11926,8 @@ msgid ""
 "To use `alloc` you must implement a [global (heap) allocator](https://doc."
 "rust-lang.org/stable/std/alloc/trait.GlobalAlloc.html)."
 msgstr ""
-"`alloc`を使うためには、[グローバル（ヒープ）アロケータ](https://doc.rust-"
-"lang.org/stable/std/alloc/trait.GlobalAlloc.html)を実装しなければなりません。"
+"`alloc`を使うためには、[グローバル（ヒープ）アロケータ](https://doc.rust-lang"
+".org/stable/std/alloc/trait.GlobalAlloc.html)を実装しなければなりません。"
 
 #: src/bare-metal/alloc.md:6
 msgid ""
@@ -12037,9 +11978,8 @@ msgstr ""
 msgid ""
 "The const parameter of `LockedHeap` is the max order of the allocator; i.e. "
 "in this case it can allocate regions of up to 2\\*\\*32 bytes."
-msgstr ""
-"パラメータ定数`LockedHeap`はアロケータの最大オーダを示します。この場合、"
-"2\\*\\*32バイトの領域を確保することが可能です。"
+msgstr "パラメータ定数`LockedHeap`はアロケータの最大オーダを示します。この場合、2\\*"
+"\\*32バイトの領域を確保することが可能です。"
 
 #: src/bare-metal/alloc.md:43
 msgid ""
@@ -12061,33 +12001,30 @@ msgstr ""
 
 #: src/bare-metal/alloc.md:47
 msgid "This example will build but not run, as it doesn't have an entry point."
-msgstr ""
-"この例で示したコードはビルドできますが、エントリポイントがないので実行するこ"
+msgstr "この例で示したコードはビルドできますが、エントリポイントがないので実行するこ"
 "とはできません。"
 
 #: src/bare-metal/microcontrollers.md:3
 msgid ""
 "The `cortex_m_rt` crate provides (among other things) a reset handler for "
 "Cortex M microcontrollers."
-msgstr ""
-"`cortex_m_rt`クレートはCortex Mマイクロコントローラ向けのリセットハンドラ（と"
-"その他もろもろ）を提供します。"
+msgstr "`cortex_m_rt`クレートはCortex "
+"Mマイクロコントローラ向けのリセットハンドラ（とその他もろもろ）を提供します。"
 
 #: src/bare-metal/microcontrollers.md:21
 msgid ""
 "Next we'll look at how to access peripherals, with increasing levels of "
 "abstraction."
-msgstr ""
-"次は、抽象度の低いレベルから順に周辺I/Oにアクセスする方法について見ていきま"
-"す。"
+msgstr "次は、抽象度の低いレベルから順に周辺I/"
+"Oにアクセスする方法について見ていきます。"
 
 #: src/bare-metal/microcontrollers.md:25
 msgid ""
 "The `cortex_m_rt::entry` macro requires that the function have type `fn() -"
 "> !`, because returning to the reset handler doesn't make sense."
 msgstr ""
-"リセットハンドラはリターンしないので、`cortex_m_rt::entry`マクロは対象関数が"
-"`fn() -> !`という型であることを要求します。"
+"リセットハンドラはリターンしないので、`cortex_m_rt::entry`マクロは対象関数が`"
+"fn() -> !`という型であることを要求します。"
 
 #: src/bare-metal/microcontrollers.md:27
 msgid "Run the example with `cargo embed --bin minimal`"
@@ -12097,9 +12034,8 @@ msgstr "この例は`cargo embed --bin minimal`により実行します"
 msgid ""
 "Most microcontrollers access peripherals via memory-mapped IO. Let's try "
 "turning on an LED on our micro:bit:"
-msgstr ""
-"大半のマイクロコントローラはメモリマップドRIO空間を通して周辺I/Oにアクセスし"
-"ます。micro:bitのLEDを光らせてみましょう:"
+msgstr "大半のマイクロコントローラはメモリマップドRIO空間を通して周辺I/"
+"Oにアクセスします。micro:bitのLEDを光らせてみましょう:"
 
 #: src/bare-metal/microcontrollers/mmio.md:6
 msgid ""
@@ -12170,9 +12106,8 @@ msgstr ""
 msgid ""
 "GPIO 0 pin 21 is connected to the first column of the LED matrix, and pin 28 "
 "to the first row."
-msgstr ""
-"GPIO 0のピン21はマトリクスLEDの一番目の列に、ピン28は最初の行に接続されていま"
-"す。"
+msgstr "GPIO "
+"0のピン21はマトリクスLEDの一番目の列に、ピン28は最初の行に接続されています。"
 
 #: src/bare-metal/microcontrollers/mmio.md:66
 #: src/bare-metal/microcontrollers/pacs.md:59
@@ -12192,8 +12127,9 @@ msgid ""
 "pack/doc/CMSIS/SVD/html/index.html) files."
 msgstr ""
 "[`svd2rust`](https://crates.io/crates/svd2rust) は[CMSIS-SVD](https://www."
-"keil.com/pack/doc/CMSIS/SVD/html/index.html) ファイルから、メモリマップされた"
-"周辺I/Oに対するほぼ安全（mostly-safe）なRustラッパーを生成します。"
+"keil.com/pack/doc/CMSIS/SVD/html/index.html) "
+"ファイルから、メモリマップされた周辺I/Oに対するほぼ安全（mostly-"
+"safe）なRustラッパーを生成します。"
 
 #: src/bare-metal/microcontrollers/pacs.md:7
 msgid ""
@@ -12250,8 +12186,7 @@ msgstr ""
 msgid ""
 "They are organised by peripheral, register, field and value, with names, "
 "descriptions, addresses and so on."
-msgstr ""
-"周辺I/Oごとに、レジスタ、フィールドと値、名前、説明、アドレスなどにより構成さ"
+msgstr "周辺I/Oごとに、レジスタ、フィールドと値、名前、説明、アドレスなどにより構成さ"
 "れています。"
 
 #: src/bare-metal/microcontrollers/pacs.md:53
@@ -12259,8 +12194,7 @@ msgid ""
 "SVD files are often buggy and incomplete, so there are various projects "
 "which patch the mistakes, add missing details, and publish the generated "
 "crates."
-msgstr ""
-"SVDファイルにはよく誤りがあり、また情報が不足していることも多いので、様々なプ"
+msgstr "SVDファイルにはよく誤りがあり、また情報が不足していることも多いので、様々なプ"
 "ロジェクトがそれを修正・追加し、クレートとして公開しています。"
 
 #: src/bare-metal/microcontrollers/pacs.md:55
@@ -12273,8 +12207,8 @@ msgid ""
 "pac -- -d --no-show-raw-insn` to see the resulting binary."
 msgstr ""
 "もし`cargo install cargo-binutils`を実行していれば、`cargo objdump --bin pac "
-"-- -d --no-show-raw-insn`を実行することにより生成されたバイナリの中身を見るこ"
-"とができます。"
+"-- -d --no-show-raw-"
+"insn`を実行することにより生成されたバイナリの中身を見ることができます。"
 
 #: src/bare-metal/microcontrollers/hals.md:1
 msgid "HAL crates"
@@ -12287,10 +12221,11 @@ msgid ""
 "various peripherals. These generally implement traits from [`embedded-hal`]"
 "(https://crates.io/crates/embedded-hal)."
 msgstr ""
-"多くのマイクロコントローラに対する[HALクレート](https://github.com/rust-"
-"embedded/awesome-embedded-rust#hal-implementation-crates)が様々な周辺I/Oに対"
-"するラッパーを提供しています。これらのクレートの多くは[`embedded-hal`]"
-"(https://crates.io/crates/embedded-hal)が定義するトレイトを実装しています。"
+"多くのマイクロコントローラに対する[HALクレート](https://github.com/"
+"rust-embedded/awesome-embedded-rust#hal-implementation-crates)が様々な周辺I/"
+"Oに対するラッパーを提供しています。これらのクレートの多くは[`embedded-"
+"hal`](https://crates.io/crates/embedded-"
+"hal)が定義するトレイトを実装しています。"
 
 #: src/bare-metal/microcontrollers/hals.md:7
 msgid ""
@@ -12328,8 +12263,7 @@ msgstr ""
 #: src/bare-metal/microcontrollers/hals.md:39
 msgid ""
 "`set_low` and `set_high` are methods on the `embedded_hal` `OutputPin` trait."
-msgstr ""
-"`set_low`と`set_high`は`embedded_hal`の`OutputPin`トレイトの定義するメソッド"
+msgstr "`set_low`と`set_high`は`embedded_hal`の`OutputPin`トレイトの定義するメソッド"
 "です。"
 
 #: src/bare-metal/microcontrollers/hals.md:40
@@ -12337,8 +12271,8 @@ msgid ""
 "HAL crates exist for many Cortex-M and RISC-V devices, including various "
 "STM32, GD32, nRF, NXP, MSP430, AVR and PIC microcontrollers."
 msgstr ""
-"Cortex-MやRISC-Vの多くのデバイスに対してHALクレートが存在し、これらには"
-"STM32、GD32、nRF、NXP、MSP430、AVR、PICマイクロコントローラなどが含まれます。"
+"Cortex-MやRISC-Vの多くのデバイスに対してHALクレートが存在し、これらにはSTM32"
+"、GD32、nRF、NXP、MSP430、AVR、PICマイクロコントローラなどが含まれます。"
 
 #: src/bare-metal/microcontrollers/board-support.md:1
 msgid "Board support crates"
@@ -12348,24 +12282,21 @@ msgstr "ボードサポートクレート"
 msgid ""
 "Board support crates provide a further level of wrapping for a specific "
 "board for convenience."
-msgstr ""
-"ボードサポートクレードは特定のボードに対して更に利便性を向上させるラッパーを"
+msgstr "ボードサポートクレードは特定のボードに対して更に利便性を向上させるラッパーを"
 "提供します。"
 
 #: src/bare-metal/microcontrollers/board-support.md:28
 msgid ""
 "In this case the board support crate is just providing more useful names, "
 "and a bit of initialisation."
-msgstr ""
-"この例では、ボードサポートクレートは単に分かりやすい名前を提供し、少しの初期"
+msgstr "この例では、ボードサポートクレートは単に分かりやすい名前を提供し、少しの初期"
 "化を実施しているだけです。"
 
 #: src/bare-metal/microcontrollers/board-support.md:30
 msgid ""
 "The crate may also include drivers for some on-board devices outside of the "
 "microcontroller itself."
-msgstr ""
-"マイクロコントローラの外に実装されたオンボードデバイスに対するドライバも提供"
+msgstr "マイクロコントローラの外に実装されたオンボードデバイスに対するドライバも提供"
 "されていることがあります。"
 
 #: src/bare-metal/microcontrollers/board-support.md:32
@@ -12415,8 +12346,8 @@ msgid ""
 "exist. Once a pin is moved out of the port struct nobody else can take it."
 msgstr ""
 "この例では、ピンを表すタイプは`Copy`も`Clone`も実装していません。そのため、た"
-"だ一つのインスタンスだけが存在可能です。ピンがポート構造体からムーブされる"
-"と、他の誰もそのピンにアクセスすることはできなくなります。"
+"だ一つのインスタンスだけが存在可能です。ピンがポート構造体からムーブされると"
+"、他の誰もそのピンにアクセスすることはできなくなります。"
 
 #: src/bare-metal/microcontrollers/type-state.md:34
 msgid ""
@@ -12435,9 +12366,9 @@ msgid ""
 "caught at compile time."
 msgstr ""
 "変数の型はその状態を表すようになっています。例えば、この例では型がGPIOピンの"
-"状態を表しています。このようにステートマシンをタイプシステムに織り込むこと"
-"で、正しい設定をせずにピンを使ってしまうことがなくなります。不正な状態遷移に"
-"関してはコンパイル時に発見されるようになります。"
+"状態を表しています。このようにステートマシンをタイプシステムに織り込むことで"
+"、正しい設定をせずにピンを使ってしまうことがなくなります。不正な状態遷移に関"
+"してはコンパイル時に発見されるようになります。"
 
 #: src/bare-metal/microcontrollers/type-state.md:40
 msgid ""
@@ -12445,8 +12376,8 @@ msgid ""
 "not vice-versa."
 msgstr ""
 "インプットピンに対して`is_high`を呼び出すことは可能で、アウトプットピンに対し"
-"て`set_high`を呼び出すことも可能です。しかし、その逆の組み合わせは不可能で"
-"す。"
+"て`set_high`を呼び出すことも可能です。しかし、その逆の組み合わせは不可能です"
+"。"
 
 #: src/bare-metal/microcontrollers/type-state.md:41
 msgid "Many HAL crates follow this pattern."
@@ -12461,8 +12392,9 @@ msgid ""
 "The [`embedded-hal`](https://crates.io/crates/embedded-hal) crate provides a "
 "number of traits covering common microcontroller peripherals."
 msgstr ""
-"[`embedded-hal`](https://crates.io/crates/embedded-hal)クレートはマイクロコン"
-"トローラの周辺I/Oに関して共通に必要とされる多くのトレイトを提供します。"
+"[`embedded-hal`](https://crates.io/crates/embedded-"
+"hal)クレートはマイクロコントローラの周辺I/"
+"Oに関して共通に必要とされる多くのトレイトを提供します。"
 
 #: src/bare-metal/microcontrollers/embedded-hal.md:6
 msgid "GPIO"
@@ -12502,16 +12434,14 @@ msgstr ""
 msgid ""
 "There are implementations for many microcontrollers, as well as other "
 "platforms such as Linux on Raspberry Pi."
-msgstr ""
-"多くのマイクロコントローラに対する実装に加えて、Raspberry Pi上のLinux向けの実"
-"装も存在します。"
+msgstr "多くのマイクロコントローラに対する実装に加えて、Raspberry "
+"Pi上のLinux向けの実装も存在します。"
 
 #: src/bare-metal/microcontrollers/embedded-hal.md:21
 msgid ""
 "There is work in progress on an `async` version of `embedded-hal`, but it "
 "isn't stable yet."
-msgstr ""
-"`embedded-hal`の`async`バージョンも開発中ですが、まだ安定してはいません。"
+msgstr "`embedded-hal`の`async`バージョンも開発中ですが、まだ安定してはいません。"
 
 #: src/bare-metal/microcontrollers/probe-rs.md:1
 msgid "`probe-rs`, `cargo-embed`"
@@ -12528,8 +12458,7 @@ msgstr ""
 #: src/bare-metal/microcontrollers/probe-rs.md:6
 msgid ""
 "SWD (Serial Wire Debug) and JTAG via CMSIS-DAP, ST-Link and J-Link probes"
-msgstr ""
-"SWD (Serial Wire Debug) やCMSIS-DAP経由のJTAG、 ST-LinkやJ-Linkプローブ"
+msgstr "SWD (Serial Wire Debug) やCMSIS-DAP経由のJTAG、 ST-LinkやJ-Linkプローブ"
 
 #: src/bare-metal/microcontrollers/probe-rs.md:7
 msgid "GDB stub and Microsoft DAP (Debug Adapter Protocol) server"
@@ -12547,8 +12476,8 @@ msgid ""
 msgstr ""
 "`cargo-embed`はcargoのサブコマンドであり、バイナリをビルドしたり、フラッシュ"
 "したり、RTT（Real Time Transfers）の出力ログを取得したり、GDBに接続するための"
-"ものです。設定は対象とするプロジェクトディレクトリにおける`Embed.toml`ファイ"
-"ルにより行います。"
+"ものです。設定は対象とするプロジェクトディレクトリにおける`Embed."
+"toml`ファイルにより行います。"
 
 #: src/bare-metal/microcontrollers/probe-rs.md:16
 msgid ""
@@ -12557,33 +12486,31 @@ msgid ""
 "CoreSight Debug Access Port of various Arm Cortex processors. It's what the "
 "on-board debugger on the BBC micro:bit uses."
 msgstr ""
-"[CMSIS-DAP](https://arm-software.github.io/CMSIS_5/DAP/html/index.html) はUSB"
-"上のARM標準プロトコルで、インサーキット・デバッガが様々なArm Cortexプロセッサ"
-"のコアサイト・デバッグ・アクセスポートにアクセスするためのものです。BBC "
-"micro:bit のオンボード・デバッガもこれを利用しています。"
+"[CMSIS-DAP](https://arm-software.github.io/CMSIS_5/DAP/html/index.html) "
+"はUSB上のARM標準プロトコルで、インサーキット・デバッガが様々なArm Cortexプロ"
+"セッサのコアサイト・デバッグ・アクセスポートにアクセスするためのものです。"
+"BBC micro:bit のオンボード・デバッガもこれを利用しています。"
 
 #: src/bare-metal/microcontrollers/probe-rs.md:19
 msgid ""
 "ST-Link is a range of in-circuit debuggers from ST Microelectronics, J-Link "
 "is a range from SEGGER."
 msgstr ""
-"ST-Link はST Microelectronicsによるインサーキット・デバッガの総称で、 J-Link"
-"はSEGGERによるインサーキット・デバッガの総称です。"
+"ST-Link はST Microelectronicsによるインサーキット・デバッガの総称で、 "
+"J-LinkはSEGGERによるインサーキット・デバッガの総称です。"
 
 #: src/bare-metal/microcontrollers/probe-rs.md:21
 msgid ""
 "The Debug Access Port is usually either a 5-pin JTAG interface or 2-pin "
 "Serial Wire Debug."
-msgstr ""
-"デバッグ・アクセスポートは通常５ピンのJTAGインタフェースか、2ピンのシリアルワ"
+msgstr "デバッグ・アクセスポートは通常５ピンのJTAGインタフェースか、2ピンのシリアルワ"
 "イヤデバッグです。"
 
 #: src/bare-metal/microcontrollers/probe-rs.md:22
 msgid ""
 "probe-rs is a library which you can integrate into your own tools if you "
 "want to."
-msgstr ""
-"probe-rsは自分で独自のツールを統合したい場合に利用できるライブラリです。"
+msgstr "probe-rsは自分で独自のツールを統合したい場合に利用できるライブラリです。"
 
 #: src/bare-metal/microcontrollers/probe-rs.md:23
 msgid ""
@@ -12591,9 +12518,9 @@ msgid ""
 "adapter-protocol/) lets VSCode and other IDEs debug code running on any "
 "supported microcontroller."
 msgstr ""
-"[Microsoft Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-"
-"protocol/) はVSCodeや他のIDEから、サポートされたマイクロコントローラ上で実行"
-"されているコードをデバッグすることを可能にします。"
+"[Microsoft Debug Adapter Protocol](https://microsoft.github.io/"
+"debug-adapter-protocol/) はVSCodeや他のIDEから、サポートされたマイクロコント"
+"ローラ上で実行されているコードをデバッグすることを可能にします。"
 
 #: src/bare-metal/microcontrollers/probe-rs.md:25
 msgid "cargo-embed is a binary built using the probe-rs library."
@@ -12613,9 +12540,8 @@ msgstr ""
 
 #: src/bare-metal/microcontrollers/debugging.md:13
 msgid "In one terminal under `src/bare-metal/microcontrollers/examples/`:"
-msgstr ""
-"ひとつのターミナルで、`src/bare-metal/microcontrollers/examples/`において下記"
-"を実行:"
+msgstr "ひとつのターミナルで、`src/bare-metal/microcontrollers/examples/"
+"`において下記を実行:"
 
 #: src/bare-metal/microcontrollers/debugging.md:19
 msgid "In another terminal in the same directory:"
@@ -12645,8 +12571,7 @@ msgstr "\"Real-Time Interrupt-driven Concurrency\"の略"
 #: src/bare-metal/microcontrollers/other-projects.md:5
 msgid ""
 "Shared resource management, message passing, task scheduling, timer queue"
-msgstr ""
-"共有リソース管理、メッセージパッシング、タスクスケジューリング、タイマキュー"
+msgstr "共有リソース管理、メッセージパッシング、タスクスケジューリング、タイマキュー"
 "を提供"
 
 #: src/bare-metal/microcontrollers/other-projects.md:6
@@ -12665,8 +12590,7 @@ msgstr ""
 msgid ""
 "Security-focused RTOS with preemptive scheduling and Memory Protection Unit "
 "support"
-msgstr ""
-"セキュリティに焦点をあてたRTOSで、プリエンプティブ・スケジューリングとMemory "
+msgstr "セキュリティに焦点をあてたRTOSで、プリエンプティブ・スケジューリングとMemory "
 "Protection Unitをサポート"
 
 #: src/bare-metal/microcontrollers/other-projects.md:10
@@ -12677,14 +12601,12 @@ msgstr ""
 msgid ""
 "Microkernel RTOS from Oxide Computer Company with memory protection, "
 "unprivileged drivers, IPC"
-msgstr ""
-"Oxide Computer CompanyによるマイクロカーネルのRTOSでメモリ保護、非特権ドライ"
-"バ、IPCを提供"
+msgstr "Oxide Computer "
+"CompanyによるマイクロカーネルのRTOSでメモリ保護、非特権ドライバ、IPCを提供"
 
 #: src/bare-metal/microcontrollers/other-projects.md:12
 msgid "[Bindings for FreeRTOS](https://github.com/lobaro/FreeRTOS-rust)"
-msgstr ""
-"[FreeRTOSに対するRustバインディング](https://github.com/lobaro/FreeRTOS-rust)"
+msgstr "[FreeRTOSに対するRustバインディング](https://github.com/lobaro/FreeRTOS-rust)"
 
 #: src/bare-metal/microcontrollers/other-projects.md:13
 msgid ""
@@ -12696,8 +12618,7 @@ msgstr ""
 
 #: src/bare-metal/microcontrollers/other-projects.md:18
 msgid "RTIC can be considered either an RTOS or a concurrency framework."
-msgstr ""
-"RTICはRTOSとして捉えることもできますし、並行実行のフレームワークとして捉える"
+msgstr "RTICはRTOSとして捉えることもできますし、並行実行のフレームワークとして捉える"
 "こともできます。"
 
 #: src/bare-metal/microcontrollers/other-projects.md:19
@@ -12719,24 +12640,21 @@ msgstr "Cortex-Mのみの対応です。"
 #: src/bare-metal/microcontrollers/other-projects.md:23
 msgid ""
 "Google uses TockOS on the Haven microcontroller for Titan security keys."
-msgstr ""
-"GoogleはTockOSをTitanセキュリティキーのHavenマイクロコントローラで利用してい"
+msgstr "GoogleはTockOSをTitanセキュリティキーのHavenマイクロコントローラで利用してい"
 "ます。"
 
 #: src/bare-metal/microcontrollers/other-projects.md:24
 msgid ""
 "FreeRTOS is mostly written in C, but there are Rust bindings for writing "
 "applications."
-msgstr ""
-"FreeRTOS はほとんどCで書かれていますが、アプリケーションを開発するためのRust"
+msgstr "FreeRTOS はほとんどCで書かれていますが、アプリケーションを開発するためのRust"
 "バインディングが存在します。"
 
 #: src/exercises/bare-metal/morning.md:3
 msgid ""
 "We will read the direction from an I2C compass, and log the readings to a "
 "serial port."
-msgstr ""
-"I2C接続のコンパスから方位を読み取り、その結果をシリアルポートに出力します。"
+msgstr "I2C接続のコンパスから方位を読み取り、その結果をシリアルポートに出力します。"
 
 #: src/exercises/bare-metal/compass.md:3
 msgid ""
@@ -12759,9 +12677,9 @@ msgid ""
 "org/hardware/)."
 msgstr ""
 "[`lsm303agr`](https://docs.rs/lsm303agr/latest/lsm303agr/) クレートと "
-"[`microbit-v2`](https://docs.rs/microbit-v2/latest/microbit/)クレートのドキュ"
-"メント、ならびに[micro:bitハードウェア仕様](https://tech.microbit.org/"
-"hardware/)を確認してみてください。"
+"[`microbit-v2`](https://docs.rs/microbit-v2/latest/microbit/"
+")クレートのドキュメント、ならびに[micro:bitハードウェア仕様](https://tech."
+"microbit.org/hardware/)を確認してみてください。"
 
 #: src/exercises/bare-metal/compass.md:11
 msgid ""
@@ -12797,9 +12715,8 @@ msgid ""
 "com/pdf/nRF52833_PS_v1.5.pdf) if you want, but it shouldn't be necessary for "
 "this exercise."
 msgstr ""
-"[nRF52833データシート](https://infocenter.nordicsemi.com/pdf/"
-"nRF52833_PS_v1.5.pdf)を見ることもできますが、この練習問題のためには必要ないは"
-"ずです。"
+"[nRF52833データシート](https://infocenter.nordicsemi.com/pdf/nRF52833_PS_v1.5"
+".pdf)を見ることもできますが、この練習問題のためには必要ないはずです。"
 
 #: src/exercises/bare-metal/compass.md:23
 msgid ""
@@ -15204,8 +15121,7 @@ msgstr "Rustでの並行性へようこそ"
 msgid ""
 "Rust has full support for concurrency using OS threads with mutexes and "
 "channels."
-msgstr ""
-"Rustはミューテックスとチャネルを用いてOSスレッドを扱う並行性を十分にサポート"
+msgstr "Rustはミューテックスとチャネルを用いてOSスレッドを扱う並行性を十分にサポート"
 "しています。"
 
 #: src/concurrency.md:6
@@ -15215,9 +15131,9 @@ msgid ""
 "you can rely on the compiler to ensure correctness at runtime."
 msgstr ""
 "Rustの型システムは多くの並行性にまつわるバグをコンパイル時のバグにとどめると"
-"いう点で、重要な役割を果たします。これは時に _fearless concurrency_ （「怖く"
-"ない並行性」） と呼ばれます。なぜなら、コンパイラに実行時での正しさを保証する"
-"ことをまかせてよいためです。"
+"いう点で、重要な役割を果たします。これは時に _fearless concurrency_ "
+"（「怖くない並行性」） と呼ばれます。なぜなら、コンパイラに実行時での正しさを"
+"保証することをまかせてよいためです。"
 
 #: src/concurrency/threads.md:3
 msgid "Rust threads work similarly to threads in other languages:"
@@ -15247,8 +15163,7 @@ msgstr ""
 
 #: src/concurrency/threads.md:24
 msgid "Threads are all daemon threads, the main thread does not wait for them."
-msgstr ""
-"スレッドはすべてデーモンスレッドで、メインスレッドはそれらを待ちません。"
+msgstr "スレッドはすべてデーモンスレッドで、メインスレッドはそれらを待ちません。"
 
 #: src/concurrency/threads.md:25
 msgid "Thread panics are independent of each other."
@@ -15256,16 +15171,14 @@ msgstr "スレッドパニックは互いに独立です。"
 
 #: src/concurrency/threads.md:26
 msgid "Panics can carry a payload, which can be unpacked with `downcast_ref`."
-msgstr ""
-"パニックはペイロードを保持していることがあり、それは`downcast_ref`で展開可能"
+msgstr "パニックはペイロードを保持していることがあり、それは`downcast_ref`で展開可能"
 "です。"
 
 #: src/concurrency/threads.md:32
 msgid ""
 "Notice that the thread is stopped before it reaches 10 — the main thread is "
 "not waiting."
-msgstr ""
-"スレッドはカウントが10に到達するまでに止められます。メインのスレッドは待機し"
+msgstr "スレッドはカウントが10に到達するまでに止められます。メインのスレッドは待機し"
 "ません。"
 
 #: src/concurrency/threads.md:35
@@ -15273,13 +15186,12 @@ msgid ""
 "Use `let handle = thread::spawn(...)` and later `handle.join()` to wait for "
 "the thread to finish."
 msgstr ""
-"`let handle = thread::spawn(…)`と後に`handle.join()`を使って、スレッドが完了"
-"するのを待ってみてください。"
+"`let handle = thread::spawn(…)`と後に`handle."
+"join()`を使って、スレッドが完了するのを待ってみてください。"
 
 #: src/concurrency/threads.md:38
 msgid "Trigger a panic in the thread, notice how this doesn't affect `main`."
-msgstr ""
-"スレッド内でパニックを引き起こしてみて、それがどのように`main`に影響しないか"
+msgstr "スレッド内でパニックを引き起こしてみて、それがどのように`main`に影響しないか"
 "を観察してみてください。"
 
 #: src/concurrency/threads.md:40
@@ -15289,8 +15201,8 @@ msgid ""
 "lang.org/std/any/index.html)."
 msgstr ""
 "`handle.join()`の返り値の`Result`を使って、パニックペイロードへのアクセスを得"
-"てみてください。 これは[`Any`](https://doc.rust-lang.org/std/any/index.html)"
-"について話すのに良いタイミングです。"
+"てみてください。 これは[`Any`](https://doc.rust-lang.org/std/any/index."
+"html)について話すのに良いタイミングです。"
 
 #: src/concurrency/scoped-threads.md:3
 msgid "Normal threads cannot borrow from their environment:"
@@ -15438,8 +15350,7 @@ msgstr ""
 #: src/concurrency/channels/bounded.md:3
 msgid ""
 "With bounded (synchronous) channels, `send` can block the current thread:"
-msgstr ""
-"Bounded（かつ同期的）なチャネルを用いたとき、`send`は現在のスレッドをブロック"
+msgstr "Bounded（かつ同期的）なチャネルを用いたとき、`send`は現在のスレッドをブロック"
 "することがあります："
 
 #: src/concurrency/channels/bounded.md:5
@@ -15485,8 +15396,8 @@ msgid ""
 "if the channel is closed. A channel is closed when the receiver is dropped."
 msgstr ""
 "もしもチャネルが閉じられた場合、`send`の呼び出しはエラーとともに中断します。"
-"（`send`が`Result`を返すのはこのためです。）受け取り側がドロップされたとき"
-"に、チャネルは閉じられます。"
+"（`send`が`Result`を返すのはこのためです。）受け取り側がドロップされたときに"
+"、チャネルは閉じられます。"
 
 #: src/concurrency/channels/bounded.md:33
 msgid ""
@@ -15505,8 +15416,7 @@ msgstr "`Send`と`Sync`"
 msgid ""
 "How does Rust know to forbid shared access across threads? The answer is in "
 "two traits:"
-msgstr ""
-"Rustはどのようにスレッド間での値の共有アクセスを禁止するのでしょうか？その答"
+msgstr "Rustはどのようにスレッド間での値の共有アクセスを禁止するのでしょうか？その答"
 "えとなるのが、以下の２つのトレイトです："
 
 #: src/concurrency/send-sync.md:5
@@ -15522,8 +15432,8 @@ msgid ""
 "[`Sync`](https://doc.rust-lang.org/std/marker/trait.Sync.html): a type `T` "
 "is `Sync` if it is safe to move a `&T` across a thread boundary."
 msgstr ""
-"[`Sync`](https://doc.rust-lang.org/std/marker/trait.Sync.html): スレッド境界"
-"をまたいで`&T`のムーブが安全に行える場合、型`T`は`Sync`である。"
+"[`Sync`](https://doc.rust-lang.org/std/marker/trait.Sync.html): "
+"スレッド境界をまたいで`&T`のムーブが安全に行える場合、型`T`は`Sync`である。"
 
 #: src/concurrency/send-sync.md:10
 msgid ""
@@ -15534,21 +15444,19 @@ msgid ""
 msgstr ""
 "`Send`と`Sync`は[unsafeなトレイト](../unsafe/unsafe-traits.md)です。 あなたが"
 "新たに定義する型が`Send`と`Sync`の型のみを含む場合、コンパイラはその新しい型"
-"に対して`Send`と`Sync`を自動的に導出します。そうでなくても妥当であるならば"
-"`Send`と`Sync`を自分自身で実装することもできます。"
+"に対して`Send`と`Sync`を自動的に導出します。そうでなくても妥当であるならば`Se"
+"nd`と`Sync`を自分自身で実装することもできます。"
 
 #: src/concurrency/send-sync.md:20
 msgid ""
 "One can think of these traits as markers that the type has certain thread-"
 "safety properties."
-msgstr ""
-"これらのトレイトは、ある型が特定のスレッドセーフの特性を持っていることを示す"
+msgstr "これらのトレイトは、ある型が特定のスレッドセーフの特性を持っていることを示す"
 "マーカーと考えることもできます。"
 
 #: src/concurrency/send-sync.md:21
 msgid "They can be used in the generic constraints as normal traits."
-msgstr ""
-"これらは通常のトレイトと同じように、ジェネリック境界の中で利用することができ"
+msgstr "これらは通常のトレイトと同じように、ジェネリック境界の中で利用することができ"
 "ます。"
 
 #: src/concurrency/send-sync/send.md:1
@@ -15570,15 +15478,14 @@ msgid ""
 "thread and deallocate it in another."
 msgstr ""
 "所有権を別のスレットにムーブするということは、_デストラクタ_ がそのスレッドで"
-"実行されるということです。つまり、あるスレッドでアロケートされた値を別のス"
-"レッドで解放しても良いかというのが判断基準になります。"
+"実行されるということです。つまり、あるスレッドでアロケートされた値を別のスレ"
+"ッドで解放しても良いかというのが判断基準になります。"
 
 #: src/concurrency/send-sync/send.md:13
 msgid ""
 "As an example, a connection to the SQLite library must only be accessed from "
 "a single thread."
-msgstr ""
-"例を挙げると、SQLiteライブラリへのコネクションは、一つのスレッドからのみアク"
+msgstr "例を挙げると、SQLiteライブラリへのコネクションは、一つのスレッドからのみアク"
 "セスされる必要があります。"
 
 #: src/concurrency/send-sync/sync.md:1
@@ -15590,8 +15497,8 @@ msgid ""
 "A type `T` is [`Sync`](https://doc.rust-lang.org/std/marker/trait.Sync.html) "
 "if it is safe to access a `T` value from multiple threads at the same time."
 msgstr ""
-"型`T`の値を複数のスレッドから同時にアクセスしても安全な場合、型`T`は [`Sync`]"
-"(https://doc.rust-lang.org/std/marker/trait.Sync.html) である。"
+"型`T`の値を複数のスレッドから同時にアクセスしても安全な場合、型`T`は "
+"[`Sync`](https://doc.rust-lang.org/std/marker/trait.Sync.html) である。"
 
 #: src/concurrency/send-sync/sync.md:6
 msgid "More precisely, the definition is:"
@@ -15621,8 +15528,8 @@ msgstr ""
 "なぜなら、ある型がSyncである場合、データ競合や他の同期の問題などのリスクなし"
 "にその型を複数のスレッド間で共有でき、その型を別のスレッドにムーブしても安全"
 "だからです。また、型への参照は別のスレッドにムーブしても安全です。それは、そ"
-"れが参照するデータは任意のスレッドから安全にアクセスすることができるからで"
-"す。"
+"れが参照するデータは任意のスレッドから安全にアクセスすることができるからです"
+"。"
 
 #: src/concurrency/send-sync/examples.md:3
 msgid "`Send + Sync`"
@@ -15660,9 +15567,8 @@ msgstr "`AtomicBool`, `AtomicU8`, …: 特別なアトミック命令を利用�
 msgid ""
 "The generic types are typically `Send + Sync` when the type parameters are "
 "`Send + Sync`."
-msgstr ""
-"ジェネリクスは、型パラメタが`Send + Sync`であるとき、通常は`Send + Sync`で"
-"す。"
+msgstr "ジェネリクスは、型パラメタが`Send + Sync`であるとき、通常は`Send + "
+"Sync`です。"
 
 #: src/concurrency/send-sync/examples.md:17
 msgid "`Send + !Sync`"
@@ -15672,9 +15578,8 @@ msgstr ""
 msgid ""
 "These types can be moved to other threads, but they're not thread-safe. "
 "Typically because of interior mutability:"
-msgstr ""
-"これらの型は別のスレッドにムーブすることができますが、このようなムーブはス"
-"レッドセーフではありません。通常は内部可変性がその原因です："
+msgstr "これらの型は別のスレッドにムーブすることができますが、このようなムーブはスレ"
+"ッドセーフではありません。通常は内部可変性がその原因です："
 
 #: src/concurrency/send-sync/examples.md:22
 msgid "`mpsc::Sender<T>`"
@@ -15699,9 +15604,8 @@ msgstr ""
 #: src/concurrency/send-sync/examples.md:29
 msgid ""
 "These types are thread-safe, but they cannot be moved to another thread:"
-msgstr ""
-"このような型はスレッドセーフですが、別のスレッドにムーブすることはできませ"
-"ん："
+msgstr "このような型はスレッドセーフですが、別のスレッドにムーブすることはできません"
+"："
 
 #: src/concurrency/send-sync/examples.md:31
 #, fuzzy
@@ -15718,8 +15622,7 @@ msgstr ""
 
 #: src/concurrency/send-sync/examples.md:36
 msgid "These types are not thread-safe and cannot be moved to other threads:"
-msgstr ""
-"このような型はスレッドセーフではないため、別のスレッドにムーブすることはでき"
+msgstr "このような型はスレッドセーフではないため、別のスレッドにムーブすることはでき"
 "ません："
 
 #: src/concurrency/send-sync/examples.md:38
@@ -16241,8 +16144,8 @@ msgstr ""
 "ロックされるまで実行され、そして次に進むことのできる他のタスクに切り替えるこ"
 "とにより実現されます。このモデルは限られた数のスレッド上でより多くのタスクを"
 "実行することを可能にします。なぜなら、タスクごとのオーバーヘッドは通常はとて"
-"も低く、効率的に実行可能なI/Oを特定するために必要なプリミティブをOSが提供して"
-"くれるからです。"
+"も低く、効率的に実行可能なI/"
+"Oを特定するために必要なプリミティブをOSが提供してくれるからです。"
 
 #: src/async.md:10
 msgid ""
@@ -16258,8 +16161,7 @@ msgstr ""
 msgid ""
 "Futures are polled by an async runtime, and several different runtimes are "
 "available."
-msgstr ""
-"Futureは非同期的なランタイムによりポーリングされます。ランタイムにはいくつか"
+msgstr "Futureは非同期的なランタイムによりポーリングされます。ランタイムにはいくつか"
 "の選択肢があります。"
 
 #: src/async.md:17
@@ -16283,9 +16185,9 @@ msgid ""
 "runtime implements the event loop, so many of the details of Promise "
 "resolution are hidden."
 msgstr ""
-"JavaScriptの`Promise`は似ているものの、これもまたもやコールバックに基づきま"
-"す。 この言語のランタイムはイベントループにより実装されているため、多くの"
-"Promise解決の詳細は隠されています。"
+"JavaScriptの`Promise`は似ているものの、これもまたもやコールバックに基づきます"
+"。 この言語のランタイムはイベントループにより実装されているため、多くのPromis"
+"e解決の詳細は隠されています。"
 
 #: src/async/async-await.md:1
 msgid "`async`/`await`"
@@ -16295,8 +16197,7 @@ msgstr "`async`/`await`"
 msgid ""
 "At a high level, async Rust code looks very much like \"normal\" sequential "
 "code:"
-msgstr ""
-"おおまかには、Rustの非同期コードはほとんど「通常の」逐次的なコードのように見"
+msgstr "おおまかには、Rustの非同期コードはほとんど「通常の」逐次的なコードのように見"
 "えます:"
 
 #: src/async/async-await.md:5
@@ -16324,8 +16225,7 @@ msgstr ""
 msgid ""
 "Note that this is a simplified example to show the syntax. There is no long "
 "running operation or any real concurrency in it!"
-msgstr ""
-"これは構文を示すための単純化された例であることに注意してください。長く実行さ"
+msgstr "これは構文を示すための単純化された例であることに注意してください。長く実行さ"
 "れうる操作や本物の並行処理はここには含まれません。"
 
 #: src/async/async-await.md:30
@@ -16334,16 +16234,14 @@ msgstr "非同期の呼び出しの返り値の型は？"
 
 #: src/async/async-await.md:31
 msgid "Use `let future: () = async_main(10);` in `main` to see the type."
-msgstr ""
-"型を知るために`main`で`let future: () = async_main(10);`を使ってみてくださ"
-"い。"
+msgstr "型を知るために`main`で`let future: () = "
+"async_main(10);`を使ってみてください。"
 
 #: src/async/async-await.md:33
 msgid ""
 "The \"async\" keyword is syntactic sugar. The compiler replaces the return "
 "type with a future. "
-msgstr ""
-"「async」キーワードは糖衣構文です。コンパイラは返り値をfutureに置き換えます。"
+msgstr "「async」キーワードは糖衣構文です。コンパイラは返り値をfutureに置き換えます。"
 
 #: src/async/async-await.md:36
 msgid ""
@@ -16365,16 +16263,14 @@ msgstr ""
 msgid ""
 "`.await` asynchronously waits for the completion of another operation. "
 "Unlike `block_on`, `.await` doesn't block the current thread."
-msgstr ""
-"`.await`は非同期的に他の操作の完了を待ちます。`block_on`とは異なり、`.await`"
-"は現在のスレッドをブロックしません。"
+msgstr "`.await`は非同期的に他の操作の完了を待ちます。`block_on`とは異なり、`."
+"await`は現在のスレッドをブロックしません。"
 
 #: src/async/async-await.md:45
 msgid ""
 "`.await` can only be used inside an `async` function (or block; these are "
 "introduced later). "
-msgstr ""
-"`.await`はasync関数(またはasync ブロック)の中でのみ利用できます。(async関数・"
+msgstr "`.await`はasync関数(またはasync ブロック)の中でのみ利用できます。(async関数・"
 "ブロックについては後ほど紹介します。)"
 
 #: src/async/futures.md:3
@@ -16398,8 +16294,8 @@ msgid ""
 msgstr ""
 "非同期の関数は`impl Future`を返します。自分で定義した型に対して`Future`を実装"
 "することも（あまりないことですが）可能です。例えば、`tokio::spawn`から返され"
-"る`JoinHandle`は`Future`を実装することにより、joinすることを可能にしていま"
-"す。"
+"る`JoinHandle`は`Future`を実装することにより、joinすることを可能にしています"
+"。"
 
 #: src/async/futures.md:27
 msgid ""
@@ -16413,9 +16309,8 @@ msgstr ""
 msgid ""
 "The `Future` and `Poll` types are implemented exactly as shown; click the "
 "links to show the implementations in the docs."
-msgstr ""
-"`Future`と`Poll`の型はまさに示されたように実装されます; ドキュメントの具体的"
-"な実装を見るにはリンクをクリックしてください。"
+msgstr "`Future`と`Poll`の型はまさに示されたように実装されます; "
+"ドキュメントの具体的な実装を見るにはリンクをクリックしてください。"
 
 #: src/async/futures.md:35
 msgid ""
@@ -16430,8 +16325,7 @@ msgstr ""
 msgid ""
 "`Context` allows a Future to schedule itself to be polled again when an "
 "event occurs."
-msgstr ""
-"`Context`は、特定のイベントが発生した時に、Futureが自分自身を再びポーリングさ"
+msgstr "`Context`は、特定のイベントが発生した時に、Futureが自分自身を再びポーリングさ"
 "れるようにスケジュールすることを可能にします。"
 
 #: src/async/futures.md:41
@@ -16441,8 +16335,8 @@ msgid ""
 "valid after an `.await`."
 msgstr ""
 "`Pin`はfutureへのポインタが有効であり続けるために、Futureがメモリの中で移動さ"
-"れないことを確実にします。これは、参照が`.await`の後に有効であり続けるために"
-"必要です。"
+"れないことを確実にします。これは、参照が`."
+"await`の後に有効であり続けるために必要です。"
 
 #: src/async/runtimes.md:3
 msgid ""
@@ -16461,9 +16355,10 @@ msgid ""
 "functionality like [Hyper](https://hyper.rs/) for HTTP or [Tonic](https://"
 "github.com/hyperium/tonic) for gRPC."
 msgstr ""
-"[Tokio](https://tokio.rs/) - パフォーマンスが高い。HTTP向けの[Hyper](https://"
-"hyper.rs/)やgRPC向けの[Tonic](https://github.com/hyperium/tonic)のような発達"
-"したエコシステムも持っている"
+"[Tokio](https://tokio.rs/) - "
+"パフォーマンスが高い。HTTP向けの[Hyper](https://hyper.rs/"
+")やgRPC向けの[Tonic](https://github.com/hyperium/"
+"tonic)のような発達したエコシステムも持っている"
 
 #: src/async/runtimes.md:10
 #, fuzzy
@@ -16497,8 +16392,8 @@ msgid ""
 msgstr ""
 "上で挙げられたランタイムのうち、TokioのみがRustプレイグラウンドでサポートされ"
 "ています。このプレイグラウンドではいかなる入出力操作も許可されていないため、"
-"大抵の興味深い非同期のあれこれは、プレイグラウンドで実行することはできませ"
-"ん。"
+"大抵の興味深い非同期のあれこれは、プレイグラウンドで実行することはできません"
+"。"
 
 #: src/async/runtimes.md:24
 msgid ""
@@ -16561,9 +16456,8 @@ msgstr "`spawn`関数は新しい並行の「タスク」を作成します。"
 
 #: src/async/runtimes/tokio.md:37
 msgid "Note: `spawn` takes a `Future`, you don't call `.await` on `count_to`."
-msgstr ""
-"注意：`spawn`は`Future`を引数に取るため、`count_to`に対して`.await`を呼ぶこと"
-"はありません。"
+msgstr "注意：`spawn`は`Future`を引数に取るため、`count_to`に対して`."
+"await`を呼ぶことはありません。"
 
 #: src/async/runtimes/tokio.md:39
 msgid "**Further exploration:**"
@@ -16576,13 +16470,12 @@ msgid ""
 "until it finishes."
 msgstr ""
 "どうして`count_to`は（通常は）10に辿り着かないのでしょうか？これは非同期処理"
-"のキャンセルの例です。 `tokio::spawn`は完了まで待機するためのハンドラを返しま"
-"す。"
+"のキャンセルの例です。 "
+"`tokio::spawn`は完了まで待機するためのハンドラを返します。"
 
 #: src/async/runtimes/tokio.md:45
 msgid "Try `count_to(10).await` instead of spawning."
-msgstr ""
-"プロセスを新しく作る代わりに、`count_to(10).await`を試してみてください。"
+msgstr "プロセスを新しく作る代わりに、`count_to(10).await`を試してみてください。"
 
 #: src/async/runtimes/tokio.md:47
 msgid "Try awaiting the task returned from `tokio::spawn`."
@@ -16654,8 +16547,7 @@ msgstr ""
 #: src/async/tasks.md:52 src/async/control-flow/join.md:36
 msgid ""
 "Copy this example into your prepared `src/main.rs` and run it from there."
-msgstr ""
-"この例を準備した`src/main.rs`にコピーして、そこから実行してみましょう。"
+msgstr "この例を準備した`src/main.rs`にコピーして、そこから実行してみましょう。"
 
 #: src/async/tasks.md:54
 msgid ""
@@ -16673,23 +16565,21 @@ msgid ""
 "similar to an `async fn`. "
 msgstr ""
 "私たちが`async`ブロックを見かけるのは初めてですね。これはクロージャと似ていま"
-"すが、何も引数は取りません。この返り値はFutureであり、`async fn`と似ていま"
-"す。"
+"すが、何も引数は取りません。この返り値はFutureであり、`async "
+"fn`と似ています。"
 
 #: src/async/tasks.md:61
 msgid ""
 "Refactor the async block into a function, and improve the error handling "
 "using `?`."
-msgstr ""
-"mainのasyncブロックを関数にリファクタして、`?`を使ったエラーハンドリングを改"
+msgstr "mainのasyncブロックを関数にリファクタして、`?`を使ったエラーハンドリングを改"
 "善してみましょう。"
 
 #: src/async/channels.md:3
 #, fuzzy
 msgid ""
 "Several crates have support for asynchronous channels. For instance `tokio`:"
-msgstr ""
-"いくつかのクレートは`async`/`await`をサポートしています。例えば、`tokio`チャ"
+msgstr "いくつかのクレートは`async`/`await`をサポートしています。例えば、`tokio`チャ"
 "ネルは:"
 
 #: src/async/channels.md:5
@@ -16726,22 +16616,20 @@ msgstr ""
 
 #: src/async/channels.md:35
 msgid "Change the channel size to `3` and see how it affects the execution."
-msgstr ""
-"チャネルサイズを `3`に変えてみて、これがどのように処理に影響するか確認してみ"
-"ましょう。"
+msgstr "チャネルサイズを "
+"`3`に変えてみて、これがどのように処理に影響するか確認してみましょう。"
 
 #: src/async/channels.md:37
 msgid ""
 "Overall, the interface is similar to the `sync` channels as seen in the "
 "[morning class](concurrency/channels.md)."
 msgstr ""
-"一般的に、このインターフェースは、[朝の講座](concurrency/channels.md)で見られ"
-"たような`sync`チャネルに似ています。"
+"一般的に、このインターフェースは、[朝の講座](concurrency/channels."
+"md)で見られたような`sync`チャネルに似ています。"
 
 #: src/async/channels.md:40
 msgid "Try removing the `std::mem::drop` call. What happens? Why?"
-msgstr ""
-"`std::mem::drop`の呼び出しを除いてみましょう。何か起こるでしょうか？それはな"
+msgstr "`std::mem::drop`の呼び出しを除いてみましょう。何か起こるでしょうか？それはな"
 "ぜでしょうか？"
 
 #: src/async/channels.md:42
@@ -16750,9 +16638,9 @@ msgid ""
 "implement both `sync` and `async` `send` and `recv`. This can be convenient "
 "for complex applications with both IO and heavy CPU processing tasks."
 msgstr ""
-"[Flume](https://docs.rs/flume/latest/flume/)クレートには`sync`と`async`や"
-"`send`と`recv`の両方を実装するチャネルがあります。 これは入出力と重いCPUの処"
-"理のタスクの両方を含む、複雑なアプリケーションで便利です。"
+"[Flume](https://docs.rs/flume/latest/flume/)クレートには`sync`と`async`や`sen"
+"d`と`recv`の両方を実装するチャネルがあります。 これは入出力と重いCPUの処理の"
+"タスクの両方を含む、複雑なアプリケーションで便利です。"
 
 #: src/async/channels.md:46
 msgid ""
@@ -16772,8 +16660,7 @@ msgid ""
 "Futures can be combined together to produce concurrent compute flow graphs. "
 "We have already seen tasks, that function as independent threads of "
 "execution."
-msgstr ""
-"並行計算フローグラフを生成するために、futureを組み合わせることができます。す"
+msgstr "並行計算フローグラフを生成するために、futureを組み合わせることができます。す"
 "でに独立したスレッドとして機能するタスクを見てきました。"
 
 #: src/async/control-flow.md:6
@@ -16839,9 +16726,8 @@ msgstr ""
 msgid ""
 "The risk of `join` is that one of the futures may never resolve, this would "
 "cause your program to stall. "
-msgstr ""
-"`join`のリスクは、複数のfutureのうちの１つでも解決されないとプログラムがス"
-"トールしてしまうということです。 "
+msgstr "`join`のリスクは、複数のfutureのうちの１つでも解決されないとプログラムがスト"
+"ールしてしまうということです。 "
 
 #: src/async/control-flow/join.md:45
 msgid ""
@@ -16851,11 +16737,11 @@ msgid ""
 "timeout (that requires `select!`, explained in the next chapter), but "
 "demonstrates `join!`."
 msgstr ""
-"また、`join_all`と`join!`を組み合わせることもできます。それは、例えばデータ"
-"ベースのクエリと一緒にhttpサービスへの全てのリクエストをjoinする場合です。"
-"futureに`futures::join!`を用いて、`tokio::time::sleep`を追加してみてくださ"
-"い。これは（次のチャプターで説明する、`select!`を必要とする）タイムアウトでは"
-"ありませんが、`join!`の良い実演となっています。"
+"また、`join_all`と`join!`を組み合わせることもできます。それは、例えばデータベ"
+"ースのクエリと一緒にhttpサービスへの全てのリクエストをjoinする場合です。futur"
+"eに`futures::join!`を用いて、`tokio::time::sleep`を追加してみてください。これ"
+"は（次のチャプターで説明する、`select!`を必要とする）タイムアウトではありませ"
+"んが、`join!`の良い実演となっています。"
 
 #: src/async/control-flow/select.md:3
 msgid ""
@@ -16864,9 +16750,9 @@ msgid ""
 "race`. In Python, it compares to `asyncio.wait(task_set, return_when=asyncio."
 "FIRST_COMPLETED)`."
 msgstr ""
-"Selectという操作では、futureの集合のうち、いずれか１つの準備が整うまで待機"
-"し、そのfutureが提供する結果に対して応答します。これはJavaScriptにおける"
-"`Promise.race`に似ています。また、Pythonにおける `asyncio.wait(task_set, "
+"Selectという操作では、futureの集合のうち、いずれか１つの準備が整うまで待機し"
+"、そのfutureが提供する結果に対して応答します。これはJavaScriptにおける`Promis"
+"e.race`に似ています。また、Pythonにおける `asyncio.wait(task_set, "
 "return_when=asyncio.FIRST_COMPLETED)`と比べることができます。"
 
 #: src/async/control-flow/select.md:8
@@ -16876,10 +16762,10 @@ msgid ""
 "ready, the `statement` is executed with the variables in `pattern` bound to "
 "the `future`'s result."
 msgstr ""
-"Matchステートメントのように、`select!`の本体にはいくつかの 「腕」があり、それ"
-"ぞれは`pattern = future => statement`の形をとっています。 `future`の準備が"
-"整った時、その`statement`は`future`の結果に紐づく`pattern`の変数を用いて実行"
-"されます。"
+"Matchステートメントのように、`select!`の本体にはいくつかの "
+"「腕」があり、それぞれは`pattern = future => statement`の形をとっています。 `"
+"future`の準備が整った時、その`statement`は`future`の結果に紐づく`pattern`の変"
+"数を用いて実行されます。"
 
 #: src/async/control-flow/select.md:13
 msgid ""
@@ -16940,23 +16826,21 @@ msgid ""
 "that take 500ms."
 msgstr ""
 "この例では、猫と犬のレースを扱っています。`first_animal_to_finish_race`は両方"
-"のチャネルをリッスンし、先に到着した方を選びます。犬は到着まで50msかかるの"
-"で、500msかかる猫に勝ちます。"
+"のチャネルをリッスンし、先に到着した方を選びます。犬は到着まで50msかかるので"
+"、500msかかる猫に勝ちます。"
 
 #: src/async/control-flow/select.md:67
 msgid ""
 "You can use `oneshot` channels in this example as the channels are supposed "
 "to receive only one `send`."
-msgstr ""
-"この例では`oneshot`チャネルを使うこともできます。なぜなら、チャネルは一回きり"
+msgstr "この例では`oneshot`チャネルを使うこともできます。なぜなら、チャネルは一回きり"
 "の`send`を受け取ることになっているからです。"
 
 #: src/async/control-flow/select.md:70
 msgid ""
 "Try adding a deadline to the race, demonstrating selecting different sorts "
 "of futures."
-msgstr ""
-"レースに制限時間を追加することによって、違う種類のfutureをselectすることを実"
+msgstr "レースに制限時間を追加することによって、違う種類のfutureをselectすることを実"
 "演してみてください。"
 
 #: src/async/control-flow/select.md:73
